@@ -7,7 +7,7 @@ module Eventbrite
           @client          = client
           @model_name      = model_name || 'Base'
           
-          @links = nil
+          @pagination = nil
         end
 
         def model_route
@@ -24,6 +24,22 @@ module Eventbrite
 
         def save(object)
           new_record?(object) ? create(object) : update(object)
+        end
+
+        def all(opts)
+          all_pages = get(opts)
+          while @pagination && @pagination['page_number'] < @pagination['page_count']
+            all_pages.deep_merge!(next_page(opts))
+          end
+          all_pages
+        end
+
+        def next_page(opts = nil)
+          get(opts.merge('page'=>@pagination['page_number']+1))
+        end
+
+        def previous_page(opts = nil)
+          get(opts.merge('page'=>@pagination['page_number']-1))
         end
 
 protected
@@ -60,13 +76,14 @@ protected
           opts.each do |k,v|
             url = "https://www.eventbriteapi.com/v3/#{model_route}".gsub(":#{k}", v)
           end if opts
+          url = "#{url}?page=#{opts['page']}" if opts['page']
           url
         end
         
         def perform_request(url)
           response = @client.connection.get(url, {:headers => @client.headers})
           hash = JSON.parse(response.body)
-          @links = hash['_links']
+          @pagination = hash['pagination']
           hash
         end
       end
