@@ -1,0 +1,13 @@
+{
+    "emails":[
+        {
+            "email":"it@maestrano.com",
+            "verified":false,
+            "primary":true
+        }
+    ],
+    "id":"133925426255",
+    "name":"Bruno Chauvet",
+    "first_name":"Bruno",
+    "last_name":"Chauvet"
+}

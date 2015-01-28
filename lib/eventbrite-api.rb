@@ -1,0 +1,6 @@
+require 'eventbrite/api/helper.rb'
+require 'eventbrite/api/client.rb'
+require 'eventbrite/api/model/base.rb'
+require 'eventbrite/api/model/user.rb'
+require 'eventbrite/api/model/owned_event.rb'
+require 'eventbrite/api/model/owned_event_attendee.rb'
