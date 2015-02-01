@@ -12,6 +12,7 @@ module Eventbrite
         model :User
         model :OwnedEvent
         model :OwnedEventAttendee
+        model :OwnedEventOrder
 
         @redirect_uri         = options[:redirect_uri]
         @consumer             = options[:consumer]
