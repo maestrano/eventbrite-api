@@ -10,6 +10,9 @@ module Eventbrite
 
       def initialize(options)
         model :User
+        model :Venue
+        model :Organizer
+        model :Order
         model :OwnedEvent
         model :OwnedEventAttendee
         model :OwnedEventOrder
