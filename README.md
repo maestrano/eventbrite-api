@@ -130,10 +130,27 @@ Search events
   filtered_events = api_client.event.search({params: {q: 'sandwich'}})
 ```
 
+Create event
+```ruby
+  event = api_client.event.create({'name' => 'My Event', ...})
+```
+
 Publish/Unpublish events
 ```ruby
   response = api_client.event.publish('13270934723')
   response = api_client.event.unpublish('13270934723')
+```
+
+#### Event ticket class
+
+Create an event ticket class for event '123'
+```ruby
+  event = api_client.event_ticket_class.create({'name' => 'My Ticket', ...}, {event_id: '123'})
+```
+
+Update event ticket class '456' for event '123'
+```ruby
+  event = api_client.event_ticket_class.update('456', {'name' => 'My Ticket', ...}, {event_id: '123'})
 ```
 
 #### Owned Events
