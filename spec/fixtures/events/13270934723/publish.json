@@ -1,0 +1,129 @@
+{
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/13270934723/",
+    "name": {
+        "text": "2015 Northwest Flower & Garden Show",
+        "html": "2015 Northwest Flower & Garden Show"
+    },
+    "description": {
+        "text": "The Northwest Flower & Garden Show is not just a bunch of pretty flowers. It’s the best annual event for gardeners to gather ideas and inspiration to help them create gracious outdoor living spaces just right for the entire family.  \nOn six acres of dazzling beauty, our Display Gardens are the heart and soul of the show, featuring fully landscaped gardens showcasing the most up-to-date design trends from the region’s top designers. Whether you garden on an acre or a small balcony, you’ll take home hundreds of ideas from the show that will perfectly fit your garden. \nOur Marketplace is a shopping destination, with 350 exhibitors offering practical garden gear and unique nature-inspired art, plus loads of cool plants ready for your garden. These mini-stores have been hand-picked to represent the very best in gardening products. \nThe show is known for its outstanding educational programs – over 100 in all, all free – featuring gardening luminaries from around the US, sharing the latest trends and information with both stunning visuals and practical DIY tops. \nChildren and parents both enjoy the fun activities and interactive learning of the PlayGarden, along with lively musical entertainment to get kids singing and dancing. There’s even a Treasure Hunt! \nAs the 2nd largest garden show in the U.S., the Northwest Flower & Garden Show receives countless accolades from both seasoned gardeners and those just starting to dig in the dirt. It's a true gardener's garden show. Join us as we celebrate our 27th anniversary with “Romance Blossoms.”",
+        "html": "<P>The <STRONG>Northwest Flower &amp; Garden Show</STRONG> is not just a bunch of pretty flowers. It’s the best annual event for gardeners to gather ideas and inspiration to help them create gracious outdoor living spaces just right for the entire family. </P>\r\n<P>On six acres of dazzling beauty, our Display Gardens are the heart and soul of the show, featuring fully landscaped gardens showcasing the most up-to-date design trends from the region’s top designers. Whether you garden on an acre or a small balcony, you’ll take home hundreds of ideas from the show that will perfectly fit your garden.</P>\r\n<P>Our Marketplace is a shopping destination, with 350 exhibitors offering practical garden gear and unique nature-inspired art, plus loads of cool plants ready for your garden. These mini-stores have been hand-picked to represent the very best in gardening products.</P>\r\n<P>The show is known for its outstanding educational programs – over 100 in all, all free – featuring gardening luminaries from around the US, sharing the latest trends and information with both stunning visuals and practical DIY tops.</P>\r\n<P>Children and parents both enjoy the fun activities and interactive learning of the PlayGarden, along with lively musical entertainment to get kids singing and dancing. There’s even a Treasure Hunt!</P>\r\n<P>As the 2nd largest garden show in the U.S., the Northwest Flower &amp; Garden Show receives countless accolades from both seasoned gardeners and those just starting to dig in the dirt. It's a true gardener's garden show. Join us as we celebrate our 27th anniversary with <STRONG>“Romance Blossoms.”</STRONG></P>"
+    },
+    "logo": {
+        "id": "8293151",
+        "url": "http://cdn.evbuc.com/images/8293151/17013241839/1/logo.jpg"
+    },
+    "id": "13270934723",
+    "url": "http://www.eventbrite.com/e/2015-northwest-flower-garden-show-tickets-13270934723?aff=ebapi",
+    "logo_url": "http://cdn.evbuc.com/images/8293151/17013241839/1/logo.jpg",
+    "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2015-02-11T09:00:00",
+        "utc": "2015-02-11T17:00:00Z"
+    },
+    "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2015-02-15T18:00:00",
+        "utc": "2015-02-16T02:00:00Z"
+    },
+    "created": "2014-09-22T21:41:16Z",
+    "changed": "2015-02-20T11:24:08Z",
+    "capacity": null,
+    "status": "live",
+    "currency": null,
+    "online_event": null,
+    "organizer_id": "2851933763",
+    "venue_id": "2559073",
+    "category_id": "199",
+    "subcategory_id": null,
+    "format_id": "3",
+    "organizer": {
+        "description": null,
+        "logo": null,
+        "resource_uri": "https://www.eventbriteapi.com/v3/organizers/2851933763/",
+        "id": "2851933763",
+        "name": "Northwest Flower & Garden Show",
+        "url": "http://www.eventbrite.com/o/northwest-flower-amp-garden-show-2851933763",
+        "num_past_events": 4,
+        "num_future_events": 0
+    },
+    "venue": {
+        "address": {
+            "address_1": "800 Convention Place",
+            "address_2": null,
+            "city": "Seattle",
+            "region": "WA",
+            "postal_code": "98101",
+            "country": "US",
+            "latitude": "47.611389",
+            "longitude": "-122.33168"
+        },
+        "resource_uri": "https://www.eventbriteapi.com/v3/venues/2559073/",
+        "id": "2559073",
+        "name": "Washington State Convention Center",
+        "latitude": "47.611389",
+        "longitude": "-122.33168"
+    },
+    "category": {
+        "resource_uri": "https://www.eventbriteapi.com/v3/categories/199/",
+        "id": "199",
+        "name": "Other",
+        "name_localized": "Other",
+        "short_name": "Other",
+        "short_name_localized": "Other"
+    },
+    "subcategory": null,
+    "format": {
+        "resource_uri": "https://www.eventbriteapi.com/v3/formats/3/",
+        "id": "3",
+        "name": "Tradeshow, Consumer Show, or Expo",
+        "name_localized": "Tradeshow, Consumer Show, or Expo",
+        "short_name": "Expo",
+        "short_name_localized": "Expo"
+    },
+    "ticket_classes": [
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/13270934723/ticket_classes/29007729/",
+            "id": "29007729",
+            "name": "Group",
+            "description": "**GROUP TICKETS ARE NOT DATE SPECIFIC. VALID ANY ONE DAY OF THE EVENT.** Valid for one adult any one day of the show. This ticket type can only be purchased online, or at the Convention Center during the days of the event. Only available for groups of 20 or more. All ticket sales are final. No refunds or exchanges will be given due to weather, parking issues, illness or travel changes.",
+            "cost": {
+                "currency": "USD",
+                "display": "$15.00",
+                "value": 1500
+            },
+            "fee": {
+                "currency": "USD",
+                "display": "$0.99",
+                "value": 99
+            },
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 20,
+            "maximum_quantity": 200,
+            "variants": [],
+            "event_id": "13270934723"
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/13270934723/ticket_classes/29007727/",
+            "id": "29007727",
+            "name": "Youth",
+            "description": "**YOUTH TICKETS ARE NOT DATE SPECIFIC. VALID ANY ONE DAY OF THE EVENT.** Valid for youth ages 13 - 17 years. Children 12 and under are admitted into the show for free. Valid for one youth any one day of the show. This ticket can be purchased either online, at a local retailer (locations will be posted in December 2014) or at the Convention Center any day of the event. All ticket sales are final. No refunds or exchanges will be given due to weather, parking issues, illness or travel changes.",
+            "cost": {
+                "currency": "USD",
+                "display": "$5.00",
+                "value": 500
+            },
+            "fee": {
+                "currency": "USD",
+                "display": "$0.99",
+                "value": 99
+            },
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 100,
+            "variants": [],
+            "event_id": "13270934723"
+        }
+    ]
+}

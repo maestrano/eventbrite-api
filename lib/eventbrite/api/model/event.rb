@@ -9,6 +9,14 @@ module Eventbrite
         def search(opts={})
           self.get(opts, 'search')
         end
+
+        def publish(id)
+          self.update("#{id}/publish", {}, {})
+        end
+
+        def unpublish(id)
+          self.update("#{id}/unpublish", {}, {})
+        end
       end
     end
   end
