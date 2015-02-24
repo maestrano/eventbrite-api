@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib"]
   s.authors = ["BrunoChauvet"]
-  s.date = "2015-01-28"
+  s.date = "2015-02-24"
   s.description = "Integrate with Eventbrite API"
   s.email = "it@maestrano.com"
   s.extra_rdoc_files = [
@@ -34,14 +34,31 @@ Gem::Specification.new do |s|
     "lib/eventbrite/api/client.rb",
     "lib/eventbrite/api/helper.rb",
     "lib/eventbrite/api/model/base.rb",
+    "lib/eventbrite/api/model/event.rb",
+    "lib/eventbrite/api/model/event_ticket_class.rb",
+    "lib/eventbrite/api/model/order.rb",
+    "lib/eventbrite/api/model/organizer.rb",
     "lib/eventbrite/api/model/owned_event.rb",
     "lib/eventbrite/api/model/owned_event_attendee.rb",
+    "lib/eventbrite/api/model/owned_event_order.rb",
     "lib/eventbrite/api/model/user.rb",
+    "lib/eventbrite/api/model/user_order.rb",
+    "lib/eventbrite/api/model/user_organizer.rb",
+    "lib/eventbrite/api/model/user_venue.rb",
+    "lib/eventbrite/api/model/venue.rb",
     "spec/eventbrite/api/client_spec.rb",
     "spec/eventbrite/api/model/base_spec.rb",
+    "spec/eventbrite/api/model/event_spec.rb",
     "spec/eventbrite/api/model/owned_event_attendee_spec.rb",
+    "spec/eventbrite/api/model/owned_event_order_spec.rb",
     "spec/eventbrite/api/model/owned_event_spec.rb",
+    "spec/fixtures/events/13270934723/publish.json",
+    "spec/fixtures/events/13270934723/unpublish.json",
+    "spec/fixtures/events_page1.json",
+    "spec/fixtures/events_page2.json",
+    "spec/fixtures/events_page3.json",
     "spec/fixtures/users/133925426255/owned_event_attendees.json",
+    "spec/fixtures/users/133925426255/owned_event_orders.json",
     "spec/fixtures/users/133925426255/owned_events.json",
     "spec/fixtures/users/me.json",
     "spec/spec_helper.rb"
