@@ -1,9 +1,9 @@
 module Eventbrite
   module Api
     module Model
-      class Order < Base
+      class EventTicketClass < Base
       	def model_route
-          'orders'
+          'events/:event_id/ticket_classes'
         end
       end
     end

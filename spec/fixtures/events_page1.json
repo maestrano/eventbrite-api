@@ -1,0 +1,2405 @@
+{
+    "pagination":{
+        "object_count":30,
+        "page_number":1,
+        "page_size":10,
+        "page_count":3
+    },
+    "events":[
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/13270934723/",
+            "name":{
+                "text":"2015 Northwest Flower & Garden Show",
+                "html":"2015 Northwest Flower & Garden Show"
+            },
+            "description":{
+                "text":"The Northwest Flower & Garden Show is not just a bunch of pretty flowers. It’s the best annual event for gardeners to gather ideas and inspiration to help them create gracious outdoor living spaces just right for the entire family.  \nOn six acres of dazzling beauty, our Display Gardens are the heart and soul of the show, featuring fully landscaped gardens showcasing the most up-to-date design trends from the region’s top designers. Whether you garden on an acre or a small balcony, you’ll take home hundreds of ideas from the show that will perfectly fit your garden. \nOur Marketplace is a shopping destination, with 350 exhibitors offering practical garden gear and unique nature-inspired art, plus loads of cool plants ready for your garden. These mini-stores have been hand-picked to represent the very best in gardening products. \nThe show is known for its outstanding educational programs – over 100 in all, all free – featuring gardening luminaries from around the US, sharing the latest trends and information with both stunning visuals and practical DIY tops. \nChildren and parents both enjoy the fun activities and interactive learning of the PlayGarden, along with lively musical entertainment to get kids singing and dancing. There’s even a Treasure Hunt! \nAs the 2nd largest garden show in the U.S., the Northwest Flower & Garden Show receives countless accolades from both seasoned gardeners and those just starting to dig in the dirt. It's a true gardener's garden show. Join us as we celebrate our 27th anniversary with “Romance Blossoms.”",
+                "html":"<P>The <STRONG>Northwest Flower &amp; Garden Show</STRONG> is not just a bunch of pretty flowers. It’s the best annual event for gardeners to gather ideas and inspiration to help them create gracious outdoor living spaces just right for the entire family. </P>\r\n<P>On six acres of dazzling beauty, our Display Gardens are the heart and soul of the show, featuring fully landscaped gardens showcasing the most up-to-date design trends from the region’s top designers. Whether you garden on an acre or a small balcony, you’ll take home hundreds of ideas from the show that will perfectly fit your garden.</P>\r\n<P>Our Marketplace is a shopping destination, with 350 exhibitors offering practical garden gear and unique nature-inspired art, plus loads of cool plants ready for your garden. These mini-stores have been hand-picked to represent the very best in gardening products.</P>\r\n<P>The show is known for its outstanding educational programs – over 100 in all, all free – featuring gardening luminaries from around the US, sharing the latest trends and information with both stunning visuals and practical DIY tops.</P>\r\n<P>Children and parents both enjoy the fun activities and interactive learning of the PlayGarden, along with lively musical entertainment to get kids singing and dancing. There’s even a Treasure Hunt!</P>\r\n<P>As the 2nd largest garden show in the U.S., the Northwest Flower &amp; Garden Show receives countless accolades from both seasoned gardeners and those just starting to dig in the dirt. It's a true gardener's garden show. Join us as we celebrate our 27th anniversary with <STRONG>“Romance Blossoms.”</STRONG></P>"
+            },
+            "logo":{
+                "id":"8293151",
+                "url":"http://cdn.evbuc.com/images/8293151/17013241839/1/logo.jpg"
+            },
+            "id":"13270934723",
+            "url":"http://www.eventbrite.com/e/2015-northwest-flower-garden-show-tickets-13270934723?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/8293151/17013241839/1/logo.jpg",
+            "start":{
+                "timezone":"America/Los_Angeles",
+                "local":"2015-02-11T09:00:00",
+                "utc":"2015-02-11T17:00:00Z"
+            },
+            "end":{
+                "timezone":"America/Los_Angeles",
+                "local":"2015-02-15T18:00:00",
+                "utc":"2015-02-16T02:00:00Z"
+            },
+            "created":"2014-09-22T21:41:16Z",
+            "changed":"2015-02-20T11:24:08Z",
+            "capacity":null,
+            "status":"completed",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"2851933763",
+            "venue_id":"2559073",
+            "category_id":"199",
+            "subcategory_id":null,
+            "format_id":"3",
+            "organizer":{
+                "description":null,
+                "logo":null,
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/2851933763/",
+                "id":"2851933763",
+                "name":"Northwest Flower & Garden Show",
+                "url":"http://www.eventbrite.com/o/northwest-flower-amp-garden-show-2851933763",
+                "num_past_events":4,
+                "num_future_events":0
+            },
+            "venue":{
+                "address":{
+                    "address_1":"800 Convention Place",
+                    "address_2":null,
+                    "city":"Seattle",
+                    "region":"WA",
+                    "postal_code":"98101",
+                    "country":"US",
+                    "latitude":"47.611389",
+                    "longitude":"-122.33168"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/2559073/",
+                "id":"2559073",
+                "name":"Washington State Convention Center",
+                "latitude":"47.611389",
+                "longitude":"-122.33168"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/199/",
+                "id":"199",
+                "name":"Other",
+                "name_localized":"Other",
+                "short_name":"Other",
+                "short_name_localized":"Other"
+            },
+            "subcategory":null,
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/3/",
+                "id":"3",
+                "name":"Tradeshow, Consumer Show, or Expo",
+                "name_localized":"Tradeshow, Consumer Show, or Expo",
+                "short_name":"Expo",
+                "short_name_localized":"Expo"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13270934723/ticket_classes/29007729/",
+                    "id":"29007729",
+                    "name":"Group",
+                    "description":"**GROUP TICKETS ARE NOT DATE SPECIFIC. VALID ANY ONE DAY OF THE EVENT.** Valid for one adult any one day of the show. This ticket type can only be purchased online, or at the Convention Center during the days of the event. Only available for groups of 20 or more. All ticket sales are final. No refunds or exchanges will be given due to weather, parking issues, illness or travel changes.",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$15.00",
+                        "value":1500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$0.99",
+                        "value":99
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":20,
+                    "maximum_quantity":200,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13270934723"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13270934723/ticket_classes/29007727/",
+                    "id":"29007727",
+                    "name":"Youth",
+                    "description":"**YOUTH TICKETS ARE NOT DATE SPECIFIC. VALID ANY ONE DAY OF THE EVENT.** Valid for youth ages 13 - 17 years. Children 12 and under are admitted into the show for free. Valid for one youth any one day of the show. This ticket can be purchased either online, at a local retailer (locations will be posted in December 2014) or at the Convention Center any day of the event. All ticket sales are final. No refunds or exchanges will be given due to weather, parking issues, illness or travel changes.",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$5.00",
+                        "value":500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$0.99",
+                        "value":99
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":100,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13270934723"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/15795513807/",
+            "name":{
+                "text":"YPL La Couturiere & Mehbs Fashion Party: Catwalk, Pre-Club Cocktail Social, Press & DJ",
+                "html":"YPL La Couturiere & Mehbs Fashion Party: Catwalk, Pre-Club Cocktail Social, Press & DJ"
+            },
+            "description":{
+                "text":"Direct from London Fashion Week, we present La Couturiere Fashion & Mehbs Yaqub Jewellery Design. Presenting their unique SS2015 Fashion collection at an exclusive Young Professionals London event. A night not to be missed featuring FASHION Catwalk show, Models, Photographers, Fashion Magazines, Media, & pre-club Social. \n\n730pm - 9:30pm: We've booked the SILVER Bar exclusively for Pre-Club Socialising & Networking with those in the Fashion industry & other Young Professionals. \n\n+ Welcome Cocktail for each guest arriving Pre-8pm. \n\n+ Multiple hosts assisting with introductions ;)\n\n\n\n9:15pm: Exclusive FASHION Catwalk show, with models pre-selected from London Fashion Week. + Press, Models, La Couturier & Mehbs Yaqub network & lots of hidden surprises!\n\n\n10pm - 3am: DJ + large dance floor in London’s only rooftop Private Members Club. This is as glamorous as it comes. Set admist 1.5 acres of stunning rooftop gardens 100 feet above Kensington highstreet, there’s no better place to kick start your weekend.\n\nSpread the word, invite your friends or come solo and meet lots of new people in one of Londons' most unique nightlife experiences.Tickets prices will increase without notice, therefore early booking is highly recommended to beat price rises.  \n \nIMPORTANT NOTES: \n1. Ticket is valid for the no. of people listed in Ticket name, if no. is not present then ticket is valid for 1 person. Guests must be 21 years & over to attend this event, ALL guests must bring valid PHOTO ID for entry, no exceptions. \n2. Tickets are valid for entry Pre-9:30pm ON 14th March 2015 ONLY. NO EXCEPTIONS!  \n3. Ticket INCLUDES Welcome Cocktail for those arriving PRE-8:30pm (to be redeemed at the bar pre-9pm) AND Fashion Show + Pre-Club Socialising in SILVER Bar. \n4. Ticket holders can remain for the Club party with DJ till 3am. \n5. DRESS CODE applies i.e. \"no effort, no entry\" so get glammed up and leave the trainers at home. If you have any questions in relation to dress code BEFORE the event please either email or phone The Roof Gardens or Email youngprofessionalsinlondon@hotmail.co.uk  \n6. Ticket is NOT refundable / transferable, issues with entry to The Roof Gardens MUST be communicated on the night of the event whilst at the venue via email to: youngprofessionalsinlondon@hotmail.co.uk  \n7. Guests purchasing a group ticket are recommended to arrive together. \n8. Ticket does not need to be printed but please bring a printout of the ticket if purchasing your ticket after 5pm on the day of the event. \n9. Ticket prices may increase without warning & as the event date approaches the only way to gaurantee entry at a certain price is by purchasing a ticket. \n10. The organiser may sell limited no. of tickets at the door at a higher price than what's listed online, please enquire closer to the date for availability.",
+                "html":"<P><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"color: #555555; line-height: 22.39px;\"><IMG STYLE=\"float: left;\" SRC=\"https://cdn.evbuc.com/eventlogos/22062198/lacs-1.png\" ALT=\"\"></SPAN></SPAN><SPAN STYLE=\"color: #800000; font-size: medium;\"><SPAN STYLE=\"line-height: 22.39px;\">Direct from London Fashion Week, we present </SPAN><SPAN STYLE=\"line-height: 22.39px;\"><STRONG>La Couturiere Fashion &amp; Mehbs Yaqub Jewellery Design</STRONG>. Presenting their unique SS2015 Fashion collection at an exclusive Young Professionals London event. A night not to be missed featuring FASHION Catwalk show, </SPAN><SPAN STYLE=\"line-height: 22.39px;\">Models, Photographers, Fashion </SPAN><SPAN STYLE=\"line-height: 22.39px;\">Magazines, Media, &amp; pre-club Social.</SPAN></SPAN></P>\r\n<UL>\r\n<LI><SPAN STYLE=\"color: #555555; line-height: 22.39px; font-size: medium;\"><STRONG STYLE=\"color: #555555; line-height: 22.39px; font-size: medium;\">730pm - 9:30pm:</STRONG> <SPAN STYLE=\"color: #555555; line-height: 22.39px; font-size: medium;\">We've booked the <STRONG>SILVER</STRONG> Bar exclusively for </SPAN>Pre-Club Socialising &amp; Networking with those in the Fashion industry &amp; other Young Professionals. </SPAN></LI>\r\n<LI></LI>\r\n<LI><SPAN STYLE=\"color: #555555; line-height: 22.39px; font-size: medium;\">+ <STRONG>Welcome Cocktail</STRONG> for each guest arriving Pre-8pm<SPAN STYLE=\"line-height: 1.4;\"><SPAN STYLE=\"line-height: 1.4;\">. </SPAN></SPAN></SPAN></LI>\r\n<LI></LI>\r\n<LI><SPAN STYLE=\"color: #555555; line-height: 22.39px; font-size: medium;\"><SPAN STYLE=\"line-height: 1.4;\"><SPAN STYLE=\"line-height: 1.4;\"><STRONG>+ Multiple hosts</STRONG> assisting with introductions ;)</SPAN></SPAN></SPAN></LI>\r\n</UL>\r\n<UL>\r\n<LI></LI>\r\n<LI><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"color: #555555; line-height: 22.39px;\"><SPAN STYLE=\"color: #555555; line-height: 22.39px;\"><STRONG>9:15pm: </STRONG>Exclusive FASHION Catwalk show, with models pre-selected from London Fashion Week. + Press, Models, La Couturier &amp; Mehbs Yaqub </SPAN></SPAN><SPAN STYLE=\"color: #555555; line-height: 22.39px;\">network &amp; </SPAN><SPAN STYLE=\"color: #555555; line-height: 22.39px;\">lots of hidden surprises!</SPAN></SPAN></LI>\r\n</UL>\r\n<UL>\r\n<LI><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"color: #555555; line-height: 22.39px;\"><STRONG>10pm - 3am:</STRONG> DJ + large dance floor in </SPAN><SPAN STYLE=\"color: #555555; line-height: 22.39px;\"><SPAN STYLE=\"line-height: 115%; mso-fareast-font-family: Calibri; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">London’s only rooftop Private Members Club. This is as glamorous as it comes. Set admist 1.5 acres of stunning rooftop gardens 100 feet above Kensington highstreet, there’s no better place to kick start your weekend.</SPAN></SPAN></SPAN></LI>\r\n</UL>\r\n<P STYLE=\"margin: 0px 0px 15px; padding: 0px; box-shadow: none; border: none; color: #555555; font-family: Whitney, helvetica, arial, sans-serif; font-size: 16px; line-height: 22.399999618530273px; background: none;\"><SPAN STYLE=\"color: #800000; line-height: 18.39px; font-size: medium;\">Spread the word, invite your friends or come solo and meet lots of new people in one of Londons' most unique nightlife experiences.Tickets prices will increase without notice, therefore <SPAN STYLE=\"text-align: justify; line-height: 18.39px;\">early booking is highly recommended to beat price rises. </SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0px 0px 20px; color: #333333; line-height: 18px; font-family: HelveticaNeue, Arimo, Helvetica, Arial, sans-serif; font-size: 12px;\"><SPAN STYLE=\"color: #ff0000; font-size: small; text-decoration: underline;\"><SPAN STYLE=\"line-height: 18.39px; text-decoration: underline;\"><SPAN STYLE=\"text-align: justify; color: #333333; line-height: 18px;\"><IMG STYLE=\"margin-right: auto; margin-left: auto; display: block;\" SRC=\"https://cdn.evbuc.com/eventlogos/22062198/roofgardensbardmn.jpg\" ALT=\"\" WIDTH=\"960\" HEIGHT=\"604\"></SPAN></SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0px 0px 20px; font-family: HelveticaNeue, Arimo, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; text-align: justify;\"><SPAN STYLE=\"font-size: small; text-decoration: underline;\"><STRONG><SPAN STYLE=\"color: #ff0000; text-decoration: underline;\">IMPORTANT NOTES:</SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"margin: 0px 0px 20px; font-family: HelveticaNeue, Arimo, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; text-align: justify;\"><SPAN STYLE=\"font-size: small;\">1. Ticket is valid for the no. of people listed in Ticket name, if no. is not present then ticket is valid for 1 person. Guests must be 21 years &amp; over to attend this event, ALL guests <SPAN STYLE=\"text-decoration: underline;\">must bring valid PHOTO ID</SPAN> for entry, no exceptions.</SPAN></P>\r\n<P STYLE=\"margin: 0px 0px 20px; font-family: HelveticaNeue, Arimo, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; text-align: justify;\"><SPAN STYLE=\"font-size: small;\">2. Tickets are valid for entry Pre-9:30pm ON 14th March 2015 ONLY. NO EXCEPTIONS! </SPAN></P>\r\n<P STYLE=\"margin: 0px 0px 20px; font-family: HelveticaNeue, Arimo, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; text-align: justify;\"><SPAN STYLE=\"font-size: small;\">3. Ticket INCLUDES Welcome Cocktail for those arriving PRE-8:30pm (to be redeemed at the bar pre-9pm) AND Fashion Show + Pre-Club Socialising in SILVER Bar.</SPAN></P>\r\n<P STYLE=\"margin: 0px 0px 20px; font-family: HelveticaNeue, Arimo, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; text-align: justify;\"><SPAN STYLE=\"font-size: small;\">4. Ticket holders can remain for the Club party with DJ till 3am.</SPAN></P>\r\n<P STYLE=\"margin: 0px 0px 20px; font-family: HelveticaNeue, Arimo, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; text-align: justify;\"><SPAN STYLE=\"font-size: small;\">5.<SPAN STYLE=\"line-height: 115%; mso-fareast-font-family: Calibri; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"> <SPAN STYLE=\"text-decoration: underline;\">DRESS CODE</SPAN> applies i.e. \"no effort, no entry\" so get glammed up and leave the trainers at home. If you have any questions in relation to dress code BEFORE the event please either email or phone The Roof Gardens or Email <A HREF=\"mailto:youngprofessionalsinlondon@hotmail.co.uk\" REL=\"nofollow\">youngprofessionalsinlondon@hotmail.co.uk</A> </SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0px 0px 20px; text-align: left; color: #333333; line-height: 18px; font-family: HelveticaNeue, Arimo, Helvetica, Arial, sans-serif; font-size: 12px;\"><SPAN STYLE=\"font-size: small;\">6. Ticket is NOT refundable / transferable, issues with entry to The Roof Gardens MUST be communicated on the night of the event whilst at the venue via email to: <A HREF=\"mailto:youngprofessionalsinlondon@hotmail.co.uk\" REL=\"nofollow\">youngprofessionalsinlondon@hotmail.co.uk</A> </SPAN></P>\r\n<P STYLE=\"margin: 0px 0px 20px; font-family: HelveticaNeue, Arimo, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; text-align: justify;\"><SPAN STYLE=\"font-size: small;\">7. Guests purchasing a group ticket are recommended to arrive together.</SPAN></P>\r\n<P STYLE=\"margin: 0px 0px 20px; font-family: HelveticaNeue, Arimo, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; text-align: justify;\"><SPAN STYLE=\"font-size: small;\">8. Ticket does not need to be printed but please bring a printout of the ticket if purchasing your ticket after 5pm on the day of the event.</SPAN></P>\r\n<P STYLE=\"margin: 0px 0px 20px; font-family: HelveticaNeue, Arimo, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; text-align: justify;\"><SPAN STYLE=\"font-size: small;\">9. Ticket prices may increase without warning &amp; as the event date approaches the only way to gaurantee entry at a certain price is by purchasing a ticket.</SPAN></P>\r\n<P STYLE=\"margin: 0px 0px 20px; font-family: HelveticaNeue, Arimo, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; text-align: justify;\"><SPAN STYLE=\"font-size: small;\">10. The organiser may sell limited no. of tickets at the door at a higher price than what's listed online, please enquire closer to the date for availability.</SPAN></P>\r\n<P STYLE=\"margin: 0px 0px 20px; font-family: HelveticaNeue, Arimo, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; text-align: justify;\"><SPAN STYLE=\"font-size: small;\"> </SPAN></P>\r\n<P><SPAN STYLE=\"font-size: small;\"> </SPAN></P>\r\n<P><SPAN STYLE=\"font-size: small;\"> </SPAN></P>"
+            },
+            "logo":{
+                "id":"12449819",
+                "url":"http://cdn.evbuc.com/images/12449819/22216633386/1/logo.JPG"
+            },
+            "id":"15795513807",
+            "url":"http://yplspringfashionparty.eventbrite.co.uk/?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/12449819/22216633386/1/logo.JPG",
+            "start":{
+                "timezone":"Europe/London",
+                "local":"2015-03-14T19:45:00",
+                "utc":"2015-03-14T19:45:00Z"
+            },
+            "end":{
+                "timezone":"Europe/London",
+                "local":"2015-03-15T03:00:00",
+                "utc":"2015-03-15T03:00:00Z"
+            },
+            "created":"2015-02-17T11:32:39Z",
+            "changed":"2015-02-23T15:50:26Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"1590310792",
+            "venue_id":"9446229",
+            "category_id":"110",
+            "subcategory_id":null,
+            "format_id":"11",
+            "organizer":{
+                "description":{
+                    "text":"A Social Networking group with an International mix of Young Professionals interested in meeting other like minded people for friendship / networking / partying at exclusive Members Clubs, Lounges & Bars. Age range is 21+ for our Bar / Club events & photo id must be produced on demand. \r\nThe main aim is to socialise / network in an environment where you can be heard over the music. Where coming solo to an event is not an issue as there will always be others happy to socialise with you. Our events can feature up to 5 co-hosts so you will always feel welcome no matter how big or small the event is.",
+                    "html":"<P><SPAN CLASS=\"Apple-style-span\" STYLE=\"color: #808080; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; line-height: 14px;\">A Social Networking group with an International mix of Young Professionals interested in meeting other like minded people for friendship / networking / partying at exclusive Members Clubs, Lounges & Bars. Age range is 21+ for our Bar / Club events & photo id must be produced on demand. </SPAN></P>\r\n<P><SPAN CLASS=\"Apple-style-span\" STYLE=\"color: #808080; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; line-height: 14px;\">The main aim is to socialise / network in an environment where you can be heard over the music. Where coming solo to an event is not an issue as there will always be others happy to socialise with you. </SPAN><SPAN CLASS=\"Apple-style-span\" STYLE=\"color: #808080; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; line-height: 14px;\">Our events can feature up to 5 co-hosts so you will always feel welcome no matter how big or small the event is.</SPAN></P>"
+                },
+                "logo":{
+                    "id":"64606",
+                    "url":"http://cdn.evbuc.com/images/64606/22216633386/1/logo.bmp"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/1590310792/",
+                "id":"1590310792",
+                "name":"Young Professionals London",
+                "url":"http://www.eventbrite.com/o/young-professionals-london-1590310792",
+                "num_past_events":110,
+                "num_future_events":1
+            },
+            "venue":{
+                "address":{
+                    "address_1":"99 Kensington High Street",
+                    "address_2":null,
+                    "city":"London",
+                    "region":null,
+                    "postal_code":"W8 5SA",
+                    "country":"GB",
+                    "latitude":"51.5011152",
+                    "longitude":"-0.19127460000004248"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/9446229/",
+                "id":"9446229",
+                "name":"The Roof Gardens",
+                "latitude":"51.5011152",
+                "longitude":"-0.19127460000004248"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/110/",
+                "id":"110",
+                "name":"Food & Drink",
+                "name_localized":"Food & Drink",
+                "short_name":"Food & Drink",
+                "short_name_localized":"Food & Drink"
+            },
+            "subcategory":null,
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/11/",
+                "id":"11",
+                "name":"Party or Social Gathering",
+                "name_localized":"Party or Social Gathering",
+                "short_name":"Party",
+                "short_name_localized":"Party"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15795513807/ticket_classes/33719434/",
+                    "id":"33719434",
+                    "name":"Admits 1 Pre-9:30pm (SUPER Early Bird) INC. Welcome Cocktail",
+                    "description":"Ticket Admits 1 person & Includes 1 Welcome Cocktail. By Purchasing this ticket you confirm you have read IMPORTANT NOTES.",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£5.00",
+                        "value":500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£0.78",
+                        "value":78
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":2,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15795513807"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15795513807/ticket_classes/33719428/",
+                    "id":"33719428",
+                    "name":"Admits 1 (Early Bird) Pre-9:30pm INC. Welcome Cocktail",
+                    "description":"Ticket Admits 1 person & Includes 1 Welcome Cocktail. By Purchasing this ticket you confirm you have read IMPORTANT NOTES.",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£6.50",
+                        "value":650
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£0.81",
+                        "value":81
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15795513807"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/13772079661/",
+            "name":{
+                "text":"Boots and Hearts 2015",
+                "html":"Boots and Hearts 2015"
+            },
+            "description":{
+                "text":"TICKET INFORMATION \n\nOnce you purchase, you will receive an order confirmation email from Eventbrite on behalf of the Boots and Hearts Music Festival. \nIMPORTANT: If you do not see your order confirmation in your inbox, make sure to check your junk/spam folder. If you still do not see your order confirmation, click here to access the Eventbrite help center. \nIf you are having any other technical ticketing-related issues with your order, click here to contact Eventbrite. For general festival info, click here.\nAll sales final\nNo refunds or exchanges\nProgram is subject to change without notice\nPrices are subject to change without notice\nDO NOT tamper, stretch, cut or alter your wristband in any way\nAltered wristbands will be invalid and the bearer will be subject to ejection.\nFull event bracelets can not be shared (i.e. different people use them on different days)\nBoots and Hearts is rain or shine, you all proved that in 2012 and 2013 and 2014!!\nPerformers and lineup are subject to change without notice\n\n \nADMISSION TICKETS\n\nRFID wristbands and Camping Pass tickets will be sent out 2-3 weeks prior to the festival\nNeed to view or update your shipping address? Click here for instructions. You will be able to update your shipping address until May 31, 2015.\n\n \nCAMPING, PARKING, RV, & SHOWER PASSES\n\n\nFor camping rules, please see our Camping Information Page\n\n \nSTILL HAVE QUESTIONS?\n\n\nPlease visit our extensive FAQ page",
+                "html":"<H3 STYLE=\"font-size: 28px; margin: 2px 0px 0px; line-height: 30px; font-family: Proxim, sans-serif; padding: 0px 0px 8px; text-transform: uppercase; color: #666666;\"><SPAN STYLE=\"font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: large; line-height: 17.1599998474121px;\">TICKET INFORMATION</SPAN></H3>\r\n<UL STYLE=\"margin: 0px; color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 17.1599998474121px;\">\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium;\">Once you purchase, you will receive an order confirmation email from Eventbrite on behalf of the Boots and Hearts Music Festival. </SPAN></LI>\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"font-weight: bold;\">IMPORTANT:</SPAN> If you do not see your order confirmation in your inbox, make sure to check your junk/spam folder. </SPAN><SPAN STYLE=\"font-size: medium;\">If you still do not see your order confirmation, click </SPAN><A STYLE=\"color: #0f90ba; text-decoration: none; font-size: medium;\" HREF=\"http://help.eventbrite.com/customer/en_us/portal/articles/428577-i-can-t-find-or-print-my-tickets\" TARGET=\"_blank\">here</A><SPAN STYLE=\"font-size: medium;\"> to access the Eventbrite help center. </SPAN></LI>\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium;\">If you are having any other technical ticketing-related issues with your order, click <A STYLE=\"color: #0f90ba; text-decoration: none;\" HREF=\"http://www.eventbrite.com/contact-us\" TARGET=\"_blank\">here</A> to contact Eventbrite. For general festival info, click <A STYLE=\"color: #0f90ba; text-decoration: none;\" TITLE=\"Boots and Hearts Info\" HREF=\"http://bootsandhearts.com/festival-info/\" TARGET=\"_blank\" REL=\"nofollow\">here</A>.</SPAN></LI>\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium; line-height: 17.1599998474121px;\">All sales final</SPAN></LI>\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium; line-height: 17.1599998474121px;\">No refunds or exchanges</SPAN></LI>\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium; line-height: 17.1599998474121px;\">Program is subject to change without notice</SPAN></LI>\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium; line-height: 17.1599998474121px;\">Prices are subject to change without notice</SPAN></LI>\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium; line-height: 17.1599998474121px;\">DO NOT tamper, stretch, cut or alter your wristband in any way</SPAN></LI>\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium; line-height: 17.1599998474121px;\">Altered wristbands will be invalid and the bearer will be subject to ejection.</SPAN></LI>\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium; line-height: 17.1599998474121px;\">Full event bracelets can not be shared (i.e. different people use them on different days)</SPAN></LI>\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium; line-height: 17.1599998474121px;\">Boots and Hearts is rain or shine, you all proved that in 2012 and 2013 and 2014!!</SPAN></LI>\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium; line-height: 17.1599998474121px;\">Performers and lineup are subject to change without notice</SPAN></LI>\r\n</UL>\r\n<DIV><SPAN STYLE=\"color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: medium;\"><SPAN STYLE=\"line-height: 17.1599998474121px;\"><BR></SPAN></SPAN></DIV>\r\n<DIV><STRONG><SPAN STYLE=\"color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: medium;\"><SPAN STYLE=\"line-height: 17.1599998474121px;\">ADMISSION TICKETS</SPAN></SPAN></STRONG></DIV>\r\n<UL STYLE=\"margin: 0px; color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 17.1599998474121px;\">\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium;\">RFID wristbands and Camping Pass tickets will be sent out 2-3 weeks prior to the festival</SPAN></LI>\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium;\">Need to view or update your shipping address? Click <A STYLE=\"color: #0f90ba; text-decoration: none;\" HREF=\"http://help.eventbrite.com/customer/en_us/portal/articles/430100-change-the-info-on-your-order-or-ticket\" TARGET=\"_blank\">here</A> for instructions. You will be able to update your shipping address until <SPAN STYLE=\"border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #cccccc;\">May 31, 2015</SPAN>.</SPAN></LI>\r\n</UL>\r\n<DIV><SPAN STYLE=\"color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: medium;\"><SPAN STYLE=\"line-height: 17.1599998474121px;\"><BR></SPAN></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: medium;\"><SPAN STYLE=\"line-height: 17.1599998474121px;\"><STRONG>CAMPING, PARKING, RV, &amp; SHOWER PASSES</STRONG></SPAN></SPAN></DIV>\r\n<DIV>\r\n<UL STYLE=\"margin: 0px; color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 17.1599998474121px;\">\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium;\">For camping rules, please see our <A STYLE=\"color: #0f90ba; text-decoration: none;\" HREF=\"http://bootsandhearts.com/travel-lodging/tentcamping/#rules\" TARGET=\"_blank\" REL=\"nofollow\">Camping Information Page</A></SPAN></LI>\r\n</UL>\r\n<DIV><SPAN STYLE=\"color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: medium;\"><SPAN STYLE=\"line-height: 17.1599998474121px;\"><BR></SPAN></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: medium;\"><SPAN STYLE=\"line-height: 17.1599998474121px;\"><STRONG STYLE=\"color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: medium; line-height: 17.1599998474121px;\">STILL HAVE QUESTIONS?</STRONG></SPAN></SPAN></DIV>\r\n<DIV>\r\n<UL STYLE=\"margin: 0px; color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 17.1599998474121px;\">\r\n<LI STYLE=\"margin-left: 15px;\"><SPAN STYLE=\"font-size: medium;\">Please visit our extensive <A STYLE=\"color: #0f90ba; text-decoration: none;\" HREF=\"https://bootsandhearts.zendesk.com/hc/en-us\" TARGET=\"_blank\" REL=\"nofollow\">FAQ page</A></SPAN></LI>\r\n</UL>\r\n<SPAN STYLE=\"color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: medium;\"><SPAN STYLE=\"line-height: 17.1599998474121px;\"><STRONG STYLE=\"color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: medium; line-height: 17.1599998474121px;\"><BR></STRONG></SPAN></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: medium;\"><SPAN STYLE=\"line-height: 17.1599998474121px;\"><STRONG STYLE=\"color: #666666; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: medium; line-height: 17.1599998474121px;\"><BR></STRONG></SPAN></SPAN></DIV>\r\n</DIV>"
+            },
+            "logo":{
+                "id":"9043175",
+                "url":"http://cdn.evbuc.com/images/9043175/124205971011/1/logo.jpg"
+            },
+            "id":"13772079661",
+            "url":"http://www.eventbrite.com/e/boots-and-hearts-2015-tickets-13772079661?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/9043175/124205971011/1/logo.jpg",
+            "start":{
+                "timezone":"America/Toronto",
+                "local":"2015-08-06T15:00:00",
+                "utc":"2015-08-06T19:00:00Z"
+            },
+            "end":{
+                "timezone":"America/Toronto",
+                "local":"2015-08-09T23:30:00",
+                "utc":"2015-08-10T03:30:00Z"
+            },
+            "created":"2014-10-17T02:50:53Z",
+            "changed":"2015-02-24T05:01:04Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"7597844203",
+            "venue_id":"8792813",
+            "category_id":"103",
+            "subcategory_id":"3004",
+            "format_id":"6",
+            "organizer":{
+                "description":null,
+                "logo":null,
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/7597844203/",
+                "id":"7597844203",
+                "name":"Boots and Hearts",
+                "url":"http://www.eventbrite.com/o/boots-and-hearts-7597844203",
+                "num_past_events":0,
+                "num_future_events":1
+            },
+            "venue":{
+                "address":{
+                    "address_1":"134 8 Line S",
+                    "address_2":null,
+                    "city":"Oro-Medonte",
+                    "region":"On",
+                    "postal_code":"L0L 2X0",
+                    "country":"CA",
+                    "latitude":"44.4811425",
+                    "longitude":"-79.51572090000002"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/8792813/",
+                "id":"8792813",
+                "name":"Burl's Creek Event Grounds",
+                "latitude":"44.4811425",
+                "longitude":"-79.51572090000002"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/103/",
+                "id":"103",
+                "name":"Music",
+                "name_localized":"Music",
+                "short_name":"Music",
+                "short_name_localized":"Music"
+            },
+            "subcategory":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/subcategories/3004/",
+                "id":"3004",
+                "name":"Country"
+            },
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/6/",
+                "id":"6",
+                "name":"Concert or Performance",
+                "name_localized":"Concert or Performance",
+                "short_name":"Performance",
+                "short_name_localized":"Performance"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13772079661/ticket_classes/29962633/",
+                    "id":"29962633",
+                    "name":"General Admission Full Event",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"269.99 CAD",
+                        "value":26999
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"24.99 CAD",
+                        "value":2499
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":8,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13772079661"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13772079661/ticket_classes/29967101/",
+                    "id":"29967101",
+                    "name":"General Admission Tent Camping",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"99.99 CAD",
+                        "value":9999
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"8.00 CAD",
+                        "value":800
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":1,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13772079661"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13772079661/ticket_classes/29967103/",
+                    "id":"29967103",
+                    "name":"General Admission RV Camping",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"299.99 CAD",
+                        "value":29999
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"8.00 CAD",
+                        "value":800
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":1,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13772079661"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13772079661/ticket_classes/29962233/",
+                    "id":"29962233",
+                    "name":"Premium Admission Full Event + Premium RV Camping",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"1199.99 CAD",
+                        "value":119999
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"24.99 CAD",
+                        "value":2499
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":1,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13772079661"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13772079661/ticket_classes/29967105/",
+                    "id":"29967105",
+                    "name":"Premium Admission Full Event + Premium Tent Camping",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"799.99 CAD",
+                        "value":79999
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"24.99 CAD",
+                        "value":2499
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":1,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13772079661"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13772079661/ticket_classes/29967107/",
+                    "id":"29967107",
+                    "name":"Premium Admission Full Event",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"599.99 CAD",
+                        "value":59999
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"24.99 CAD",
+                        "value":2499
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":8,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13772079661"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13772079661/ticket_classes/29967871/",
+                    "id":"29967871",
+                    "name":"Hydro RV 30-AMP Upgrade",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"299.99 CAD",
+                        "value":29999
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"8.00 CAD",
+                        "value":800
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":1,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13772079661"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13772079661/ticket_classes/30253169/",
+                    "id":"30253169",
+                    "name":"Hydro RV 50-AMP Upgrade",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"399.99 CAD",
+                        "value":39999
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"8.00 CAD",
+                        "value":800
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":1,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13772079661"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13772079661/ticket_classes/29967743/",
+                    "id":"29967743",
+                    "name":"Shower Pass",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"24.99 CAD",
+                        "value":2499
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"3.00 CAD",
+                        "value":300
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":8,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13772079661"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13772079661/ticket_classes/30156821/",
+                    "id":"30156821",
+                    "name":"3-Day Parking",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"54.99 CAD",
+                        "value":5499
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"3.00 CAD",
+                        "value":300
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":2,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13772079661"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13772079661/ticket_classes/30291695/",
+                    "id":"30291695",
+                    "name":"Disability Camping",
+                    "description":null,
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":1,
+                    "event_id":"13772079661"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/15712529599/",
+            "name":{
+                "text":"YPL Monthly Mayfair Cocktail Social",
+                "html":"YPL Monthly Mayfair Cocktail Social"
+            },
+            "description":{
+                "text":"Located in the hear of Mayfair this prestigious Members Bar opposite the Hilton Hotel on Hertford Street. Meet an International mix of Young Professionals in this intimate Bar Lounge setting, FREE entry for all registered guests WITH Alcoholic / Non-Alcoholic Cocktail PURCHASE on arrival.   \n\n9pm- 10:30pm: Network / Socialise & get introdued to new people, establish new connections in a more intimate atmosphere before the bar gets crazy busy. There will be couches, lounges & tables as well as the usual bar stools for you to sit or stand around to chat with each other over drinks ;)\n\n  \n\n10:30pm - 12am Drinks & Socialising + Introductions continue + House DJ FABRIZIA: Even Guys vs Girl Ratio from differrent professional & social backgrounds, 2 Hosts assisting with introductions, an international mix of Languages + FREE Entry for ALL REGISTERING  & ARRIVING before MIDNIGHT * \n\n  \n\n12am - 5am: Event is no longer hosted but all are welcome to stay at the bar & continue mingling with the people you met & also have the opportunity to meet some the Colony bar members that arrive later in the evening. \n\n\nQUESTIONS??? Please EMAIL YoungProfessionalsINLondon@hotmail.co.uk \n\nIMPORTANT NOTES: \n1. Max. 2 tickets p/person & p/email address, your friend/s are welcome to register separately. \n2. All guests MUST purchase MIN. 1 Alcoholic Drink / Non-Alcoholic Cocktail on arrival that way we can continue hosting free monthly events. * The wait staff have asked people to leave in the past that have not purchased any drinks. \n3. Guests are expected to be in suitable attire. No Scruffy Clothing / No Torn Clothes / No Hoodies/ No Torn Clothes... No Effort = No Entry! \n  \n4. PLEASE Bring ID as names \"may\" be checked at the door especially if you look under 23 bring photo id! \n5. As this is a private members bar & club guests under 18 will NOT be admitted entry, please bring photo id in case asked. \n6. This event is run exclusively by Young Professionals London & it's affiliates, if you have any questions please EMAIL: YoungProfessionalsINLondon@hotmail.co.uk (do NOT contact Colony Club as they just provide the venue) \n7. Doors to the venue open at 8:30pm, host arrives from 9pm.",
+                "html":"<P STYLE=\"margin: 0px 0px 12px; padding: 0px; font-family: verdana, Arial, sans-serif; color: #555555; font-size: 14px; line-height: 19px; background-color: #e6e6e6; text-align: center;\"> </P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"color: #800080; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: medium; line-height: 25.600000381469727px; text-align: center;\">Located in the hear of Mayfair this prestigious Members Bar opposite the Hilton Hotel on Hertford Street. Meet an International mix of Young Professionals in this intimate Bar Lounge setting, </SPAN><SPAN STYLE=\"color: #800080; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: medium; line-height: 25.600000381469727px; text-align: center; text-decoration: underline;\"><STRONG>FREE entry for all registered guests WITH Alcoholic / Non-Alcoholic Cocktail PURCHASE on arrival.</STRONG></SPAN><BR><BR></P>\r\n<UL STYLE=\"text-align: center;\">\r\n<LI><SPAN STYLE=\"color: #800080; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: medium; line-height: 1.6em;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG>9pm- 10:30pm:</STRONG></SPAN> Network / Socialise &amp; get introdued to new people, establish new connections in a more intimate atmosphere before the bar gets crazy busy. There will be couches, lounges &amp; tables as well as the usual bar stools for you to sit or stand around to chat with each other over drinks ;)</SPAN></LI>\r\n</UL>\r\n<P> </P>\r\n<UL STYLE=\"text-align: center;\">\r\n<LI><SPAN STYLE=\"color: #800080; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: medium; line-height: 1.6em;\"><STRONG><SPAN STYLE=\"text-decoration: underline;\">10:30pm - 12am</SPAN> Drinks &amp; Socialising +<SPAN STYLE=\"color: #800080; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20.796875px;\"> Introductions continue + House DJ FABRIZIA</SPAN>:</STRONG> Even Guys vs Girl Ratio from differrent professional &amp; social backgrounds, 2 Hosts assisting with introductions, an international mix of Languages + <STRONG>FREE Entry for ALL REGISTERING  &amp; ARRIVING before <SPAN STYLE=\"text-decoration: underline;\">MIDNIGHT </SPAN><SPAN STYLE=\"font-size: medium;\">* </SPAN></STRONG></SPAN></LI>\r\n</UL>\r\n<P> </P>\r\n<UL STYLE=\"text-align: center;\">\r\n<LI><SPAN STYLE=\"color: #800080; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: medium; line-height: 1.6em;\"><STRONG><SPAN STYLE=\"text-decoration: underline;\">12am - 5am:</SPAN> </STRONG>Event is <SPAN STYLE=\"text-decoration: underline;\">no longer hosted</SPAN> but all are welcome to stay at the bar &amp; continue mingling with the people you met &amp; also have the opportunity to meet some the Colony bar members that arrive later in the evening.</SPAN><SPAN STYLE=\"color: #555555; font-family: verdana, Arial, sans-serif; font-size: 14px; line-height: 19px; background-color: #e6e6e6;\"> </SPAN></LI>\r\n</UL>\r\n<DIV STYLE=\"text-align: center;\">\r\n<P STYLE=\"font-family: verdana, Arial, sans-serif; font-size: 14px; line-height: 19px; margin: 0px 0px 12px; padding: 0px; color: #555555; background-color: #e6e6e6; text-align: center;\"><SPAN STYLE=\"font-size: large;\"><STRONG><SPAN STYLE=\"background-color: #ffff00;\"><SPAN STYLE=\"color: #ff0000; text-decoration: underline;\"><SPAN STYLE=\"text-decoration: underline;\">QUESTIONS??? Please EMAIL </SPAN></SPAN><A HREF=\"mailto:YoungProfessionalsINLondon@hotmail.co.uk\" REL=\"nofollow\">YoungProfessionalsINLondon@hotmail.co.uk</A></SPAN></STRONG></SPAN></P>\r\n</DIV>\r\n<P STYLE=\"margin: 0px 0px 12px; padding: 0px; font-family: verdana, Arial, sans-serif; color: #555555; font-size: 14px; line-height: 19px; background-color: #e6e6e6; text-align: center;\"><STRONG STYLE=\"color: #ff0000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;\"><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"line-height: 1.6em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">IMPORTANT NOTES:</SPAN></SPAN></STRONG></P>\r\n<P STYLE=\"margin: 0px 0px 12px; padding: 0px; font-family: verdana, Arial, sans-serif; color: #555555; font-size: 14px; line-height: 19px; background-color: #e6e6e6; text-align: center;\"><STRONG STYLE=\"color: #ff0000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;\"><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"line-height: 1.6em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">1. Max. 2 tickets p/person &amp; p/email address, your friend/s are welcome to register separately.</SPAN></SPAN></STRONG></P>\r\n<P STYLE=\"margin: 0px 0px 12px; padding: 0px; font-family: verdana, Arial, sans-serif; color: #555555; font-size: 14px; line-height: 19px; background-color: #e6e6e6; text-align: center;\"><STRONG STYLE=\"color: #ff0000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;\"><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"line-height: 1.6em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">2. All guests <SPAN STYLE=\"text-decoration: underline;\">MUST</SPAN> purchase MIN. 1 </SPAN></SPAN></STRONG><STRONG STYLE=\"color: #ff0000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;\"><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"line-height: 1.6em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Alcoholic Drink / Non-Alcoholic Cocktail on <SPAN STYLE=\"text-decoration: underline;\">arrival</SPAN> that way we can continue hosting free monthly events. * The wait staff have asked people to leave in the past that have not purchased any drinks.</SPAN></SPAN></STRONG></P>\r\n<P STYLE=\"margin: 0px 0px 12px; padding: 0px; font-family: verdana, Arial, sans-serif; color: #555555; font-size: 14px; line-height: 19px; background-color: #e6e6e6; text-align: center;\"><STRONG STYLE=\"color: #ff0000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;\"><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"line-height: 1.6em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">3. Guests are expected to be in suitable attire. No Scruffy Clothing / No Torn Clothes / No Hoodies/ No Torn Clothes... No Effort = No Entry!</SPAN></SPAN></STRONG></P>\r\n<P STYLE=\"margin: 0px 0px 12px; padding: 0px; font-family: verdana, Arial, sans-serif; color: #555555; font-size: 14px; line-height: 19px; background-color: #e6e6e6; text-align: center;\"> </P>\r\n<P STYLE=\"margin: 0px 0px 12px; padding: 0px; font-family: verdana, Arial, sans-serif; color: #555555; font-size: 14px; line-height: 19px; background-color: #e6e6e6; text-align: center;\"><STRONG STYLE=\"color: #ff0000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;\"><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"line-height: 1.6em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">4. </SPAN></SPAN></STRONG><STRONG STYLE=\"color: #ff0000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;\"><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"line-height: 1.6em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">PLEASE Bring ID as names \"may\" be checked at the door especially if you look under 23 bring photo id!</SPAN></SPAN></STRONG></P>\r\n<P STYLE=\"margin: 0px 0px 12px; padding: 0px; font-family: verdana, Arial, sans-serif; color: #555555; font-size: 14px; line-height: 19px; background-color: #e6e6e6; text-align: center;\"><STRONG STYLE=\"color: #ff0000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;\"><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"line-height: 1.6em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">5. As this is a private members bar &amp; club guests under 18 will NOT be admitted entry, please <SPAN STYLE=\"text-decoration: underline;\">bring photo id</SPAN> in case asked.</SPAN></SPAN></STRONG></P>\r\n<P STYLE=\"margin: 0px 0px 12px; padding: 0px; font-family: verdana, Arial, sans-serif; color: #555555; font-size: 14px; line-height: 19px; background-color: #e6e6e6; text-align: center;\"><STRONG STYLE=\"color: #ff0000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;\"><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"line-height: 1.6em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">6. This event is run exclusively by Young Professionals London &amp; it's affiliates, if you have any questions please EMAIL<STRONG STYLE=\"line-height: 19px; text-align: center; color: #ff0000;\"><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"line-height: 1.6em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">: <STRONG STYLE=\"color: #555555; font-family: verdana, Arial, sans-serif; font-size: large; line-height: 19px; background-color: #e6e6e6;\"><SPAN STYLE=\"background-color: #ffff00;\"><A HREF=\"mailto:YoungProfessionalsINLondon@hotmail.co.uk\" REL=\"nofollow\">YoungProfessionalsINLondon@hotmail.co.uk</A></SPAN></STRONG></SPAN></SPAN></STRONG> (do NOT contact Colony Club as they just provide the venue)</SPAN></SPAN></STRONG></P>\r\n<P STYLE=\"margin: 0px 0px 12px; padding: 0px; font-family: verdana, Arial, sans-serif; color: #555555; font-size: 14px; line-height: 19px; text-align: left; background-color: #e6e6e6;\"><STRONG STYLE=\"color: #ff0000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;\"><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"line-height: 1.6em; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">7. Doors to the venue open at 8:30pm, host arrives from 9pm.</SPAN></SPAN></STRONG></P>"
+            },
+            "logo":{
+                "id":"12356777",
+                "url":"http://cdn.evbuc.com/images/12356777/22216633386/1/logo.jpg"
+            },
+            "id":"15712529599",
+            "url":"http://yplfebmayfairparty.eventbrite.co.uk/?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/12356777/22216633386/1/logo.jpg",
+            "start":{
+                "timezone":"America/Tortola",
+                "local":"2015-02-21T20:30:00",
+                "utc":"2015-02-22T00:30:00Z"
+            },
+            "end":{
+                "timezone":"America/Tortola",
+                "local":"2015-02-22T00:30:00",
+                "utc":"2015-02-22T04:30:00Z"
+            },
+            "created":"2015-02-10T16:50:32Z",
+            "changed":"2015-02-22T08:32:16Z",
+            "capacity":null,
+            "status":"completed",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"1590310792",
+            "venue_id":"6647027",
+            "category_id":"110",
+            "subcategory_id":null,
+            "format_id":"11",
+            "organizer":{
+                "description":{
+                    "text":"A Social Networking group with an International mix of Young Professionals interested in meeting other like minded people for friendship / networking / partying at exclusive Members Clubs, Lounges & Bars. Age range is 21+ for our Bar / Club events & photo id must be produced on demand. \r\nThe main aim is to socialise / network in an environment where you can be heard over the music. Where coming solo to an event is not an issue as there will always be others happy to socialise with you. Our events can feature up to 5 co-hosts so you will always feel welcome no matter how big or small the event is.",
+                    "html":"<P><SPAN CLASS=\"Apple-style-span\" STYLE=\"color: #808080; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; line-height: 14px;\">A Social Networking group with an International mix of Young Professionals interested in meeting other like minded people for friendship / networking / partying at exclusive Members Clubs, Lounges & Bars. Age range is 21+ for our Bar / Club events & photo id must be produced on demand. </SPAN></P>\r\n<P><SPAN CLASS=\"Apple-style-span\" STYLE=\"color: #808080; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; line-height: 14px;\">The main aim is to socialise / network in an environment where you can be heard over the music. Where coming solo to an event is not an issue as there will always be others happy to socialise with you. </SPAN><SPAN CLASS=\"Apple-style-span\" STYLE=\"color: #808080; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; line-height: 14px;\">Our events can feature up to 5 co-hosts so you will always feel welcome no matter how big or small the event is.</SPAN></P>"
+                },
+                "logo":{
+                    "id":"64606",
+                    "url":"http://cdn.evbuc.com/images/64606/22216633386/1/logo.bmp"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/1590310792/",
+                "id":"1590310792",
+                "name":"Young Professionals London",
+                "url":"http://www.eventbrite.com/o/young-professionals-london-1590310792",
+                "num_past_events":110,
+                "num_future_events":1
+            },
+            "venue":{
+                "address":{
+                    "address_1":"24 Hertford Street",
+                    "address_2":null,
+                    "city":"London",
+                    "region":"Gt Lon",
+                    "postal_code":"W1J",
+                    "country":"GB",
+                    "latitude":"51.5056388",
+                    "longitude":"-0.148643399999969"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/6647027/",
+                "id":"6647027",
+                "name":"Colony Bar",
+                "latitude":"51.5056388",
+                "longitude":"-0.148643399999969"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/110/",
+                "id":"110",
+                "name":"Food & Drink",
+                "name_localized":"Food & Drink",
+                "short_name":"Food & Drink",
+                "short_name_localized":"Food & Drink"
+            },
+            "subcategory":null,
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/11/",
+                "id":"11",
+                "name":"Party or Social Gathering",
+                "name_localized":"Party or Social Gathering",
+                "short_name":"Party",
+                "short_name_localized":"Party"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15712529599/ticket_classes/33561044/",
+                    "id":"33561044",
+                    "name":"Lady Cocktail Social: Free entry WITH Cocktail Purchase BEFORE 12am. Guestlist YPL",
+                    "description":"NOTE: Please read IMPORTANT NOTES BEFORE registering, ticket does NOT need printing. Questions EMAIL: YoungProfessionalsINLondon@hotmail.co.uk (do NOT Phone / Email Colony club as they only supply the venue)",
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":2,
+                    "event_id":"15712529599"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15712529599/ticket_classes/33561045/",
+                    "id":"33561045",
+                    "name":"Guy Cocktail Social: Free entry WITH Cocktail Purchase BEFORE 12am. Guestlist YPL",
+                    "description":"NOTE: Please read IMPORTANT NOTES BEFORE registering, ticket does NOT need printing. Questions EMAIL: YoungProfessionalsINLondon@hotmail.co.uk (do NOT Phone / Email Colony club as they only supply the venue)",
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":2,
+                    "event_id":"15712529599"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/",
+            "name":{
+                "text":"2015 Calgary Comic & Entertainment Expo",
+                "html":"2015 Calgary Comic & Entertainment Expo"
+            },
+            "description":{
+                "text":"The Calgary Comic & Entertainment Expo is Canada's second largest pop culture event, featuring tons of special guests from film & television, comic books, sci-fi, horror, anime, cartoons & collectibles. Over 418,000 sq. ft. of exhibit space and lots of programming, vendors, and special guests. Over 97,000 people came out last year to the Calgary Expo. \nWhat does your pass get you? Access to the main exhibit show floor, programming, and all the awesomeness that you can handle! You can check out things like the costume contest, Q & A panels with special guests, workshops, and much more!  \nTickets will ONLY BE AVAILABLE IN ADVANCE, online and at participating retail locations. Ticketholders will be guaranteed entry into the event. There will NOT be any tickets available at the door. The 2014 Calgary Expo sold out weeks before the event, so don't delay in getting your passes! \nThere will be a limited amount of Weekend passes available, so please grab your tickets early. \nDeluxe Four Day Pass $125 - BEST VALUE! (+tax & service fees) \n\nAccess to ALL FOUR days\n1 Hour early entry on Thursday (3:00pm)\n30 Minute early entry on Friday (11:30am)\n30 Minute early entry on Saturday (9:30am)\n30 Minute early on Sunday (9:30am)\nExclusive shirt, badge & lanyard for deluxe pass holders only\n$20 Voucher to use at Expo Store\n\n  \nYouth Deluxe Four Day Pass $50 (+tax & service fees) \n\nYouth ages 8-12\nSame access & exclusives as above\n\n  \nFour Day Pass $90 (+tax & service fees) \n\nAccess to ALL FOUR Days\n\n  \nSingle Day Passes - Access to only ONE day \n\nThursday Preview Night: $20 (+tax & service fees)\nFriday Pass: $30 (+tax & service fees)\nSaturday Pass: $40 (+tax & service fees)\nSunday Pass: $35 (+tax & service fees)\n\n  \nVIP Package $375 (+tax & service fees) ***SOLD OUT*** \n\nPremium access to Guests, Photo Ops, Expo Store, VIP seating in main programming rooms\nExclusive VIP pass holders merch (shirt, lanyard, badge)\nSwag bag full of goodies\n2 Hour early entry on Thursday (2pm)\n1 Hour early entry on Friday (11am)\n1 Hour early entry on Saturday (9am)\n1 Hour early entry on Sunday (9am)\nLimited to 550\n\n  \nYouth Passes - Ages 8 to 12 (Kids 7 & under are free) \nYouth Four Day Pass: $15 (+tax & service fees) Youth Thursday Pass: $5 (+tax & service fees) Youth Friday Pass: $5 (+tax & service fees) Youth Saturday Pass: $5 (+tax & service fees) Youth Sunday Pass: $5 (+tax & service fees) \n  \nVisit www.calgaryexpo.com for an updated guest list, event info, and special events. \nShow Hours: \nThursday: 4pm - 8pm Friday: 12pm - 8pm Saturday: 10am - 7pm Sunday: 10am - 5pm",
+                "html":"<P STYLE=\"line-height: 18px;\">The Calgary Comic &amp; Entertainment Expo is Canada's second largest pop culture event, featuring tons of special guests from film &amp; television, comic books, sci-fi, horror, anime, cartoons &amp; collectibles. Over 418,000 sq. ft. of exhibit space and lots of programming, vendors, and special guests. Over 97,000 people came out last year to the Calgary Expo.</P>\r\n<P STYLE=\"line-height: 18px;\">What does your pass get you? Access to the main exhibit show floor, programming, and all the awesomeness that you can handle! You can check out things like the costume contest, Q &amp; A panels with special guests, workshops, and much more! </P>\r\n<P STYLE=\"line-height: 18px;\">Tickets will <SPAN STYLE=\"text-decoration: underline;\"><STRONG>ONLY BE AVAILABLE IN ADVANCE</STRONG></SPAN>, online and at participating retail locations. Ticketholders will be guaranteed entry into the event. There will NOT be any tickets available at the door. The 2014 Calgary Expo sold out weeks before the event, so don't delay in getting your passes!</P>\r\n<P STYLE=\"line-height: 18px;\"><SPAN STYLE=\"line-height: 1.6em;\">There will be a limited amount of Weekend passes available, so please grab your tickets early.</SPAN></P>\r\n<P STYLE=\"line-height: 18px;\"><SPAN STYLE=\"line-height: 1.6em;\"><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small; line-height: 18px; text-decoration: underline; background-color: #ffff99;\"><STRONG>Deluxe Four Day Pass $125 - BEST VALUE! (+tax &amp; service fees)</STRONG></SPAN></SPAN></P>\r\n<UL>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px;\">Access to ALL FOUR days</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px;\">1 Hour early entry on Thursday (3:00pm)</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px;\">30 Minute early entry on Friday (11:30am)</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px;\">30 Minute early entry on Saturday (9:30am)</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px;\">30 Minute early on Sunday (9:30am)</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px;\">Exclusive shirt, badge &amp; lanyard for deluxe pass holders only</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px;\">$20 Voucher to use at Expo Store</SPAN></LI>\r\n</UL>\r\n<P STYLE=\"line-height: 18px;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"background-color: #ffff99;\"><STRONG><SPAN STYLE=\"text-decoration: underline;\"><BR></SPAN></STRONG></SPAN></SPAN></P>\r\n<P STYLE=\"line-height: 18px;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"background-color: #ffff99;\"><STRONG><SPAN STYLE=\"text-decoration: underline;\">Youth Deluxe Four Day Pass $50 (+tax &amp; service fees)</SPAN></STRONG></SPAN></SPAN></P>\r\n<UL>\r\n<LI><SPAN STYLE=\"font-size: x-small;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"line-height: 18px;\">Youth ages 8-12</SPAN></SPAN></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: x-small;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"line-height: 18px;\">Same access &amp; exclusives as above</SPAN></SPAN></SPAN></LI>\r\n</UL>\r\n<P STYLE=\"line-height: 18px;\"><SPAN STYLE=\"text-decoration: underline; font-size: small; background-color: #ffff99;\"><STRONG><BR></STRONG></SPAN></P>\r\n<P STYLE=\"line-height: 18px;\"><SPAN STYLE=\"text-decoration: underline; font-size: small; background-color: #ffff99;\"><STRONG>Four Day Pass $90 (+tax &amp; service fees)</STRONG></SPAN></P>\r\n<UL>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px;\">Access to ALL FOUR Days</SPAN></LI>\r\n</UL>\r\n<P STYLE=\"line-height: 18px;\"><STRONG><SPAN STYLE=\"text-decoration: underline; font-size: small; background-color: #ffff99;\"><BR></SPAN></STRONG></P>\r\n<P STYLE=\"line-height: 18px;\"><STRONG><SPAN STYLE=\"text-decoration: underline; font-size: small; background-color: #ffff99;\">Single Day Passes </SPAN>- </STRONG><SPAN>Access to only ONE day</SPAN></P>\r\n<UL>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small;\"><SPAN STYLE=\"line-height: 18px;\">Thursday Preview Night: $20 (+tax &amp; service fees)</SPAN></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small;\"><SPAN STYLE=\"line-height: 18px;\">Friday Pass: $30 <SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small; line-height: 18px;\">(+tax &amp; service fees)</SPAN></SPAN></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small;\"><SPAN STYLE=\"line-height: 18px;\"><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small; line-height: 18px;\">Saturday Pass: $40 <SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small; line-height: 18px;\">(+tax &amp; service fees)</SPAN></SPAN></SPAN></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small;\"><SPAN STYLE=\"line-height: 18px;\"><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small; line-height: 18px;\"><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small; line-height: 18px;\">Sunday Pass: $35<SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: small; line-height: 18px;\"> (+tax &amp; service fees)</SPAN></SPAN></SPAN></SPAN></SPAN></LI>\r\n</UL>\r\n<P STYLE=\"line-height: 18px;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG STYLE=\"line-height: 1.6em;\"><SPAN STYLE=\"background-color: #ffff99;\"><BR></SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"line-height: 18px;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG STYLE=\"line-height: 1.6em;\"><SPAN STYLE=\"background-color: #ffff99;\">VIP Package $375 (+tax &amp; service fees) ***SOLD OUT***</SPAN></STRONG></SPAN></P>\r\n<UL>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px; background-color: #ffffff;\">Premium access to Guests, Photo Ops, Expo Store, VIP seating in main programming rooms</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px; background-color: #ffffff;\">Exclusive VIP pass holders merch (shirt, lanyard, badge)</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px; background-color: #ffffff;\">Swag bag full of goodies</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px; background-color: #ffffff;\">2 Hour early entry on Thursday (2pm)</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px; background-color: #ffffff;\">1 Hour early entry on Friday (11am)</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px; background-color: #ffffff;\">1 Hour early entry on Saturday (9am)</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px; background-color: #ffffff;\">1 Hour early entry on Sunday (9am)</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 18px; background-color: #ffffff;\">Limited to 550</SPAN></LI>\r\n</UL>\r\n<P STYLE=\"line-height: 18px;\"><STRONG><SPAN STYLE=\"text-decoration: underline; background-color: #ffff99;\"><BR></SPAN></STRONG></P>\r\n<P STYLE=\"line-height: 18px;\"><STRONG><SPAN STYLE=\"text-decoration: underline; background-color: #ffff99;\">Youth Passes</SPAN> - </STRONG>Ages 8 to 12 (Kids 7 &amp; under are free)</P>\r\n<P STYLE=\"line-height: 18px;\">Youth Four Day Pass: $15 (+tax &amp; service fees)<BR>Youth Thursday Pass: $5 (+tax &amp; service fees)<BR><SPAN STYLE=\"line-height: 1.6em;\">Youth Friday Pass: $5 (+tax &amp; service fees)<BR></SPAN><SPAN STYLE=\"line-height: 1.6em;\">Youth Saturday Pass: $5 (+tax &amp; service fees)<BR></SPAN><SPAN STYLE=\"line-height: 1.6em;\">Youth Sunday Pass: $5 (+tax &amp; service fees)</SPAN></P>\r\n<P STYLE=\"line-height: 18px;\"><SPAN STYLE=\"line-height: 1.6em;\"> </SPAN></P>\r\n<P><SPAN STYLE=\"line-height: 1.6em;\">Visit </SPAN><A STYLE=\"color: #b31111;\" HREF=\"http://www.calgaryexpo.com/\" REL=\"nofollow\">www.calgaryexpo.com</A><SPAN STYLE=\"line-height: 1.6em;\"> for an updated guest list, event info, and special events.</SPAN></P>\r\n<P STYLE=\"line-height: 18px;\"><STRONG>Show Hours:</STRONG></P>\r\n<P STYLE=\"line-height: 18px;\"><STRONG>Thursday: </STRONG>4pm - 8pm<BR><STRONG>Friday: </STRONG>12pm - 8pm<BR><STRONG>Saturday: </STRONG>10am - 7pm<BR><STRONG>Sunday: </STRONG>10am - 5pm</P>"
+            },
+            "logo":{
+                "id":"8857349",
+                "url":"http://cdn.evbuc.com/images/8857349/3662696652/1/logo.jpg"
+            },
+            "id":"14022280017",
+            "url":"http://www.eventbrite.com/e/2015-calgary-comic-entertainment-expo-tickets-14022280017?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/8857349/3662696652/1/logo.jpg",
+            "start":{
+                "timezone":"America/Denver",
+                "local":"2015-04-16T16:00:00",
+                "utc":"2015-04-16T22:00:00Z"
+            },
+            "end":{
+                "timezone":"America/Denver",
+                "local":"2015-04-19T17:00:00",
+                "utc":"2015-04-19T23:00:00Z"
+            },
+            "created":"2014-10-29T17:55:00Z",
+            "changed":"2015-02-24T07:26:43Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"1697262248",
+            "venue_id":"8843313",
+            "category_id":"104",
+            "subcategory_id":"4005",
+            "format_id":"5",
+            "organizer":{
+                "description":{
+                    "text":"The Alberta Entertainment Expo is dedicated to promoting the pop culture arts, including comic books, sci-fi, horror, animation, gaming, anime, cartoons, toys & collectibles. There are 3 annual events that are hosted and organized by the Alberta Entertainment Expo. These events feature special guests from film & television, comics, animation, and more! \r\nThe Calgary Expo is held at the BMO Centre in April. Visit www.calgaryexpo.com.\r\nThe Edmonton Expo is held at Northlands Park in September. Visit www.edmontonexpo.com.\r\nThe Saskatoon Expo is held at Prairieland Park in September. Visit www.saskexpo.com",
+                    "html":"<P>The Alberta Entertainment Expo is dedicated to promoting the pop culture arts, including comic books, sci-fi, horror, animation, gaming, anime, cartoons, toys & collectibles. There are 3 annual events that are hosted and organized by the Alberta Entertainment Expo. These events feature special guests from film & television, comics, animation, and more! </P>\r\n<P>The Calgary Expo is held at the BMO Centre in April. Visit www.calgaryexpo.com.</P>\r\n<P>The Edmonton Expo is held at Northlands Park in September. Visit www.edmontonexpo.com.</P>\r\n<P>The Saskatoon Expo is held at Prairieland Park in September. Visit www.saskexpo.com</P>"
+                },
+                "logo":{
+                    "id":"86856",
+                    "url":"http://cdn.evbuc.com/images/86856/3662696652/2/logo.jpg"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/1697262248/",
+                "id":"1697262248",
+                "name":"Alberta Entertainment Expo",
+                "url":"http://www.eventbrite.com/o/alberta-entertainment-expo-1697262248",
+                "num_past_events":24,
+                "num_future_events":3
+            },
+            "venue":{
+                "address":{
+                    "address_1":"20 Roundup Way SE",
+                    "address_2":null,
+                    "city":"Calgary",
+                    "region":"Alberta",
+                    "postal_code":"T2G 2W1",
+                    "country":"CA",
+                    "latitude":"51.0349303",
+                    "longitude":"-114.0572414"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/8843313/",
+                "id":"8843313",
+                "name":"BMO Centre & Stampede Park",
+                "latitude":"51.0349303",
+                "longitude":"-114.0572414"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/104/",
+                "id":"104",
+                "name":"Film, Media & Entertainment",
+                "name_localized":"Film, Media & Entertainment",
+                "short_name":"Film & Media",
+                "short_name_localized":"Film & Media"
+            },
+            "subcategory":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/subcategories/4005/",
+                "id":"4005",
+                "name":"Comics"
+            },
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/5/",
+                "id":"5",
+                "name":"Festival or Fair",
+                "name_localized":"Festival or Fair",
+                "short_name":"Festival",
+                "short_name_localized":"Festival"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/ticket_classes/30418155/",
+                    "id":"30418155",
+                    "name":"DELUXE Four Day Pass",
+                    "description":"Early entry privileges, exclusive Expo shirt, lanyard, & badge, $20 voucher for Expo store. Best value! Valid for all four days. Access to the main exhibit show floor, programming, and all the awesomeness that you can handle! You can check out things like the costume contest, Q & A panels with special guests, workshops, and much more! ",
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"125.00 CAD",
+                        "value":12500
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"7.87 CAD",
+                        "value":787
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":10,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14022280017"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/ticket_classes/30418671/",
+                    "id":"30418671",
+                    "name":"YOUTH DELUXE Four Day Pass (ages 8-12)",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"50.00 CAD",
+                        "value":5000
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"3.74 CAD",
+                        "value":374
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":10,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14022280017"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/ticket_classes/30418157/",
+                    "id":"30418157",
+                    "name":"FOUR Day Pass",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"90.00 CAD",
+                        "value":9000
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"5.94 CAD",
+                        "value":594
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":10,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14022280017"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/ticket_classes/30410043/",
+                    "id":"30410043",
+                    "name":"VIP Package",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"375.00 CAD",
+                        "value":37500
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"21.62 CAD",
+                        "value":2162
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":2,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14022280017"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/ticket_classes/30418659/",
+                    "id":"30418659",
+                    "name":"THURSDAY ONLY Pass",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"20.00 CAD",
+                        "value":2000
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"2.09 CAD",
+                        "value":209
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":10,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14022280017"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/ticket_classes/30418661/",
+                    "id":"30418661",
+                    "name":"FRIDAY ONLY Pass",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"30.00 CAD",
+                        "value":3000
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"2.64 CAD",
+                        "value":264
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":10,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14022280017"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/ticket_classes/30418663/",
+                    "id":"30418663",
+                    "name":"SATURDAY ONLY Pass",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"40.00 CAD",
+                        "value":4000
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"3.19 CAD",
+                        "value":319
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":10,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14022280017"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/ticket_classes/30418665/",
+                    "id":"30418665",
+                    "name":"SUNDAY ONLY Pass",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"35.00 CAD",
+                        "value":3500
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"2.92 CAD",
+                        "value":292
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":10,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14022280017"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/ticket_classes/30419301/",
+                    "id":"30419301",
+                    "name":"YOUTH Four Day Pass",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"15.00 CAD",
+                        "value":1500
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"1.82 CAD",
+                        "value":182
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":10,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14022280017"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/ticket_classes/30418667/",
+                    "id":"30418667",
+                    "name":"YOUTH Thursday Only Pass (ages 8-12)",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"5.00 CAD",
+                        "value":500
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"1.27 CAD",
+                        "value":127
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":10,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14022280017"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/ticket_classes/30418669/",
+                    "id":"30418669",
+                    "name":"YOUTH Friday Only Pass (ages 8-12)",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"5.00 CAD",
+                        "value":500
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"1.27 CAD",
+                        "value":127
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":10,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14022280017"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/ticket_classes/30419297/",
+                    "id":"30419297",
+                    "name":"YOUTH Saturday Only Pass (ages 8-12)",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"5.00 CAD",
+                        "value":500
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"1.27 CAD",
+                        "value":127
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":10,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14022280017"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14022280017/ticket_classes/30419299/",
+                    "id":"30419299",
+                    "name":"YOUTH Sunday Only Pass (ages 8-12)",
+                    "description":null,
+                    "cost":{
+                        "currency":"CAD",
+                        "display":"5.00 CAD",
+                        "value":500
+                    },
+                    "fee":{
+                        "currency":"CAD",
+                        "display":"1.27 CAD",
+                        "value":127
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":10,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14022280017"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/12358724277/",
+            "name":{
+                "text":"Random F00002",
+                "html":"Random F00002"
+            },
+            "description":null,
+            "logo":{
+                "id":"7053581",
+                "url":"http://cdn.evbuc.com/images/7053581/104605366533/1/logo.png"
+            },
+            "id":"12358724277",
+            "url":"http://www.eventbrite.com/e/random-f00002-tickets-12358724277?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/7053581/104605366533/1/logo.png",
+            "start":{
+                "timezone":"America/Los_Angeles",
+                "local":"2016-08-30T19:00:00",
+                "utc":"2016-08-31T02:00:00Z"
+            },
+            "end":{
+                "timezone":"America/Los_Angeles",
+                "local":"2016-08-30T22:00:00",
+                "utc":"2016-08-31T05:00:00Z"
+            },
+            "created":"2014-07-21T19:47:44Z",
+            "changed":"2014-09-04T18:37:08Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"6707134577",
+            "venue_id":null,
+            "category_id":null,
+            "subcategory_id":null,
+            "format_id":null,
+            "organizer":{
+                "description":null,
+                "logo":null,
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/6707134577/",
+                "id":"6707134577",
+                "name":null,
+                "url":"http://www.eventbrite.com/o/6707134577",
+                "num_past_events":0,
+                "num_future_events":8
+            },
+            "venue":null,
+            "category":null,
+            "subcategory":null,
+            "format":null,
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/12358724277/ticket_classes/27248459/",
+                    "id":"27248459",
+                    "name":"Test",
+                    "description":null,
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "event_id":"12358724277"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/15139735356/",
+            "name":{
+                "text":"SCOPE New York 2015",
+                "html":"SCOPE New York 2015"
+            },
+            "description":{
+                "text":"15 years ago, SCOPE Art Show mounted its first edition and changed the landscape of the contemporary art fair industry. The first fair to run concurrent with The Armory Show, SCOPE’s spirit of innovation has consistently forged the way for emerging artists, galleries and art fairs. Attuned to nuances in the market and itself an influential force in the cultural sphere, SCOPE is again poised to usher in a new vision of the contemporary art fair. \nSCOPE New York’s open-plan design eschews the cookie-cutter art fair clamor for a decidedly thoughtful, polished presentation. Maintaining exhibition square footage and improving useable wall space, galleries will no longer be divided into small booths, but rather, flow beautifully into one another, creating curatorial narratives that encompasses the entire show. \nAlongside this new exhibition model, SCOPE New York will host a series of events for Platinum and VIP Cardholders, including private performances, exclusive parties, brunches and cocktail events. These events will welcome our most influential and supportive patrons, celebrating 15 years of SCOPE’s pioneering programming. \nSCOPE New York opens on Friday, March 6 with the Platinum Preview and First View benefit, and will run March 7 - 8, 2015.",
+                "html":"<P><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: small;\">15 years ago, SCOPE Art Show mounted its first edition and changed the landscape of the contemporary art fair industry. The first fair to run concurrent with The Armory Show, SCOPE’s spirit of innovation has consistently forged the way for emerging artists, galleries and art fairs. Attuned to nuances in the market and itself an influential force in the cultural sphere, SCOPE is again poised to usher in a new vision of the contemporary art fair.</SPAN></P>\r\n<P><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: small;\">SCOPE New York’s open-plan design eschews the cookie-cutter art fair clamor for a decidedly thoughtful, polished presentation. Maintaining exhibition square footage and improving useable wall space, galleries will no longer be divided into small booths, but rather, flow beautifully into one another, creating curatorial narratives that encompasses the entire show.</SPAN></P>\r\n<P><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: small;\">Alongside this new exhibition model, SCOPE New York will host a series of events for Platinum and VIP Cardholders, including private performances, exclusive parties, brunches and cocktail events. These events will welcome our most influential and supportive patrons, celebrating 15 years of SCOPE’s pioneering programming.</SPAN></P>\r\n<P><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: small;\">SCOPE New York opens on Friday, March 6 with the Platinum Preview and First View benefit, and will run March 7 - 8, 2015.</SPAN></P>"
+            },
+            "logo":null,
+            "id":"15139735356",
+            "url":"http://scope-new-york-2015.eventbrite.com/?aff=ebapi",
+            "logo_url":null,
+            "start":{
+                "timezone":"America/New_York",
+                "local":"2015-03-06T12:00:00",
+                "utc":"2015-03-06T17:00:00Z"
+            },
+            "end":{
+                "timezone":"America/New_York",
+                "local":"2015-03-08T20:00:00",
+                "utc":"2015-03-09T00:00:00Z"
+            },
+            "created":"2015-01-05T16:52:24Z",
+            "changed":"2015-02-23T21:36:47Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"7205653955",
+            "venue_id":"9460550",
+            "category_id":"105",
+            "subcategory_id":"5008",
+            "format_id":"3",
+            "organizer":{
+                "description":{
+                    "text":"With over 50 art shows spanning more than a decade, SCOPE has solidified its position as the premier showcase for international emerging contemporary art and multi-disciplinary creative programming. SCOPE’s extensive reach enables an unrivaled opportunity for networking with art patrons, creative professionals and a culturally relevant public audience. Renowned for presenting the most innovative galleries, artists and curators, SCOPE Art Shows in Miami, Basel, New York, London and the Hamptons have garnered extensive critical acclaim, with sales of over $700 million and attendance of over 1,000,000 visitors.",
+                    "html":"<P>With over 50 art shows spanning more than a decade, SCOPE has solidified its position as the premier showcase for international emerging contemporary art and multi-disciplinary creative programming. SCOPE’s extensive reach enables an unrivaled opportunity for networking with art patrons, creative professionals and a culturally relevant public audience. Renowned for presenting the most innovative galleries, artists and curators, SCOPE Art Shows in Miami, Basel, New York, London and the Hamptons have garnered extensive critical acclaim, with sales of over $700 million and attendance of over 1,000,000 visitors.</P>"
+                },
+                "logo":{
+                    "id":"8677087",
+                    "url":"http://cdn.evbuc.com/images/8677087/113509504227/1/logo.jpg"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/7205653955/",
+                "id":"7205653955",
+                "name":"SCOPE Art Show",
+                "url":"http://www.eventbrite.com/o/scope-art-show-7205653955",
+                "num_past_events":1,
+                "num_future_events":1
+            },
+            "venue":{
+                "address":{
+                    "address_1":"639 W 46th St",
+                    "address_2":null,
+                    "city":"New York",
+                    "region":"NY",
+                    "postal_code":"10036",
+                    "country":"US",
+                    "latitude":"40.76425100000001",
+                    "longitude":"-73.99792400000001"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/9460550/",
+                "id":"9460550",
+                "name":"Metropolitan West | SCOPE Pavilion",
+                "latitude":"40.76425100000001",
+                "longitude":"-73.99792400000001"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/105/",
+                "id":"105",
+                "name":"Performing & Visual Arts",
+                "name_localized":"Performing & Visual Arts",
+                "short_name":"Arts",
+                "short_name_localized":"Arts"
+            },
+            "subcategory":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/subcategories/5008/",
+                "id":"5008",
+                "name":"Fine Art"
+            },
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/3/",
+                "id":"3",
+                "name":"Tradeshow, Consumer Show, or Expo",
+                "name_localized":"Tradeshow, Consumer Show, or Expo",
+                "short_name":"Expo",
+                "short_name_localized":"Expo"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15139735356/ticket_classes/32492569/",
+                    "id":"32492569",
+                    "name":"Public Day Pass",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$30.00",
+                        "value":3000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$2.49",
+                        "value":249
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15139735356"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15139735356/ticket_classes/32934864/",
+                    "id":"32934864",
+                    "name":"Platinum First View",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$150.00",
+                        "value":15000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$8.49",
+                        "value":849
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15139735356"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15139735356/ticket_classes/32934865/",
+                    "id":"32934865",
+                    "name":"VIP Preview",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$100.00",
+                        "value":10000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$5.99",
+                        "value":599
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15139735356"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15139735356/ticket_classes/33818139/",
+                    "id":"33818139",
+                    "name":"Student Day Pass",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$20.00",
+                        "value":2000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$1.99",
+                        "value":199
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15139735356"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/9430929163/",
+            "name":{
+                "text":"FRIDAY FREE ALL NIGHT- EVILLA LOUNGE",
+                "html":"FRIDAY FREE ALL NIGHT- EVILLA LOUNGE"
+            },
+            "description":{
+                "text":"A special edition of #4PlayFridays \"HAIRSHOW EDITION\" \nFRIDAY NIGHTS \"UPSCALE\" FREE ALL NIGHT PARTY FOR \"YOUNG BUSINESS PROFESSIONALS\" & \"INDUSTRY INSIDERS\" #4PlayFridays is back and has now moved to \"Evilla Restaurant & Bar. We have now upgraded your experience to a venue with great food & premium customer service. \n\"FREE ENTRY FOR EVERYONE ALL NIGHT LONG WITH RSVP \nwww.EvillaOnFriday.eventbrite.com \nThe sexiest place to party on a FRIDAY night in #Atlanta, and why not since its FREE ENTRY FOR EVERYONE \"ALL NIGHT.\"  \nLive Broadcast on Hot 107.9 from10PM-12AM \n21 and up to Party- Dress Code is Upscale. \n***ATTENTION***. **FREE BIRTHDAYS AVAILABLE WITH 1 BOTTLE OF CHAMPAGNE** Must have a group of 8 or more to recieve complimentary bottle.   Birthday Sections are first come first serve through the -General Admission Line- txt 770-547-7978 for additional information FREE ALL NIGHT RSVP NOW \nTxt 770-547-7978 for more info \nYour Name will be added to The \"So Kold Guestlist\" Please give your name, and the list name at the door For faster processing. \n *Make Sure to Follow @CirocBoyManny on instagram for updates and upcoming events.* \nDOORS OPEN AT 10PM",
+                "html":"<P> A special edition of #4PlayFridays \"HAIRSHOW EDITION\"</P>\r\n<P><STRONG>FRIDAY NIGHTS \"UPSCALE\" FREE ALL NIGHT PARTY FOR \"YOUNG BUSINESS PROFESSIONALS\" &amp; \"INDUSTRY INSIDERS\" #4PlayFridays is back and has now moved to \"Evilla Restaurant &amp; Bar. We have now upgraded your experience to a venue with great food &amp; premium customer service.</STRONG></P>\r\n<P><SPAN STYLE=\"font-size: medium;\"><SPAN STYLE=\"line-height: 25px;\"><STRONG>\"</STRONG></SPAN></SPAN><STRONG STYLE=\"line-height: 1.6em;\"><SPAN STYLE=\"font-size: medium; line-height: 1.6em;\">FREE ENTRY FOR EVERYONE ALL NIGHT LONG WITH RSVP</SPAN></STRONG></P>\r\n<P><STRONG STYLE=\"line-height: 1.6em;\"><SPAN STYLE=\"font-size: medium; line-height: 1.6em;\">www.EvillaOnFriday.eventbrite.com</SPAN></STRONG></P>\r\n<P>The sexiest place to party on a FRIDAY night in #Atlanta, and why not since its <STRONG>FREE ENTRY FOR EVERYONE \"ALL NIGHT</STRONG>.\" </P>\r\n<P><SPAN STYLE=\"color: #222222; font-family: arial, sans-serif; font-size: 13px;\">Live Broadcast on Hot 107.9 from10PM-12AM</SPAN></P>\r\n<P><STRONG>21 and up to Party</STRONG>- Dress Code is Upscale.</P>\r\n<P><STRONG STYLE=\"line-height: 1.6em;\"><SPAN STYLE=\"text-decoration: underline;\">***ATTENTION***. *</SPAN></STRONG><STRONG STYLE=\"line-height: 1.6em;\">*FREE BIRTHDAYS AVAILABLE WITH 1 BOTTLE OF CHAMPAGNE** Must have a group of 8 or more to recieve complimentary bottle.   Birthday Sections are first come first serve through the -General <A ID=\"_GPLITA_0\" STYLE=\"border: none !important; display: inline-block !important; text-indent: 0px !important; float: none !important; font-weight: bold !important; height: auto !important; margin: 0px !important; min-height: 0px !important; min-width: 0px !important; padding: 0px !important; text-transform: uppercase !important; text-decoration: underline !important; vertical-align: baseline !important; width: auto !important; background: transparent !important;\" TITLE=\"Click to Continue > by Best Offers\" REL=\"nofollow\"> by Best Offers\" href=\"#\"&gt;Admission<IMG STYLE=\"border: none !important; display: inline-block !important; text-indent: 0px !important; float: none !important; font-weight: bold !important; height: 10px !important; margin: 0px 0px 0px 3px !important; min-height: 0px !important; min-width: 0px !important; padding: 0px !important; text-transform: uppercase !important; text-decoration: underline !important; vertical-align: super !important; width: 10px !important; background: transparent !important;\" SRC=\"https://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png\" ALT=\"\"></A> Line- txt 770-547-7978 for additional information FREE ALL NIGHT RSVP NOW</STRONG></P>\r\n<P><STRONG STYLE=\"line-height: 1.6em;\">Txt 770-547-7978 for more info</STRONG></P>\r\n<P><STRONG><SPAN STYLE=\"text-decoration: underline;\">Your Name will be added to The \"So Kold Guestlist\" Please give your name, and the list name at the door For faster processing.</SPAN></STRONG></P>\r\n<P><STRONG> *Make Sure to Follow @CirocBoyManny on instagram for <A ID=\"_GPLITA_1\" STYLE=\"border: none !important; display: inline-block !important; text-indent: 0px !important; float: none !important; font-weight: bold !important; height: auto !important; margin: 0px !important; min-height: 0px !important; min-width: 0px !important; padding: 0px !important; text-transform: uppercase !important; text-decoration: underline !important; vertical-align: baseline !important; width: auto !important; background: transparent !important;\" TITLE=\"Click to Continue > by Best Offers\" REL=\"nofollow\"> by Best Offers\" href=\"#\"&gt;updates<IMG STYLE=\"border: none !important; display: inline-block !important; text-indent: 0px !important; float: none !important; font-weight: bold !important; height: 10px !important; margin: 0px 0px 0px 3px !important; min-height: 0px !important; min-width: 0px !important; padding: 0px !important; text-transform: uppercase !important; text-decoration: underline !important; vertical-align: super !important; width: 10px !important; background: transparent !important;\" SRC=\"https://cdncache-a.akamaihd.net/items/it/img/arrow-10x10.png\" ALT=\"\"></A> and upcoming events.*</STRONG></P>\r\n<P><STRONG>DOORS OPEN AT 10PM</STRONG></P>"
+            },
+            "logo":{
+                "id":"12433821",
+                "url":"http://cdn.evbuc.com/images/12433821/68193446877/1/logo.jpg"
+            },
+            "id":"9430929163",
+            "url":"http://evillaonfriday.eventbrite.com/?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/12433821/68193446877/1/logo.jpg",
+            "start":{
+                "timezone":"America/New_York",
+                "local":"2015-02-27T22:00:00",
+                "utc":"2015-02-28T03:00:00Z"
+            },
+            "end":{
+                "timezone":"America/New_York",
+                "local":"2015-02-28T03:00:00",
+                "utc":"2015-02-28T08:00:00Z"
+            },
+            "created":"2013-11-19T23:57:54Z",
+            "changed":"2015-02-21T20:08:02Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"4497001187",
+            "venue_id":"9494352",
+            "category_id":"110",
+            "subcategory_id":null,
+            "format_id":"11",
+            "organizer":{
+                "description":{
+                    "text":" \r\nTwitter: @Sokoldentpromo\r\nIG: @Sokoldent",
+                    "html":"<P> </P>\r\n<P>Twitter: @Sokoldentpromo</P>\r\n<P>IG: @Sokoldent</P>"
+                },
+                "logo":{
+                    "id":"2306283",
+                    "url":"http://cdn.evbuc.com/images/2306283/68193446877/1/logo.jpg"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/4497001187/",
+                "id":"4497001187",
+                "name":"So Kold Entertainment",
+                "url":"http://www.eventbrite.com/o/so-kold-entertainment-4497001187",
+                "num_past_events":37,
+                "num_future_events":0
+            },
+            "venue":{
+                "address":{
+                    "address_1":"495 Peachtree St.",
+                    "address_2":null,
+                    "city":"Atlanta ",
+                    "region":"GA",
+                    "postal_code":"30308",
+                    "country":"US",
+                    "latitude":"33.7680239",
+                    "longitude":"-84.38494400000002"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/9494352/",
+                "id":"9494352",
+                "name":"EVILLA LOUNGE",
+                "latitude":"33.7680239",
+                "longitude":"-84.38494400000002"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/110/",
+                "id":"110",
+                "name":"Food & Drink",
+                "name_localized":"Food & Drink",
+                "short_name":"Food & Drink",
+                "short_name_localized":"Food & Drink"
+            },
+            "subcategory":null,
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/11/",
+                "id":"11",
+                "name":"Party or Social Gathering",
+                "name_localized":"Party or Social Gathering",
+                "short_name":"Party",
+                "short_name_localized":"Party"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/9430929163/ticket_classes/21981953/",
+                    "id":"21981953",
+                    "name":"S.K.E. Free all night",
+                    "description":null,
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "event_id":"9430929163"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/9430929163/ticket_classes/24814359/",
+                    "id":"24814359",
+                    "name":"Free Aquarius Birthday",
+                    "description":null,
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "event_id":"9430929163"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/",
+            "name":{
+                "text":"BottleRock Napa Valley 2015 - May 29th, May 30th, & May 31st",
+                "html":"BottleRock Napa Valley 2015 - May 29th, May 30th, & May 31st"
+            },
+            "description":{
+                "text":"Experience the first taste of summer at BottleRock Napa Valley: May 29-31, 2015. \nFOR BOTTLEROCK BUS TICKETS CLICK HERE \nPARKING PASSES WILL BE AVAILABLE MARCH 1, 2015. \n \nTICKET INFORMATION: \n\nOnce you purchase, you will receive an order confirmation email from Eventbrite on behalf of BottleRock Napa Valley. \nIMPORTANT: If you do not see your order confirmation in your inbox, make sure to check your junk/spam folder. If you still do not see your order confirmation, click here to access the Eventbrite help center. \nAll festival admission tickets will be barcoded electronic tickets. Please print or bring your PDF e-ticket to the event for admission. \nTransportation tickets will be barcoded electronic tickets and are available for purchase on the BottleRock Bus page.\nIf you are having any other technical ticketing-related issues with your order, click here to contact Eventbrite. \nAll sales final. No refunds or exchanges.\nEvent is rain or shine.\nArtists and schedule subject to change. \n\n \n** Only purchase BottleRock tickets from the official BottleRock ticketing page (you're here!). If you purchase from another source, you risk purchasing a counterfeit or invalid ticket. BottleRock is not responsible for tickets purchased from unofficial sources. \n  \n\nBy purchasing this ticket you accept the terms and conditions as outlined on www.bottlerocknapavalley.com.",
+                "html":"<P STYLE=\"text-align: center;\"><STRONG STYLE=\"line-height: 1.6em;\"><SPAN STYLE=\"font-size: small; font-family: tahoma, arial, helvetica, sans-serif;\"><SPAN STYLE=\"color: #1a1a1a;\">Experience the first taste of summer at BottleRock Napa Valley: May 29-31, 2015.</SPAN></SPAN></STRONG></P>\r\n<P><STRONG STYLE=\"line-height: 1.6em;\"><SPAN STYLE=\"font-size: small; font-family: tahoma, arial, helvetica, sans-serif;\"><SPAN STYLE=\"color: #1a1a1a;\">FOR BOTTLEROCK BUS TICKETS CLICK </SPAN><SPAN STYLE=\"color: #ff0000;\"><A TITLE=\"here\" HREF=\"http://2015bottlerockbusprogram.eventbrite.com\"><SPAN STYLE=\"color: #ff0000;\">HERE</SPAN></A></SPAN></SPAN></STRONG></P>\r\n<P><SPAN STYLE=\"color: #1a1a1a; font-family: tahoma, arial, helvetica, sans-serif; font-size: small; line-height: 1.6em;\"><STRONG STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20.7999992370605px;\"><SPAN STYLE=\"font-size: small; font-family: tahoma, arial, helvetica, sans-serif;\">PARKING PASSES WILL BE AVAILABLE MARCH 1, 2015.</SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><IMG SRC=\"https://cdn.evbuc.com/eventlogos/115566807/brnv15dailyschedule012615lo28129.jpg\" ALT=\"\" WIDTH=\"550\"></P>\r\n<P STYLE=\"text-align: left;\"><SPAN STYLE=\"color: #1a1a1a; font-family: tahoma, arial, helvetica, sans-serif; font-size: small; line-height: 1.6em; text-decoration: underline;\">TICKET INFORMATION:</SPAN></P>\r\n<UL>\r\n<LI><SPAN STYLE=\"font-size: small; font-family: tahoma, arial, helvetica, sans-serif;\"><SPAN STYLE=\"line-height: 115%; color: #1a1a1a;\">Once you purchase, you will receive an order confirmation email from Eventbrite on behalf of BottleRock Napa Valley. </SPAN></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: small; font-family: tahoma, arial, helvetica, sans-serif;\"><SPAN STYLE=\"line-height: 115%; color: #1a1a1a;\">IMPORTANT: If you do not see your order confirmation in your inbox, make sure to check your junk/spam folder. If you still do not see your order confirmation, click </SPAN><A HREF=\"http://help.eventbrite.com/customer/en_us/portal/articles/428577-i-can-t-find-or-print-my-tickets\"><SPAN STYLE=\"line-height: 115%; color: #e13a55; text-decoration: none;\">here</SPAN></A><SPAN STYLE=\"line-height: 115%; color: #1a1a1a;\"> to access the Eventbrite help center. </SPAN></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: small; font-family: tahoma, arial, helvetica, sans-serif;\"><SPAN STYLE=\"line-height: 115%; color: #1a1a1a;\">All festival admission tickets will be barcoded electronic tickets. Please print or bring your PDF e-ticket to the event for admission. </SPAN></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: small; font-family: tahoma, arial, helvetica, sans-serif;\"><SPAN STYLE=\"line-height: 115%; color: #1a1a1a;\">Transportation tickets will be barcoded electronic tickets and are available for purchase on the <SPAN STYLE=\"color: #ff0000;\"><A HREF=\"http://2015bottlerockbusprogram.eventbrite.com\"><SPAN STYLE=\"color: #ff0000;\">BottleRock Bus page</SPAN></A>.</SPAN></SPAN></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: small; font-family: tahoma, arial, helvetica, sans-serif;\"><SPAN STYLE=\"line-height: 115%; color: #1a1a1a;\">If you are having any other technical ticketing-related issues with your order, click </SPAN><A HREF=\"https://www.eventbrite.com/contact-us/\"><SPAN STYLE=\"line-height: 115%; color: #e13a55; text-decoration: none;\">here</SPAN></A><SPAN STYLE=\"line-height: 115%; color: #1a1a1a;\"> to contact Eventbrite. </SPAN></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: small; font-family: tahoma, arial, helvetica, sans-serif;\"><SPAN STYLE=\"line-height: 115%; color: #1a1a1a;\">All sales final. No refunds or exchanges.</SPAN></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: small; font-family: tahoma, arial, helvetica, sans-serif;\"><SPAN STYLE=\"line-height: 115%; color: #1a1a1a;\">Event is rain or shine.</SPAN></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: tahoma, arial, helvetica, sans-serif;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"line-height: 115%; color: #1a1a1a;\">Artists and schedule subject to change.</SPAN></SPAN><SPAN STYLE=\"font-size: small; line-height: 115%;\"> </SPAN></SPAN></LI>\r\n</UL>\r\n<DIV><SPAN STYLE=\"font-family: tahoma, arial, helvetica, sans-serif; font-size: small;\"><SPAN STYLE=\"line-height: 14.949999809265137px;\"><BR></SPAN></SPAN></DIV>\r\n<P STYLE=\"line-height: 115%;\"><SPAN STYLE=\"font-size: small; line-height: 115%; font-family: tahoma, arial, helvetica, sans-serif;\">** Only purchase BottleRock tickets from the official BottleRock ticketing page (you're here!). If you purchase from another source, you risk purchasing a counterfeit or invalid ticket. BottleRock is not responsible for tickets purchased from unofficial sources.</SPAN></P>\r\n<P STYLE=\"line-height: 115%;\"> </P>\r\n<HR>\r\n<P STYLE=\"line-height: 115%;\"><SPAN STYLE=\"font-family: tahoma, arial, helvetica, sans-serif; font-size: small; line-height: 115%;\">By purchasing this ticket you accept the terms and conditions as outlined on www.bottlerocknapavalley.com.</SPAN></P>"
+            },
+            "logo":{
+                "id":"12111554",
+                "url":"http://cdn.evbuc.com/images/12111554/116375774649/1/logo.jpg"
+            },
+            "id":"14520327691",
+            "url":"http://bottlerock2015.eventbrite.com/?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/12111554/116375774649/1/logo.jpg",
+            "start":{
+                "timezone":"America/Los_Angeles",
+                "local":"2015-05-29T12:00:00",
+                "utc":"2015-05-29T19:00:00Z"
+            },
+            "end":{
+                "timezone":"America/Los_Angeles",
+                "local":"2015-05-31T22:00:00",
+                "utc":"2015-06-01T05:00:00Z"
+            },
+            "created":"2014-11-21T03:07:30Z",
+            "changed":"2015-02-24T08:03:23Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"7753431745",
+            "venue_id":"9150139",
+            "category_id":"103",
+            "subcategory_id":null,
+            "format_id":"5",
+            "organizer":{
+                "description":{
+                    "text":"Recently deemed one of the world’s best festivals by Fest300, BottleRock Napa Valley is a three-day cultural experience filled with world-class music and hospitality. Taking place in the heart of downtown Napa, BottleRock features over 70 acclaimed artists and bands, and food and wine from top chefs and vintners from throughout Northern California.",
+                    "html":"<P><SPAN ID=\"docs-internal-guid-384ddb52-d050-ab87-6c81-b1858544a5a7\"><SPAN STYLE=\"font-size: 15px; font-family: Calibri; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;\"><SPAN ID=\"docs-internal-guid-f7e0dd0d-a728-b088-e2fa-3184749e4d8e\"><SPAN STYLE=\"font-size: 15px; font-family: Calibri; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;\">Recently deemed one of the world’s best festivals by Fest300</SPAN></SPAN>, BottleRock Napa Valley is a three-day cultural experience filled with world-class music and hospitality. Taking place in the heart of downtown Napa, BottleRock features over 70 acclaimed artists and bands, and food and wine from top chefs and vintners from throughout Northern California.</SPAN></SPAN></P>"
+                },
+                "logo":{
+                    "id":"12111394",
+                    "url":"http://cdn.evbuc.com/images/12111394/116375774649/2/logo.jpg"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/7753431745/",
+                "id":"7753431745",
+                "name":"BottleRock Napa Valley",
+                "url":"http://www.eventbrite.com/o/bottlerock-napa-valley-7753431745",
+                "num_past_events":0,
+                "num_future_events":2
+            },
+            "venue":{
+                "address":{
+                    "address_1":"575 3rd St",
+                    "address_2":null,
+                    "city":"Napa",
+                    "region":"CA",
+                    "postal_code":"94559",
+                    "country":"US",
+                    "latitude":"38.298361",
+                    "longitude":"-122.27855999999997"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/9150139/",
+                "id":"9150139",
+                "name":"Napa Valley Expo",
+                "latitude":"38.298361",
+                "longitude":"-122.27855999999997"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/103/",
+                "id":"103",
+                "name":"Music",
+                "name_localized":"Music",
+                "short_name":"Music",
+                "short_name_localized":"Music"
+            },
+            "subcategory":null,
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/5/",
+                "id":"5",
+                "name":"Festival or Fair",
+                "name_localized":"Festival or Fair",
+                "short_name":"Festival",
+                "short_name_localized":"Festival"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/33118855/",
+                    "id":"33118855",
+                    "name":"1-Day Friday General Admission $99 *limited availability",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$99.00",
+                        "value":9900
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$11.00",
+                        "value":1100
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/33119246/",
+                    "id":"33119246",
+                    "name":"1-Day Friday General Admission $109 *limited availability",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$109.00",
+                        "value":10900
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$11.00",
+                        "value":1100
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/33434921/",
+                    "id":"33434921",
+                    "name":"1-Day Friday General Admission $119",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$119.00",
+                        "value":11900
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$11.00",
+                        "value":1100
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/33119422/",
+                    "id":"33119422",
+                    "name":"1-Day Saturday General Admission $99 *limited availability",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$99.00",
+                        "value":9900
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$11.00",
+                        "value":1100
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/33119434/",
+                    "id":"33119434",
+                    "name":"1-Day Saturday General Admission $109 *limited availability",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$109.00",
+                        "value":10900
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$11.00",
+                        "value":1100
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/33435035/",
+                    "id":"33435035",
+                    "name":"1-Day Saturday General Admission $119",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$119.00",
+                        "value":11900
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$11.00",
+                        "value":1100
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/33119564/",
+                    "id":"33119564",
+                    "name":"1-Day Sunday General Admission $99 *limited availability",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$99.00",
+                        "value":9900
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$11.00",
+                        "value":1100
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/33119579/",
+                    "id":"33119579",
+                    "name":"1-Day Sunday General Admission $109 *limited availability",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$109.00",
+                        "value":10900
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$11.00",
+                        "value":1100
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/33435057/",
+                    "id":"33435057",
+                    "name":"1-Day Sunday General Admission $119",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$119.00",
+                        "value":11900
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$11.00",
+                        "value":1100
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/31568473/",
+                    "id":"31568473",
+                    "name":"3-Day General Admission $255 *limited availability",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$255.00",
+                        "value":25500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$22.00",
+                        "value":2200
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/32373025/",
+                    "id":"32373025",
+                    "name":"3-Day General Admission $275 *limited availability",
+                    "description":"Anything but general, the three-day general admission pass provides all that BottleRock is known for: 70+ bands on four stages, great sight lines throughout the venue and in and out privileges for all three days. Tickets also include access to gourmet food from Napa Valley’s finest chefs and restaurateurs, craft beer and specialty cocktails, and dozens of wine cabanas where you can sip, savor and mingle with your favorite vintner. Three days of world-class music combined with wine country living at its finest! HURRY - ONLY A LIMITED QUANTITY OF GA PASSES ARE AVAILABLE AT $275.",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$275.00",
+                        "value":27500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$22.00",
+                        "value":2200
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/31568439/",
+                    "id":"31568439",
+                    "name":"3-Day General Admission $295",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$295.00",
+                        "value":29500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$22.00",
+                        "value":2200
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/31366997/",
+                    "id":"31366997",
+                    "name":"3-Day VIP $575 *limited availability",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$575.00",
+                        "value":57500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$28.00",
+                        "value":2800
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/31568521/",
+                    "id":"31568521",
+                    "name":"3-Day VIP $595 *limited availability",
+                    "description":"For those BottleRockers who want an elevated festival experience, our 3-day VIP Pass really cranks up the perks with everything that the 3-day general pass provides, plus special VIP parking close to the venue, prime viewing areas and shade at each stage, and a separate and less crowded entrance and exit. And what VIP doesn’t need a VIP area, providing an oasis with comfy seats, free wifi, full cash-bar, and of course, expanded wine and culinary offerings only available to VIP pass holders? And, did we mention upgraded VIP only restrooms?! Now THAT’S a golden ticket! There are a limited quantity of VIP passes. HURRY - ONLY A LIMITED QUANTITY OF VIP PASSES ARE AVAILABLE AT $595.",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$595.00",
+                        "value":59500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$28.00",
+                        "value":2800
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/33189410/",
+                    "id":"33189410",
+                    "name":"3-Day VIP $650",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$650.00",
+                        "value":65000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$28.00",
+                        "value":2800
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/31808267/",
+                    "id":"31808267",
+                    "name":"3-Day Platinum $2500 *limited availability",
+                    "description":"For an experience that only Napa Valley can provide, Platinum pass holders receive access to all VIP benefits plus: exclusive Platinum access to on-stage viewing and viewing areas directly in front of each stage where you can be nearly face to face with some of the top musicians in the world. The Platinum Lounge includes on-site concierge service and complimentary fine wines and foods throughout the weekend. Platinum Passes also include exclusive daily gourmet tasting menus prepared by celebrity Napa Valley chefs, premium cocktails, and very rare Napa Valley wines selected and served by some of the top sommeliers in the world (Master Sommeliers and Masters of Wine). Premium restrooms, parking directly at the event site, air conditioned spaces, and more. Of course this privilege is only available to a select few. Passes are limited. Contact us at platinum@bottlerocknapa.com for more information or if you have questions about Platinum passes.",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$2500.00",
+                        "value":250000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$36.00",
+                        "value":3600
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/33189344/",
+                    "id":"33189344",
+                    "name":"3-day Platinum $2750 *limited availability*",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$2750.00",
+                        "value":275000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$36.00",
+                        "value":3600
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14520327691/ticket_classes/31643973/",
+                    "id":"31643973",
+                    "name":"3-Day Platinum $3000",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$3000.00",
+                        "value":300000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$36.00",
+                        "value":3600
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14520327691"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/3798681960/",
+            "name":{
+                "text":"The Governors Ball Music Festival 2015",
+                "html":"The Governors Ball Music Festival 2015"
+            },
+            "description":{
+                "text":"FOR TRANSPORTATION TICKETS CLICK HERE \nFOR PAYMENT PLANS CLICK HERE \nTICKET INFORMATION \n\nOnce you purchase, you will receive an order confirmation email from Eventbrite on behalf of the The Governors Ball Music Festival. \nIMPORTANT: If you do not see your order confirmation in your inbox, make sure to check your junk/spam folder. If you still do not see your order confirmation, click here to access the Eventbrite help center. \nNo barcoded festival admission tickets will be issued for this event, all admission ticket-purchasers will receive a festival wristband by mail. Transportation tickets will be barcoded electronic tickets and are available here.\nIf you are having any other technical ticketing-related issues with your order, click here to contact Eventbrite. For general festival info, click here.\nAll wristbands will ship in May 2015. Please allow to the end of May for your wristbands to arrive. Wristbands will be sent to the shipping address specified on your order. All international orders will be held at will call.\nNeed to view or update your shipping address? Click here for instructions. You will be able to update your shipping address until April 30, 2015.\nAll sales final. No refunds or exchanges.\nEvent is rain or shine.\nArtists and schedule subject to change.\n\n \n**Only purchase Gov Ball tickets from the official Gov Ball ticketing page (you're here!). If you purchase from another source, you risk purchasing a counterfeit or invalid ticket. Gov Ball is not responsible for tickets purchased from unoffical sources.\n\nBy purchasing this ticket you accept the terms and conditions.  Click here for terms and conditions.",
+                "html":"<P STYLE=\"text-align: center;\"><SPAN STYLE=\"color: #222222; font-size: large;\"><SPAN STYLE=\"color: #222222;\">FOR TRANSPORTATION TICKETS CLICK <A HREF=\"https://www.eventbrite.com/e/the-governors-ball-music-festival-2015-transportation-tickets-tickets-13293205335\">HERE</A></SPAN></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"color: #222222; font-size: large;\"><SPAN STYLE=\"color: #222222;\">FOR PAYMENT PLANS CLICK <A HREF=\"https://www.eventbrite.com/e/the-governors-ball-music-festival-2015-payment-plans-tickets-14116808755\">HERE</A></SPAN></SPAN></P>\r\n<P><SPAN STYLE=\"color: #222222; font-size: medium; line-height: 1.6em;\">TICKET INFORMATION</SPAN></P>\r\n<UL STYLE=\"color: #222222; font-size: small;\">\r\n<LI><SPAN STYLE=\"font-size: medium;\">Once you purchase, you will receive an order confirmation email from Eventbrite on behalf of the The Governors Ball Music Festival. </SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: medium;\">IMPORTANT: If you do not see your order confirmation in your inbox, make sure to check your junk/spam folder. If you still do not see your order confirmation, click <A HREF=\"http://help.eventbrite.com/customer/en_us/portal/articles/428577-i-can-t-find-or-print-my-tickets\" TARGET=\"_blank\">here</A> to access the Eventbrite help center. </SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: medium;\">No barcoded festival admission tickets will be issued for this event, all admission ticket-purchasers will receive a festival wristband by mail. Transportation tickets will be barcoded electronic tickets and are available <A HREF=\"https://www.eventbrite.com/e/the-governors-ball-music-festival-2015-transportation-tickets-tickets-13293205335?aff=navbar\">here</A>.</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: medium;\">If you are having any other technical ticketing-related issues with your order, click <A HREF=\"https://www.eventbrite.com/contact-us/\" TARGET=\"_blank\">here</A> to contact Eventbrite. For general festival info, click <A HREF=\"http://governorsballmusicfestival.com/info/festival-info/\" TARGET=\"_blank\" REL=\"nofollow\">here</A>.</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: medium;\">All wristbands will ship in May 2015. Please allow to the end of May for your wristbands to arrive. Wristbands will be sent to the shipping address specified on your order. All international orders will be held at will call.</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: medium;\">Need to view or update your shipping address? Click <A HREF=\"http://help.eventbrite.com/customer/en_us/portal/articles/430100-change-the-info-on-your-order-or-ticket\" TARGET=\"_blank\">here</A> for instructions. You will be able to update your shipping address until April 30, 2015.</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: medium;\">All sales final. No refunds or exchanges.</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: medium;\">Event is rain or shine.</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: medium;\">Artists and schedule subject to change.</SPAN></LI>\r\n</UL>\r\n<DIV><SPAN STYLE=\"font-size: 13px; line-height: 1.6em;\"><BR></SPAN></DIV>\r\n<DIV><SPAN STYLE=\"font-size: 13px; line-height: 1.6em;\">**Only purchase Gov Ball tickets from the official Gov Ball ticketing page (you're here!). If you purchase from another source, you risk purchasing a counterfeit or invalid ticket. Gov Ball is not responsible for tickets purchased from unoffical sources.</SPAN></DIV>\r\n<DIV STYLE=\"width: 600px;\"><HR>\r\n<P><SPAN STYLE=\"font-size: xx-small;\"><SPAN STYLE=\"font-size: small;\">By purchasing this ticket you accept the terms and conditions. <BR>Click <A HREF=\"http://governorsballmusicfestival.com/tickets/terms-and-conditions/\" REL=\"nofollow\">here</A> for terms and conditions.</SPAN></SPAN></P>\r\n</DIV>"
+            },
+            "logo":{
+                "id":"12046032",
+                "url":"http://cdn.evbuc.com/images/12046032/24975095395/1/logo.png"
+            },
+            "id":"3798681960",
+            "url":"http://govball.eventbrite.com/?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/12046032/24975095395/1/logo.png",
+            "start":{
+                "timezone":"America/New_York",
+                "local":"2015-06-05T11:45:00",
+                "utc":"2015-06-05T15:45:00Z"
+            },
+            "end":{
+                "timezone":"America/New_York",
+                "local":"2015-06-07T23:00:00",
+                "utc":"2015-06-08T03:00:00Z"
+            },
+            "created":"2013-06-06T19:43:37Z",
+            "changed":"2015-02-24T07:08:24Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"1798658085",
+            "venue_id":"8209163",
+            "category_id":"103",
+            "subcategory_id":null,
+            "format_id":"6",
+            "organizer":{
+                "description":null,
+                "logo":{
+                    "id":"878482",
+                    "url":"http://cdn.evbuc.com/images/878482/24975095395/1/logo.jpg"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/1798658085/",
+                "id":"1798658085",
+                "name":"The Governors Ball Music Festival",
+                "url":"http://www.eventbrite.com/o/the-governors-ball-music-festival-1798658085",
+                "num_past_events":9,
+                "num_future_events":3
+            },
+            "venue":{
+                "address":{
+                    "address_1":"1 Randalls Island Park",
+                    "address_2":null,
+                    "city":"New York",
+                    "region":"NY",
+                    "postal_code":"10035",
+                    "country":"US",
+                    "latitude":"40.795813",
+                    "longitude":"-73.92251699999997"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/8209163/",
+                "id":"8209163",
+                "name":"Randall's Island Park",
+                "latitude":"40.795813",
+                "longitude":"-73.92251699999997"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/103/",
+                "id":"103",
+                "name":"Music",
+                "name_localized":"Music",
+                "short_name":"Music",
+                "short_name_localized":"Music"
+            },
+            "subcategory":null,
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/6/",
+                "id":"6",
+                "name":"Concert or Performance",
+                "name_localized":"Concert or Performance",
+                "short_name":"Performance",
+                "short_name_localized":"Performance"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/3798681960/ticket_classes/33480586/",
+                    "id":"33480586",
+                    "name":"3-DAY ADMISSION: Early Bird Tix SOLD OUT",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$245.00",
+                        "value":24500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$40.00",
+                        "value":4000
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"3798681960"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/3798681960/ticket_classes/30575233/",
+                    "id":"30575233",
+                    "name":"3-DAY ADMISSION: GA Regular",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$260.00",
+                        "value":26000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$40.00",
+                        "value":4000
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"3798681960"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/3798681960/ticket_classes/30575235/",
+                    "id":"30575235",
+                    "name":"3-DAY ADMISSION: VIP Regular",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$595.00",
+                        "value":59500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$50.00",
+                        "value":5000
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"3798681960"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/3798681960/ticket_classes/28823023/",
+                    "id":"28823023",
+                    "name":"3-DAY ADMISSION: SUPER VIP",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$2000.00",
+                        "value":200000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$0.00",
+                        "value":0
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"3798681960"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/3798681960/ticket_classes/33480531/",
+                    "id":"33480531",
+                    "name":"FRIDAY ADMISSION: GA Single day",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$105.00",
+                        "value":10500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$30.00",
+                        "value":3000
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":6,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"3798681960"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/3798681960/ticket_classes/33480532/",
+                    "id":"33480532",
+                    "name":"FRIDAY ADMISSION: VIP Single day",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$240.00",
+                        "value":24000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$40.00",
+                        "value":4000
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"3798681960"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/3798681960/ticket_classes/33480533/",
+                    "id":"33480533",
+                    "name":"SATURDAY ADMISSION: GA Single day",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$105.00",
+                        "value":10500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$30.00",
+                        "value":3000
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"3798681960"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/3798681960/ticket_classes/33480534/",
+                    "id":"33480534",
+                    "name":"SATURDAY ADMISSION: VIP Single day",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$240.00",
+                        "value":24000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$40.00",
+                        "value":4000
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"3798681960"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/3798681960/ticket_classes/33480535/",
+                    "id":"33480535",
+                    "name":"SUNDAY ADMISSION: GA Single day",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$105.00",
+                        "value":10500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$30.00",
+                        "value":3000
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"3798681960"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/3798681960/ticket_classes/33480536/",
+                    "id":"33480536",
+                    "name":"SUNDAY ADMISSION: VIP Single day",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$240.00",
+                        "value":24000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$40.00",
+                        "value":4000
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"3798681960"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/3798681960/ticket_classes/30963597/",
+                    "id":"30963597",
+                    "name":"Click <a href=\"https://www.eventbrite.com/e/the-governors-ball-music-festival-2015-payment-plans-tickets-14116808755\">HERE</a> For Payment Plan Tickets",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$260.00",
+                        "value":26000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$0.00",
+                        "value":0
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":1,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"3798681960"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/3798681960/ticket_classes/30973579/",
+                    "id":"30973579",
+                    "name":"Click <a href=\"https://www.eventbrite.com/e/the-governors-ball-music-festival-2015-transportation-tickets-tickets-13293205335\">HERE</a> For Transportation Tickets",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$55.00",
+                        "value":5500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$0.00",
+                        "value":0
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":1,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"3798681960"
+                }
+            ]
+        }
+    ]
+}

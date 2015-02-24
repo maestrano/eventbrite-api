@@ -1,0 +1,1996 @@
+{
+    "pagination":{
+        "object_count":252920,
+        "page_number":1,
+        "page_size":50,
+        "page_count":5059
+    },
+    "events":[
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/8004017231/",
+            "name":{
+                "text":"FLIRT FRIDAYS AT CREAM ULTRA LOUNGE THIS FRIDAY NIGHT",
+                "html":"FLIRT FRIDAYS AT CREAM ULTRA LOUNGE THIS FRIDAY NIGHT"
+            },
+            "description":{
+                "text":"FLIRT FRIDAYS \n@ \nCREAM ULTRA LOUNGE \nLIVE BROADCAST ON HOT 107.9 \nTHIS FRIDAY NIGHT \nMUSIC PROVIDED BY DJ OUTTASPACE, DJ P-NUT, AND DJ GERONIMO \nCREAM ULTRA LOUNGE \n3249 BUFORD HWY \nATLANTA, GA 30329 \nRSVP: FLIRTFRIDAYSATL.EVENTBRITE.COM \nCOMPLIMENTARY DRINKS FOR LADIES TIL MIDNIGHT \nCOMPLIMENTARY VALET PARKING FOR LADIES ALL NIGHT \nFOR MORE INFO CALL 678 949 9005 \nDRESS CODE ENFORCED \n BIRTHDAY PARTY SPECIALS AVAILABLE FOR MORE INFO CALL \n678 949 9005",
+                "html":"<P STYLE=\"text-align: center;\"> <SPAN STYLE=\"line-height: 1.6em;\"> <IMG SRC=\"https://cdn.evbuc.com/eventlogos/22328802/photo10.png\" ALT=\"\" WIDTH=\"600\" HEIGHT=\"600\"></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-size: x-large; line-height: 1.6em;\">FLIRT FRIDAYS</SPAN></P>\r\n<P STYLE=\"text-align: center;\">@</P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-size: x-large;\">CREAM ULTRA LOUNGE</SPAN></P>\r\n<P STYLE=\"text-align: center;\"><STRONG><SPAN STYLE=\"font-size: x-large;\">LIVE BROADCAST ON HOT 107.9</SPAN></STRONG></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-size: x-large;\">THIS FRIDAY NIGHT</SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-size: large;\">MUSIC PROVIDED BY DJ OUTTASPACE, DJ P-NUT, AND DJ GERONIMO</SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-size: x-large;\"><STRONG>CREAM ULTRA LOUNGE</STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-size: large;\">3249 BUFORD HWY</SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-size: large;\">ATLANTA, GA 30329</SPAN></P>\r\n<P STYLE=\"text-align: center;\"><STRONG><SPAN STYLE=\"font-size: x-large;\">RSVP: FLIRTFRIDAYSATL.EVENTBRITE.COM</SPAN></STRONG></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-size: x-large;\"><STRONG>COMPLIMENTARY DRINKS FOR LADIES TIL MIDNIGHT</STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-size: x-large;\"><STRONG>COMPLIMENTARY VALET PARKING FOR LADIES ALL NIGHT</STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-size: large;\">FOR MORE INFO CALL 678 949 9005</SPAN></P>\r\n<P STYLE=\"text-align: center;\"><STRONG><SPAN STYLE=\"font-size: large;\">DRESS CODE ENFORCED</SPAN></STRONG></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-size: x-large;\"><SPAN STYLE=\"font-size: large;\"> BIRTHDAY PARTY SPECIALS AVAILABLE FOR MORE INFO CALL</SPAN></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-size: x-large;\"><SPAN STYLE=\"font-size: large;\">678 949 9005</SPAN> </SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><BR><IMG TITLE=\"MONICA\" SRC=\"https://evbdn.eventbrite.com/s3-s3/eventlogos/22328802/4133.jpg\" ALT=\"MONICA\" WIDTH=\"288\" HEIGHT=\"450\"><IMG TITLE=\"LANCE GROSS\" SRC=\"https://evbdn.eventbrite.com/s3-s3/eventlogos/22328802/4131.jpg\" ALT=\"LANCE GROSS\" WIDTH=\"297\" HEIGHT=\"450\"><IMG TITLE=\"CREAM\" SRC=\"https://evbdn.eventbrite.com/s3-s3/eventlogos/22328802/picture715.jpg\" ALT=\"CREAM\" WIDTH=\"600\" HEIGHT=\"399\"></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: large;\"><IMG TITLE=\"MELO\" SRC=\"https://evbdn.eventbrite.com/s3-s3/eventlogos/22328802/42014.jpg\" ALT=\"MELO\" WIDTH=\"400\" HEIGHT=\"287\"></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><IMG TITLE=\"CREAM3\" SRC=\"https://evbdn.eventbrite.com/s3-s3/eventlogos/22328802/cpic6.jpg\" ALT=\"CREAM3\" WIDTH=\"600\" HEIGHT=\"269\"></P>\r\n<P STYLE=\"text-align: center;\"><IMG TITLE=\"CREAM\" SRC=\"https://evbdn.eventbrite.com/s3-s3/eventlogos/22328802/picture301.jpg\" ALT=\"CREAM\" WIDTH=\"400\" HEIGHT=\"602\"><IMG TITLE=\"CREAM\" SRC=\"https://evbdn.eventbrite.com/s3-s3/eventlogos/22328802/picture264.jpg\" ALT=\"CREAM\" WIDTH=\"400\" HEIGHT=\"602\"></P>"
+            },
+            "logo":{
+                "id":"2315395",
+                "url":"http://cdn.evbuc.com/images/2315395/22485103614/1/logo.jpg"
+            },
+            "id":"8004017231",
+            "url":"http://flirtfridaysatl.eventbrite.com/?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/2315395/22485103614/1/logo.jpg",
+            "start":{
+                "timezone":"America/New_York",
+                "local":"2015-02-27T22:00:00",
+                "utc":"2015-02-28T03:00:00Z"
+            },
+            "end":{
+                "timezone":"America/New_York",
+                "local":"2015-02-28T04:00:00",
+                "utc":"2015-02-28T09:00:00Z"
+            },
+            "created":"2013-08-22T21:07:55Z",
+            "changed":"2015-02-21T11:45:37Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"2361239782",
+            "venue_id":"1381828",
+            "category_id":"103",
+            "subcategory_id":"3008",
+            "format_id":"11",
+            "organizer":{
+                "description":{
+                    "text":"STAINLESS, UPSCALE, FLATLINE, POSTERCHILD UNLIMITED, AND URBAN ENTERTAINMENT",
+                    "html":"<P>STAINLESS, UPSCALE, FLATLINE, POSTERCHILD UNLIMITED, AND URBAN ENTERTAINMENT</P>"
+                },
+                "logo":{
+                    "id":"332150",
+                    "url":"http://cdn.evbuc.com/images/332150/22485103614/1/logo.jpg"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/2361239782/",
+                "id":"2361239782",
+                "name":"STAINLESS, UPSCALE, AND URBAN ENTERTAINMENT ",
+                "url":"http://www.eventbrite.com/o/stainless-upscale-and-urban-entertainment-2361239782",
+                "num_past_events":7,
+                "num_future_events":2
+            },
+            "venue":{
+                "address":{
+                    "address_1":"3249 Buford Hwy ",
+                    "address_2":null,
+                    "city":"Atlanta",
+                    "region":"GA",
+                    "postal_code":"30329",
+                    "country":"US",
+                    "latitude":"33.837735",
+                    "longitude":"-84.332496"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/1381828/",
+                "id":"1381828",
+                "name":"CREAM ULTRA LOUNGE",
+                "latitude":"33.837735",
+                "longitude":"-84.332496"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/103/",
+                "id":"103",
+                "name":"Music",
+                "name_localized":"Music",
+                "short_name":"Music",
+                "short_name_localized":"Music"
+            },
+            "subcategory":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/subcategories/3008/",
+                "id":"3008",
+                "name":"Hip Hop / Rap"
+            },
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/11/",
+                "id":"11",
+                "name":"Party or Social Gathering",
+                "name_localized":"Party or Social Gathering",
+                "short_name":"Party",
+                "short_name_localized":"Party"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/8004017231/ticket_classes/20263693/",
+                    "id":"20263693",
+                    "name":"Ladies Free til 1AM/Guys Midnight at Cream Lounge",
+                    "description":"LADIES FREE TIL 1AM GUYS FREE TIL MIDNIGHT",
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":2,
+                    "event_id":"8004017231"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/11118895917/",
+            "name":{
+                "text":"Quantum Collective Southwest Invasion 2015",
+                "html":"Quantum Collective Southwest Invasion 2015"
+            },
+            "description":{
+                "text":"Quantum Collective Southwest Invasion 2015 \nAn Amazing 2-Day Live Event on the Whole Foods Rooftop Plaza during SXSW Music Week \n FREE All Ages Event featuring over 30 of Your Favorite Artists \nRSVP Today! \n  \nPast Performances By \nLisa Marie Presley – Matisyahu – A Great Big World – G. Love – Suzanne Vega – Mary Lambert – Bad Things – Barcelona – Wakey!Wakey! – Boy & Bear – Dirty Vegas – Kris Allen – We Were Promised Jetpacks – In The Valley Below – Andrew Belle – Imagine Dragons – The Lumineers – Pentatonix – ZZ Ward – Rick Springfield – Andrew McMahon – Kenny Loggins – Delta Rae – Twin Forks featuring Chris Carrabba – Rachael Yamagata – Diane Birch – and Many More! \n  \nExclusive 2014 Southwest Invasion Performances \nRelive 2014! Click Here to check out Exclusive Content of your Favorite Artist performing at the 2014 Southwest Invasion \n  \nQuantumCollective.com, powered by Section 101  \n  \nSouthwest Invasion 2014 Trailer",
+                "html":"<P STYLE=\"text-align: center;\"><STRONG STYLE=\"font-family: 'arial black', 'avant garde'; font-size: xx-large; line-height: 1.6em;\">Quantum Collective Southwest Invasion 2015</STRONG></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-size: medium; font-family: 'arial black', 'avant garde';\"><STRONG>An Amazing 2-Day Live Event on the Whole Foods Rooftop Plaza during SXSW Music Week</STRONG></SPAN></P>\r\n<P STYLE=\"font-family: verdana, sans-serif; line-height: normal; text-align: center;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: medium;\"><STRONG> FREE All Ages Event featuring over 30 of Your Favorite Artists</STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: 'arial black', 'avant garde'; font-size: x-large;\"><STRONG>RSVP Today!</STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: 'arial black', 'avant garde'; font-size: x-large;\"><STRONG><BR></STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: 'arial black', 'avant garde'; font-size: medium;\"><STRONG>Past Performances By</STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; font-size: medium; line-height: 19.5px;\">Lisa Marie Presley – Matisyahu – A Great Big World – G. Love – Suzanne Vega – <SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\">Mary Lambert – <SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\">Bad Things –</SPAN> </SPAN>Barcelona – Wakey!Wakey! – Boy &amp; Bear – Dirty Vegas – Kris Allen – We Were Promised Jetpacks – In The Valley Below – Andrew Belle<SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"> – </SPAN><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\">Imagine Dragons<SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"> – </SPAN>The Lumineers<SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"> – <SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\">Pentatonix<SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"> – </SPAN></SPAN></SPAN>ZZ Ward<SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"> – </SPAN>Rick Springfield<SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"> – </SPAN>Andrew McMahon<SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"> – </SPAN><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\">Kenny Loggins</SPAN><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"> – </SPAN><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\">Delta Rae</SPAN><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"> – </SPAN><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\">Twin Forks featuring Chris Carrabba</SPAN><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"> – </SPAN>Rachael Yamagata<SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"> – </SPAN>Diane Birch<SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"> – and Many More!</SPAN></SPAN></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; font-size: medium; line-height: 19.5px;\"><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"><STRONG><BR></STRONG></SPAN></SPAN></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><STRONG STYLE=\"font-family: 'arial black', 'avant garde'; font-size: medium; line-height: 20.799999237060547px; text-align: center;\">Exclusive 2014 Southwest Invasion Performances</STRONG></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; font-size: medium;\"><SPAN STYLE=\"line-height: 19.5px;\"><STRONG>Relive 2014! <A TITLE=\"Quantum Collective Artist\" HREF=\"http://quantumcollective.com/artists\" TARGET=\"_blank\" REL=\"nofollow\">Click Here</A> to check out Exclusive Content of your Favorite Artist performing at the 2014 Southwest Invasion</STRONG></SPAN></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; font-size: medium; line-height: 19.5px;\"><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"><SPAN STYLE=\"color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; line-height: 19.5px; text-align: center;\"><STRONG><BR></STRONG></SPAN></SPAN></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: small; line-height: 16px;\"><STRONG STYLE=\"font-size: medium;\"><A TITLE=\"Quantum Collective.com\" HREF=\"http://quantumcollective.com/\" TARGET=\"_blank\" REL=\"nofollow\">QuantumCollective.com</A></STRONG><SPAN STYLE=\"font-size: medium;\">, powered by </SPAN><STRONG STYLE=\"font-size: medium;\"><A STYLE=\"color: #000000;\" TITLE=\"Section 101\" HREF=\"http://section101.com/\" TARGET=\"_blank\" REL=\"nofollow\">Section 101</A> <A TITLE=\"Section 101\" HREF=\"http://section101.com/\" TARGET=\"_blank\" REL=\"nofollow\"><IMG SRC=\"https://evbdn.eventbrite.com/s3-s3/eventlogos/3284057/s101logoblue.png\" ALT=\"\" WIDTH=\"46\" HEIGHT=\"26\"></A></STRONG></SPAN></P>\r\n<P STYLE=\"font-family: verdana, sans-serif; line-height: normal;\"><SPAN STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.6em;\"><BR></SPAN></P>\r\n<P STYLE=\"font-family: verdana, sans-serif; line-height: normal; text-align: center;\"><SPAN STYLE=\"font-family: 'arial black', 'avant garde'; font-size: medium;\">Southwest Invasion 2014 Trailer</SPAN></P>\r\n<!-- This version of the embed code is no longer supported. Learn more: https://vimeo.com/s/tnm -->\r\n<P STYLE=\"text-align: center;\"><OBJECT STYLE=\"border: 1px solid; border-color: #999999;\" WIDTH=\"560\" HEIGHT=\"316\" DATA=\"http://vimeo.com/moogaloop.swf?clip_id=80920596&force_embed=1&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1&autoplay=0&loop=0\" TYPE=\"application/x-shockwave-flash\"><PARAM NAME=\"allowscriptaccess\" VALUE=\"sameorigin\"></PARAM><PARAM NAME=\"allowfullscreen\" VALUE=\"true\"></PARAM><PARAM NAME=\"src\" VALUE=\"http://vimeo.com/moogaloop.swf?clip_id=80920596&force_embed=1&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=ffffff&fullscreen=1&autoplay=0&loop=0\"></PARAM></OBJECT></P>"
+            },
+            "logo":null,
+            "id":"11118895917",
+            "url":"http://qc2015.eventbrite.com/?aff=ebapi",
+            "logo_url":null,
+            "start":{
+                "timezone":"America/Chicago",
+                "local":"2015-03-20T10:00:00",
+                "utc":"2015-03-20T15:00:00Z"
+            },
+            "end":{
+                "timezone":"America/Chicago",
+                "local":"2015-03-21T22:00:00",
+                "utc":"2015-03-22T03:00:00Z"
+            },
+            "created":"2014-03-28T18:02:22Z",
+            "changed":"2015-02-18T02:31:31Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"2005685201",
+            "venue_id":"6128219",
+            "category_id":"103",
+            "subcategory_id":null,
+            "format_id":"6",
+            "organizer":{
+                "description":{
+                    "text":"The Quantum Collective is an innovative music marketing company that brings musicians, artists, celebrities and consumer brands together through original programs and live events.  Check out the promo reel from the QC's Southwest Invasion: An Amazing Live Event during the SXSW music festival in Austin, Texas.\r\nFor more information on Quantum Collective, please visit: QuantumCollective.com.\r\n The founders of Quantum Collective include:\r\nLiz Leahy, the CEO and co-founder of Section 101, the premier website solution for the music and entertainment industry.  The company offers a premier service for clients who prefer Section 101 to supply creative input – from design and development through to the successful launch of their website - as well as a Do-It-Yourself Solution that provides all the tools and functionality required for clients to create their own unique website on a budget.  \r\nDan Silver is VP of Creative and Sr. Producer at RipTide Music Group, a Sync flavored Publishing Company specializing in worldwide placements for Advertising, Film, Television, Film Trailers, and Video Games. As co-founder, Dan’s unique approach to curating live talent for the Quantum Collective continues to yield a stellar two-day line-up including emerging and well-established artists. Also being an Artist and Producer himself, Dan brings artistic perspective as Co-producer of the event.\r\n Allison Shaw, founder of Manic Monkee, specializes in artist management, brand development, sponsorship and event planning in the entertainment space. Her brands past and present include Music Charity Sweet Relief , Hip Hop band Public Enemy, Ticketfly, Jakprints, SongFreaks, Rachael Ray Feedback, .music, Spit Digital, Stageit.com, Beatport, Listen Records/Sony and more.Visit QuantumCollective.com for more information.",
+                    "html":"<P><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: small;\"><SPAN STYLE=\"color: #333333;\">The Quantum Collective is an innovative music marketing company that brings musicians, artists, celebrities and consumer brands together through original programs and live events.  Check out the promo reel from the QC's </SPAN><A STYLE=\"font-family: arial, helvetica, sans-serif; font-size: small;\" HREF=\"http://quantumcollective.com\" TARGET=\"_blank\"><STRONG>Southwest Invasion: An Amazing Live Event</STRONG> </A><SPAN STYLE=\"color: #333333;\">during the SXSW music festival in Austin, Texas.</SPAN></SPAN></P>\r\n<P><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: small;\">For more information on Quantum Collective, please visit: <A HREF=\"http://quantumcollective.com/\" TARGET=\"_blank\"><STRONG>QuantumCollective.com.</STRONG></A></SPAN></P>\r\n<P><BR><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: small;\"> The founders of Quantum Collective include:</SPAN></P>\r\n<P><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: small;\">Liz Leahy, the CEO and co-founder of <A HREF=\"http://www.eventbrite.com/Section101.com\" TARGET=\"_blank\"><STRONG>Section 101</STRONG></A>, the premier website solution for the music and entertainment industry.  The company offers a premier service for clients who prefer Section 101 to supply creative input – from design and development through to the successful launch of their website - as well as a Do-It-Yourself Solution that provides all the tools and functionality required for clients to create their own unique website on a budget. </SPAN><SPAN STYLE=\"line-height: 1.6em;\"> </SPAN></P>\r\n<P>Dan Silver is VP of Creative and Sr. Producer at <A HREF=\"http://riptidemusic.com\" TARGET=\"_blank\"><STRONG>RipTide Music Group</STRONG></A>, a Sync flavored Publishing Company specializing in worldwide placements for Advertising, Film, Television, Film Trailers, and Video Games. As co-founder, Dan’s unique approach to curating live talent for the Quantum Collective continues to yield a stellar two-day line-up including emerging and well-established artists. Also being an Artist and Producer himself, Dan brings artistic perspective as Co-producer of the event.</P>\r\n<P><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: small;\"> Allison Shaw, founder of <STRONG>Manic Monkee</STRONG>, specializes in artist management, brand development, sponsorship and event planning in the entertainment space. Her brands past and present include Music Charity Sweet Relief , Hip Hop band Public Enemy, Ticketfly, Jakprints, SongFreaks, Rachael Ray Feedback, .music, Spit Digital, Stageit.com, Beatport, Listen Records/Sony and more.<BR><BR><STRONG>Visit <A HREF=\"http://www.quantumcollective.com\">QuantumCollective.com</A> for more information.</STRONG></SPAN></P>"
+                },
+                "logo":{
+                    "id":"156513",
+                    "url":"http://cdn.evbuc.com/images/156513/3307045399/2/logo.jpg"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/2005685201/",
+                "id":"2005685201",
+                "name":"Quantum Collective",
+                "url":"http://www.eventbrite.com/o/quantum-collective-2005685201",
+                "num_past_events":2,
+                "num_future_events":1
+            },
+            "venue":{
+                "address":{
+                    "address_1":"525 North Lamar Boulevard",
+                    "address_2":null,
+                    "city":"Austin",
+                    "region":"TX",
+                    "postal_code":null,
+                    "country":"US",
+                    "latitude":"30.27065",
+                    "longitude":"-97.753562"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/6128219/",
+                "id":"6128219",
+                "name":"Rooftop Plaza of Whole Foods Market (Lamar)",
+                "latitude":"30.27065",
+                "longitude":"-97.753562"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/103/",
+                "id":"103",
+                "name":"Music",
+                "name_localized":"Music",
+                "short_name":"Music",
+                "short_name_localized":"Music"
+            },
+            "subcategory":null,
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/6/",
+                "id":"6",
+                "name":"Concert or Performance",
+                "name_localized":"Concert or Performance",
+                "short_name":"Performance",
+                "short_name_localized":"Performance"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/11118895917/ticket_classes/24688141/",
+                    "id":"24688141",
+                    "name":"RSVP",
+                    "description":"And get early notification on VIP for our 2015 event! ",
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "event_id":"11118895917"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/",
+            "name":{
+                "text":"BoomTown Fair 2015 - Chapter 7",
+                "html":"BoomTown Fair 2015 - Chapter 7"
+            },
+            "description":{
+                "text":"Ticket Info     All BoomTown residency passes provide you with four days and nights of fun inside the city. You will become part of the cast, the character you always dreamed of and a true resident in our crazy, immersive world!!      Please note: There are three tiers of Adult Residency Passes available but the only difference in these is the price. All are valid from Thursday 13th - Sunday 16th August and allow access to all the general public spaces throughout the site. \nThere are no day tickets.   BoomTown Residency Ticket Breakdown    Adult Residency Pass (age 18+) Plus BF & EcoBond \n            -           Tier 1: £120 \n            -           Tier 2: £135 \n            -           Tier 3: £155   \nTeen Residency Pass (age 13-17) Plus BF & EcoBond.  \n-           £120 (Max of 2 purchased per adult over 25)   \nChild Residency Pass (age 6-12) Plus BF \n-           £20 (Max of 3 purchased per adult over 25)   \nInfant Residency Pass (age 0-5) Plus BF \n-           £FREE (Although ticket is free it must still be ordered) \n  \nCar Parking \nCar Parking tickets are available at £15 plus BF. The main car park is a short walk from the main pedestrian gate. Have you considered car sharing?  You can find out more here. \n  \nFamily Parking  \nFamily parking tickets are availble at £15 plus BF allowing those who hold these tickets to park in designated parking spaces next to the entry gate, which is a short walk straight to the fenced off family camping site situated near Kidztown, Whistlers Green and OldTown. \n  \nThe Meadow Parking (Disabled) \nThe Meadow parking tickets are availble at £15 plus BF allowing those who hold these tickets to park in designated parking spaces next to the entry gate, which is a very short walk straight to the fenced Meadow camping site situated in the campervan field near Whistlers Green, TrenchTown and OldTown.  If you require access to The Meadow, please contact us on info@boomtownfair.co.uk, so we can prepare for your arrival and individual requirements in order to make sure your entry to the festival is as smooth and easy as possible for you. \n  \nFamily and The Meadow (Disabled) Campervan / Caravan Passes \nFamily and The Meadow Campervan and Caravan tickets are available to gain access to the live-in vehicle campsite situtated close to KidzTown & Whistlers Green.  Please note access to the family campsite is ONLY valid with Infant, Child or Teen Tickets.  To gain access to The Meadow, you should pre-arrange your arrival so we can send you a specific entry pass.  Please make contact with us on info@boomtownfair.co.uk.  More Info Here \n  \nLockers \nLockers, standard and large,  are available in both DownTown and HillTop.  DownTown lockers are located near the DownTown Info Island.   You should book these lockers if you live in ChinaTown, DSTRKT 5 or Barrio Loco.  The HillTop lockers are located near HillTop Info Island. You should book these lockers if you live in Mayfair, OldTown, Whistlers Green or TrenchTown. \n  \nEcoBond Part of the 'Keep BoomTown tidy' scheme, a £10 deposit for EcoBond is added on and is refunded when a bag of rubbish or recycling is handed back into an onsite depot. More info here \n  \nTicket purchasing limitations  Teen, Child and Infant tickets are only valid for persons between the stated ages and will be invalid on entry to the festival without the accompaniment of the purchasing adult over the age of 25.    An adult ticket can only be bought by persons aged 18 or over (may be purchased by persons who will be 18 as of 13th August 2015)    Persons will be refused entry into the festival, without refund, if the incorrect ticket is purchased.   \n  \nThe split-payment scheme - for those who prefer things to be a bit more bite-size and separate the payments into manageable chunks to pay off over a few months. Tickets must be paid in full by 1st July 2015. All payments are non-refundable. Instructions to pay off the installments can be found here. \n  \nMagic Carpet  \nMany residents feel this is the essential transportation method that links Downtown to HillTop, 120mtr escalator that bypasses the horrendous hippy highway - a £10 ticket gives unlimited access to the magic carpet all weekened   \n  \nCharity support  There is an option to donate £2, £5 or £10 to our charity partners for 2015, all donations are matched by BoomTown. We will be donating to three separate charities The Energy Revolution Initiative, Winchester Youth Counselling and Trinity Winchester.  \n  \n\nWinchester Youth Counselling (WYC):  Winchester Youth Counselling provide free counselling, mentoring and other support to young people aged between 11 and 25 who live in the district of winchester who are struggling with issues such as depression, self harm, risk of suicide, and other issues concerning their emotional and physical well being. For more information, click here.\nTrinity WInchester:  Trinity Winchester is a charity which addresses the effects of homelessness and vulnerability through specialist practical and emotional support, proactive prevention and empowering positive change.  They are the only service locally who are professionally equipped to work with entrenched rough sleepers with drug and alcohol issues and is renowned by local organisations for engaging effectively with those considered 'high risk'. For more information, click here.\nThe Energy Revolution Initiative: Please join the Energy Revolution by making a donation to account for your travel carbon.  100% of your donation will be invested directly into renewable energy. Together we can build a fossil-­free future. For more information, click here.\n\n \n\nGIFT AID:  If you are a UK taxpayer please help us cover the costs of running the charity by consenting to Gift Aid being claimed on your donation. They can claim 25p for every £1 you donate from HMRC if you tick the box below after reading the following:\nPlease treat this donation as Gift Aid donation. I confirm I have paid or will pay an amount of Income Tax and/or Capital Gains Tax for the current tax year (6 April to 5 April) that is at least equal to the amount of tax that all the charities that I donate to will reclaim on my gifts for the current tax year. I understand that other taxes such as VAT and Council Tax do not qualify. I understand the charity will reclaim 25p of tax on every £1 that I have given. I consent to Energy Revolution, Trinity & WYC receiving my contact details to verify the donation to HMRC, and to provide me with information about the impact of my donation.\n\n\n  \n\nAdditional Options \nBoom Deluxe – upgrade your camping experience with two Boom Deluxe options: \n 1)    Zooloos – clean toilets, hot private showers and pamper areas with hair dryers & straighteners.  \n2)    Reserved Camping – aimed to take the hassle out of hunting for a camping space and for those who are coming in a big group. Pitches are 5m x7m and you can choose how many pitches you’d like and where you’d like to pitch up before getting anywhere near the festival site!  \nMore info on Boom Deluxe options here \nThe Boomtique Village Wristband - Provides access to the sumptuous surroundings of the Boomtique village and the hot tubs, saunas, exclusive entertainment, plus much more! More info here",
+                "html":"<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small;\"><STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\">Ticket Info </SPAN></STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\"><BR> <BR> All BoomTown residency passes provide you with four days and nights of fun inside the city. You will become part of the cast, the character you always dreamed of and a true resident in our crazy, immersive world!!  <BR> <BR> <STRONG>Please note:</STRONG> There are three tiers of Adult Residency Passes available but the only difference in these is the price. All are valid from Thursday 13<SUP>th</SUP> - Sunday 16<SUP>th</SUP> August and allow access to all the general public spaces throughout the site.</SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\">There are no day tickets.<BR><BR> <SPAN STYLE=\"font-size: medium;\"><STRONG>BoomTown Residency Ticket Breakdown</STRONG></SPAN><BR> <BR> <SPAN STYLE=\"text-decoration: underline;\"><STRONG>Adult Residency Pass</STRONG></SPAN> (age 18+) Plus BF &amp; EcoBond</SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\">            -           Tier 1: £120</SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\">            -           Tier 2: £135</SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\">            -           Tier 3: £155<BR> <STRONG></STRONG></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\">Teen Residency Pass</SPAN></STRONG></SPAN><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\"> (age 13-17) Plus BF &amp; EcoBond. </SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt; text-indent: 36.0pt;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\">-           £120 (Max of 2 purchased per adult over 25)<BR> <STRONG></STRONG></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\">Child Residency Pass</SPAN></STRONG></SPAN><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\"> (age 6-12) Plus BF</SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt; text-indent: 36.0pt;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\">-           £20 (Max of 3 purchased per adult over 25)<BR> <STRONG></STRONG></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\">Infant Residency Pass</SPAN></STRONG></SPAN><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\"> (age 0-5) Plus BF</SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt; text-indent: 36.0pt;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\">-           £FREE (Although ticket is free it must still be ordered)</SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt; line-height: normal;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\"><BR></SPAN></SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt; line-height: normal;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\">Car Parking</SPAN></SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt; line-height: normal;\"><SPAN STYLE=\"color: #222222; font-family: Arial, sans-serif; font-size: small;\">Car Parking tickets are available at £15 plus BF. The main car park is a short walk from the main pedestrian gate. Have you considered car sharing?  You can find out more <A HREF=\"http://www.boomtownfair.co.uk/tourist-info/transport/car-share-schemes-1\" REL=\"nofollow\">here</A>.</SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt; line-height: normal;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\"><BR></SPAN></SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt; line-height: normal;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\">Family Parking </SPAN></SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt; line-height: normal;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\">Family parking tickets are availble at £15 plus BF allowing those who hold these tickets to park in designated parking spaces next to the entry gate, which is a short walk straight to the fenced off family camping site situated near Kidztown, Whistlers Green and OldTown.</SPAN></SPAN></P>\r\n<P STYLE=\"line-height: normal; margin-bottom: 0.0001pt;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\"><BR></SPAN></SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"line-height: normal; margin-bottom: 0.0001pt;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\">The Meadow Parking (Disabled)</SPAN></SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"line-height: normal; margin-bottom: 0.0001pt;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\">The Meadow parking tickets are availble at £15 plus BF allowing those who hold these tickets to park in designated parking spaces next to the entry gate, which is a very short walk straight to the fenced Meadow camping site situated in the campervan field near Whistlers Green, TrenchTown and OldTown.  If you require access to The Meadow, please contact us on info@boomtownfair.co.uk, so we can prepare for your arrival and individual requirements in order to make sure your entry to the festival is as smooth and easy as possible for you.</SPAN></SPAN></P>\r\n<P STYLE=\"line-height: normal; margin-bottom: 0.0001pt;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\"><BR></SPAN></SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"line-height: normal; margin-bottom: 0.0001pt;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\">Family and The Meadow (Disabled) Campervan / Caravan Passes</SPAN></SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt; line-height: normal;\"><SPAN STYLE=\"color: #000000;\">Family and The Meadow Campervan and Caravan tickets are available to gain access to the live-in vehicle campsite situtated close to KidzTown &amp; Whistlers Green.  Please note access to the family campsite is ONLY valid with Infant, Child or Teen Tickets.  To gain access to The Meadow, you should pre-arrange your arrival so we can send you a specific entry pass.  Please make contact with us on info@boomtownfair.co.uk.  </SPAN><A STYLE=\"line-height: 1.6em;\" HREF=\"http://www.boomtownfair.co.uk/tourist-info/kids-1/arrival\" TARGET=\"_blank\" REL=\"nofollow\">More Info Here</A></P>\r\n<P STYLE=\"margin-bottom: .0001pt; line-height: normal;\"><STRONG><SPAN STYLE=\"text-decoration: underline;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\"><BR></SPAN></SPAN></SPAN></STRONG></P>\r\n<P STYLE=\"margin-bottom: .0001pt; line-height: normal;\"><STRONG><SPAN STYLE=\"text-decoration: underline;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\">Lockers</SPAN></SPAN></SPAN></STRONG></P>\r\n<P STYLE=\"margin-bottom: .0001pt; line-height: normal;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\">Lockers, standard and large,  are available in both DownTown and HillTop.  DownTown lockers are located near the DownTown Info Island.   You should book these lockers if you live in ChinaTown, DSTRKT 5 or Barrio Loco.  The HillTop lockers are located near HillTop Info Island. You should book these lockers if you live in Mayfair, OldTown, Whistlers Green or TrenchTown.</SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt; line-height: normal;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><BR></STRONG></SPAN></SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt; line-height: normal;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG>EcoBond</STRONG></SPAN><BR>Part of the 'Keep BoomTown tidy' scheme, a £10 deposit for EcoBond is added on and is refunded when a bag of rubbish or recycling is handed back into an onsite depot.</SPAN><SPAN STYLE=\"color: #222222; font-family: Arial, sans-serif; line-height: normal;\"> </SPAN><A STYLE=\"line-height: 1.6em;\" HREF=\"http://www.boomtownfair.co.uk/tourist-info/boomtown-projects/boomtown-eco-bond\" TARGET=\"_blank\" REL=\"nofollow\">More info here</A></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><BR></STRONG></SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG>Ticket purchasing limitations</STRONG></SPAN><BR> Teen, Child and Infant tickets are only valid for persons between the stated ages and will be invalid on entry to the festival without the accompaniment of the purchasing adult over the age of 25.<BR> <BR> An adult ticket can only be bought by persons aged 18 or over (may be purchased by persons who will be 18 as of 13<SUP>th</SUP> August 2015)<BR> <BR> Persons will be refused entry into the festival, without refund, if the incorrect ticket is purchased. </SPAN><SPAN STYLE=\"line-height: 1.6em;\"> </SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\"><BR></SPAN></STRONG></SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\">The split-payment scheme</SPAN></STRONG></SPAN><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\"> -</SPAN><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\"> for those who prefer things to be a bit more bite-size and separate the payments into manageable chunks to pay off over a few months. Tickets must be paid in full by 1st July 2015. All payments are non-refundable. Instructions to pay off the installments can <A HREF=\"http://www.boomtownfair.co.uk/tickets/deposit-ticket-purchase-instructions\" REL=\"nofollow\">be found here</A>.</SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\"><BR></SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\">Magic Carpet </SPAN></STRONG></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\">Many residents feel this is the essential transportation method that links Downtown to HillTop, 120mtr escalator that bypasses the horrendous hippy highway - a £10 ticket gives unlimited access to the magic carpet all weekened  </SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG><BR></STRONG></SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\"><SPAN STYLE=\"text-decoration: underline;\"><STRONG>Charity support</STRONG></SPAN><BR> There is an option to donate <STRONG>£2, £5 </STRONG>or<STRONG> £10</STRONG> to our charity partners for 2015, all donations are matched by BoomTown. We will be donating to three separate charities The <STRONG>Energy Revolution Initiative, Winchester Youth Counselling and Trinity Winchester. </STRONG></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\"><STRONG><BR></STRONG></SPAN></P>\r\n<UL>\r\n<LI><STRONG STYLE=\"color: #222222; font-family: Arial, sans-serif; font-size: small; line-height: 1.6em;\"><STRONG STYLE=\"color: #222222; font-family: Arial, sans-serif; font-size: small; line-height: 20.7999992370605px; text-decoration: underline;\">Winchester Youth Counselling (WYC):</STRONG></STRONG>  <SPAN STYLE=\"color: #222222; font-family: arial, sans-serif; font-size: 12.7272720336914px; line-height: 1.6em;\">Winchester Youth Counselling provide free counselling, mentoring and other support to young people aged between 11 and 25 who live in the district of winchester who are struggling with issues such as depression, self harm, risk of suicide, and other issues concerning their emotional and physical well being. For more information, click <A TITLE=\"here\" HREF=\"http://www.boomtownfair.co.uk/tourist-info/boomtown-projects/boomtown-charity-support/2015-charity-support/winchester-youth-counselling\" REL=\"nofollow\">here.</A></SPAN></LI>\r\n<LI><STRONG STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.6em;\"><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\"><SPAN STYLE=\"color: #222222; font-family: arial, sans-serif; font-size: 12.7272720336914px; text-decoration: underline;\">Trinity WInchester:</SPAN></SPAN></STRONG><SPAN STYLE=\"font-size: small; font-family: Arial, sans-serif; color: #222222;\"><SPAN STYLE=\"color: #222222; font-family: arial, sans-serif; font-size: 12.7272720336914px;\">  </SPAN></SPAN><SPAN STYLE=\"color: #222222; font-family: arial, sans-serif; font-size: 12.7272720336914px; line-height: 1.6em;\">Trinity Winchester is a charity which addresses the effects of homelessness and vulnerability through specialist practical and emotional support, proactive prevention and empowering positive change.  They are the only service locally who are professionally equipped to work with entrenched rough sleepers with drug and alcohol issues and is renowned by local organisations for engaging effectively with those considered 'high risk'. For more information, click <A TITLE=\"here.\" HREF=\"http://www.boomtownfair.co.uk/tourist-info/boomtown-projects/boomtown-charity-support/2015-charity-support/trinity-winchester\" REL=\"nofollow\">here.</A></SPAN></LI>\r\n<LI><STRONG STYLE=\"font-size: small; line-height: 1.6em;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\">The Energy Revolution Initiative:</SPAN></STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\"> </SPAN></SPAN><SPAN STYLE=\"font-size: small; color: #000000; font-family: arial, helvetica, sans-serif;\"><SPAN STYLE=\"line-height: 1.6em;\">Please join the </SPAN><SPAN STYLE=\"line-height: 1.6em; font-weight: bold;\">Energy Revolution </SPAN><SPAN STYLE=\"line-height: 1.6em;\">by making a donation to account for your travel carbon. </SPAN><SPAN STYLE=\"line-height: 1.6em;\"> </SPAN><SPAN STYLE=\"line-height: 1.6em;\">100% of your donation will be invested directly into renewable energy. Together we can build a fossil-­free future. For more information, click <A TITLE=\"here\" HREF=\"http://www.energy-revolution.org.uk\" REL=\"nofollow\">here.</A></SPAN></SPAN></LI>\r\n</UL>\r\n<DIV><SPAN STYLE=\"color: #222222; font-family: Arial, sans-serif; font-size: small;\"><SPAN STYLE=\"line-height: 20.7999992370605px;\"><BR></SPAN></SPAN></DIV>\r\n<UL>\r\n<LI><SPAN STYLE=\"color: #000000;\"><STRONG STYLE=\"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.6em;\">GIFT AID:</STRONG>  <SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: small; line-height: 20.7999992370605px;\">If you are a UK taxpayer please help us cover the costs of running the charity by consenting to Gift Aid being claimed on your donation. They can claim 25p for every £1 you donate from HMRC if you tick the box below after reading the following:</SPAN></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: arial, helvetica, sans-serif; font-size: small; line-height: 20.7999992370605px;\">Please treat this donation as Gift Aid donation. I confirm I have paid or will pay an amount of Income Tax and/or Capital Gains Tax for the current tax year (6 April to 5 April) that is at least equal to the amount of tax that all the charities that I donate to will reclaim on my gifts for the current tax year. I understand that other taxes such as VAT and Council Tax do not qualify. I understand the charity will reclaim 25p of tax on every £1 that I have given. I consent to Energy Revolution, Trinity &amp; WYC receiving my contact details to verify the donation to HMRC, and to provide me with information about the impact of my donation.</SPAN></LI>\r\n</UL>\r\n<DIV>\r\n<P> </P>\r\n</DIV>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"text-decoration: underline;\"><SPAN STYLE=\"font-size: small;\"><STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222; text-decoration: underline;\">Additional Options</SPAN></STRONG></SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small;\"><STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\">Boom Deluxe</SPAN></STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\"> – upgrade your camping experience with two Boom Deluxe options:</SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\"><STRONG> 1)</STRONG>    <STRONG>Zooloos</STRONG> – clean toilets, hot private showers and pamper areas with hair dryers &amp; straighteners. </SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><SPAN STYLE=\"font-size: small;\"><STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\">2)    Reserved Camping </SPAN></STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\">– aimed to take the hassle out of hunting for a camping space and for those who are coming in a big group. Pitches are 5m x7m and you can choose how many pitches you’d like and where you’d like to pitch up before getting anywhere near the festival site! </SPAN></SPAN></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><A HREF=\"http://www.boomtownfair.co.uk/tourist-info/facilities-and-services-1/additional/boom-deluxe\" TARGET=\"_blank\" REL=\"nofollow\">More info on Boom Deluxe options here</A></P>\r\n<P STYLE=\"margin-bottom: .0001pt;\"><STRONG STYLE=\"font-size: small; line-height: 1.6em;\"><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\">The Boomtique Village Wristband </SPAN></STRONG><SPAN STYLE=\"font-family: Arial, sans-serif; color: #222222;\">- Provides access to the sumptuous surroundings of the Boomtique village and the hot tubs, saunas, exclusive entertainment, plus much more! </SPAN><A HREF=\"http://www.boomtownfair.co.uk/tourist-info/the-boomtique-village\" TARGET=\"_blank\" REL=\"nofollow\">More info here</A></P>"
+            },
+            "logo":{
+                "id":"8889791",
+                "url":"http://cdn.evbuc.com/images/8889791/124827010065/1/logo.jpg"
+            },
+            "id":"13845641687",
+            "url":"http://www.eventbrite.co.uk/e/boomtown-fair-2015-chapter-7-tickets-13845641687?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/8889791/124827010065/1/logo.jpg",
+            "start":{
+                "timezone":"Europe/London",
+                "local":"2015-08-13T12:00:00",
+                "utc":"2015-08-13T11:00:00Z"
+            },
+            "end":{
+                "timezone":"Europe/London",
+                "local":"2015-08-17T12:00:00",
+                "utc":"2015-08-17T11:00:00Z"
+            },
+            "created":"2014-10-21T10:25:15Z",
+            "changed":"2015-02-24T08:13:44Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"7613523193",
+            "venue_id":"8713215",
+            "category_id":"103",
+            "subcategory_id":null,
+            "format_id":"5",
+            "organizer":{
+                "description":{
+                    "text":"BoomTown’s rapid growth since its inception in 2009 has seen it become one of the top 10 largest festivals in the UK and the only independent one of its size! With it's sprawling metropolis providing a temporary haven of hidden surprises, pulsating music and immersive audio-visuals to allow each of its thousands of citizens to go on an ultimate voyage of discovery within the labyrinth-esque streets. With a soundtrack of ska, folk, gypsy, reggae, world, punk, pirate, disco, electro-swing, jazz, blue-grass, breaks, bass, jungle, techno and a whole lot more!",
+                    "html":"<P>BoomTown’s rapid growth since its inception in 2009 has seen it become one of the top 10 largest festivals in the UK and the only independent one of its size! With it's sprawling metropolis providing a temporary haven of hidden surprises, pulsating music and immersive audio-visuals to allow each of its thousands of citizens to go on an ultimate voyage of discovery within the labyrinth-esque streets. With a soundtrack of ska, folk, gypsy, reggae, world, punk, pirate, disco, electro-swing, jazz, blue-grass, breaks, bass, jungle, techno and a whole lot more!</P>"
+                },
+                "logo":{
+                    "id":"8939659",
+                    "url":"http://cdn.evbuc.com/images/8939659/124827010065/1/logo.jpg"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/7613523193/",
+                "id":"7613523193",
+                "name":"BoomTown ",
+                "url":"http://www.eventbrite.com/o/boomtown-7613523193",
+                "num_past_events":3,
+                "num_future_events":6
+            },
+            "venue":{
+                "address":{
+                    "address_1":"Matterly Estate",
+                    "address_2":null,
+                    "city":"Winchester",
+                    "region":"Hants",
+                    "postal_code":"SO21 1HW",
+                    "country":"GB",
+                    "latitude":"51.0573711",
+                    "longitude":"-1.2366294999999354"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/8713215/",
+                "id":"8713215",
+                "name":"BoomTown ",
+                "latitude":"51.0573711",
+                "longitude":"-1.2366294999999354"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/103/",
+                "id":"103",
+                "name":"Music",
+                "name_localized":"Music",
+                "short_name":"Music",
+                "short_name_localized":"Music"
+            },
+            "subcategory":null,
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/5/",
+                "id":"5",
+                "name":"Festival or Fair",
+                "name_localized":"Festival or Fair",
+                "short_name":"Festival",
+                "short_name_localized":"Festival"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30073551/",
+                    "id":"30073551",
+                    "name":"Tier 1 - Adult Residency Pass (18+)",
+                    "description":"<div class= \"panel_head2 break_header\" style=\"position:absolute;width:601px; margin-left:-17.5px;margin-top: -108px;\"><h3>FULL WEEKEND CAMPING PASSES </h3></div>Please note: The only difference in the tiers is the price. <br><br><p style=\"color:#B32E2E\"> Ticket Price: £120 <br> Fee's = BF: £6.95, Eco-bond: £10 (refundable)</p>",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£120.00",
+                        "value":12000
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£16.95",
+                        "value":1695
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30073751/",
+                    "id":"30073751",
+                    "name":"Tier 2 - Adult Residency Pass (18+)",
+                    "description":"<p style=\"color:#B32E2E\"> Ticket Price: £135 <br> Fee's = BF: £6.95, Eco-bond: £10 (refundable)</p>",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£135.00",
+                        "value":13500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£16.95",
+                        "value":1695
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30073987/",
+                    "id":"30073987",
+                    "name":"Tier 3 - Adult Residency Pass (18+)",
+                    "description":"<p style=\"color:#B32E2E\"> Ticket Price: £155 <br> Fee's = BF: £6.95, Eco-bond: £10 (refundable)</p>",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£155.00",
+                        "value":15500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£16.95",
+                        "value":1695
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30073989/",
+                    "id":"30073989",
+                    "name":"Teen Residency Pass (age 13-17)",
+                    "description":"Max 2 purchased per accompanying adult over 25 <br><br><p style=\"color:#B32E2E\"> Ticket Price: £120 <br> Fee's = BF: £6.95, Eco-bond: £10 (refundable)</p>",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£120.00",
+                        "value":12000
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£16.95",
+                        "value":1695
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30073991/",
+                    "id":"30073991",
+                    "name":"Childs Residency Pass (age 6-12)",
+                    "description":"Max 3 purchased per accompanying adult over 25 ",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£20.00",
+                        "value":2000
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£2.00",
+                        "value":200
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30073993/",
+                    "id":"30073993",
+                    "name":"Infants Residency Pass (age 0-5)",
+                    "description":"(Although ticket is free it must still be ordered) <br><br><br><br>",
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30074433/",
+                    "id":"30074433",
+                    "name":"Split-Payment Adult Residency Pass (18+) - Payment 1",
+                    "description":"<div class= \"panel_head2 break_header\" style=\"position:absolute;width:601px; margin-left:-17.5px;margin-top: -76px;\"><h3>SPLIT PAYMENT PASSES</h3></div>Bookable until 1st June, final transfer to full price ticket (£155) must be made by 1st July.<br><br><p style=\"color:#B32E2E\"> Ticket Price: £40 <br> Fee's = BF: £6.95, Eco-bond: £10 (refundable)</p><br><br>",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£40.00",
+                        "value":4000
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£16.95",
+                        "value":1695
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30073999/",
+                    "id":"30073999",
+                    "name":"Car Parking",
+                    "description":"<div class= \"panel_head2 break_header\" style=\"position:absolute;width:601px; margin-left:-17.5px;margin-top: -76px;\"><h3>VEHICLE PASSES</h3></div>",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£15.00",
+                        "value":1500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£1.50",
+                        "value":150
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30073995/",
+                    "id":"30073995",
+                    "name":"Campervan Pass",
+                    "description":"All campervan / caravan pitches are 6m deep x 7m wide.  Any larger vehicles will need to buy an additional pass. ",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£50.00",
+                        "value":5000
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£5.00",
+                        "value":500
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30073997/",
+                    "id":"30073997",
+                    "name":"Caravan / Trailer Tent Pass",
+                    "description":"All campervan / caravan pitches are 6m deep x 7m wide.  Any larger vehicles will need to buy an additional pass. ",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£60.00",
+                        "value":6000
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£6.00",
+                        "value":600
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30074003/",
+                    "id":"30074003",
+                    "name":"Family Car Parking Pass - Offsite",
+                    "description":"Parking next to the entry gate - This ticket is only valid on gate with a Child / Infant or Teen ticket",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£15.00",
+                        "value":1500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£1.50",
+                        "value":150
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30074005/",
+                    "id":"30074005",
+                    "name":"Family Campervan Pass - Onsite",
+                    "description":"All Campervan / Caravan pitches are 6m deep x 7m wide.  Any larger vehicles will need to buy an additional pass. Ticket only valid on gate with a Child / Infant or Teen ticket.",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£50.00",
+                        "value":5000
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£5.00",
+                        "value":500
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30074001/",
+                    "id":"30074001",
+                    "name":"The Meadow Parking Pass (Disabled) - Offsite",
+                    "description":"Parking next to the entry gate - This ticket is only valid on the gate if you have pre-arranged your arrival.  Contact us on info@boomtownfair.co.uk.",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£15.00",
+                        "value":1500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£1.50",
+                        "value":150
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/33108266/",
+                    "id":"33108266",
+                    "name":"The Meadow Campervan Pass (Disabled) - Onsite",
+                    "description":null,
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£50.00",
+                        "value":5000
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£5.00",
+                        "value":500
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30074007/",
+                    "id":"30074007",
+                    "name":"Family Caravan / Trailer Tent Pass",
+                    "description":"All Campervan / Caravan pitches are 6m deep x 7m wide.  Any larger vehicles will need to buy an additional pass. Ticket only valid on gate with a Child / Infant or Teen ticket  </br></br></br></br>",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£60.00",
+                        "value":6000
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£6.00",
+                        "value":600
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30074887/",
+                    "id":"30074887",
+                    "name":"DownTown Secure Locker - Standard",
+                    "description":"Standard Locker Size: Lockers are 22cm wide x 15cm deep x 9cm high. These lockers are designed to store small valuables i.e. (Car key’s, phones, ID etc.)<div class= \"panel_head2 break_header\" style=\"position:absolute;width:601px; margin-left:-17.5px;margin-top: -112px;\"><h3>OTHER ITEMS</h3></div>",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£15.00",
+                        "value":1500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£1.50",
+                        "value":150
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30074009/",
+                    "id":"30074009",
+                    "name":"DownTown Secure Locker - Large",
+                    "description":"Larger Locker Size: 22cm wide x 15cm deep x 29cm high.\r\n",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£20.00",
+                        "value":2000
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£2.00",
+                        "value":200
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30074893/",
+                    "id":"30074893",
+                    "name":"HillTop Secure Locker - Standard",
+                    "description":"Standard Locker Size: Lockers are 22cm wide x 15cm deep x 9cm high. These lockers are designed to store small valuables i.e. (Car key’s, phones, ID etc.)",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£15.00",
+                        "value":1500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£1.50",
+                        "value":150
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30074895/",
+                    "id":"30074895",
+                    "name":"HillTop Secure Locker - Large",
+                    "description":"Larger Locker Size: 22cm wide x 15cm deep x 29cm high.\r\n",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£20.00",
+                        "value":2000
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£2.00",
+                        "value":200
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30074889/",
+                    "id":"30074889",
+                    "name":"Magic Carpet Weekend Pass",
+                    "description":"Unlimited access to the Magic Carpet for the duration of the festival",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£10.00",
+                        "value":1000
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£1.00",
+                        "value":100
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30074891/",
+                    "id":"30074891",
+                    "name":"Reserved Camping",
+                    "description":"Pitches are 5m x 7m in a dedicated fenced off area with composting toilets. As long as all guy ropes, tents and personal equipment are kept within the boundary line, more than one structure per pitch is permitted. ",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£75.00",
+                        "value":7500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£7.50",
+                        "value":750
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30400407/",
+                    "id":"30400407",
+                    "name":"Boomtique Wristband",
+                    "description":"Provides weekend access to Boomtique area. Including cafe, cocktail bar,  showers, fancy toilets, pamper rooms. ",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£35.00",
+                        "value":3500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£3.50",
+                        "value":350
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30635117/",
+                    "id":"30635117",
+                    "name":"Boom Deluxe - Zoo Loos DownTown",
+                    "description":null,
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£35.00",
+                        "value":3500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£3.50",
+                        "value":350
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30635233/",
+                    "id":"30635233",
+                    "name":"Boom Deluxe - Zoo Loos HillTop (near OldTown)",
+                    "description":null,
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£35.00",
+                        "value":3500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£3.50",
+                        "value":350
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30635231/",
+                    "id":"30635231",
+                    "name":"Boom Deluxe - Zoo Loos BlackBush (formally TrenchTown)",
+                    "description":"</br></br></br><div class= \"panel_head2 break_header\" style=\"position:absolute;width:601px; margin-left:-17.5px;margin-top: -26px;\"><h3>LOCAL CHARITY DONATION</h3></div>",
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£35.00",
+                        "value":3500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£3.50",
+                        "value":350
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30088385/",
+                    "id":"30088385",
+                    "name":"Charity Donation",
+                    "description":null,
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£2.00",
+                        "value":200
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£0.00",
+                        "value":0
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30088387/",
+                    "id":"30088387",
+                    "name":"Charity Donation",
+                    "description":null,
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£5.00",
+                        "value":500
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£0.00",
+                        "value":0
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/13845641687/ticket_classes/30088389/",
+                    "id":"30088389",
+                    "name":"Charity Donation",
+                    "description":null,
+                    "cost":{
+                        "currency":"GBP",
+                        "display":"£10.00",
+                        "value":1000
+                    },
+                    "fee":{
+                        "currency":"GBP",
+                        "display":"£0.00",
+                        "value":0
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"13845641687"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/15139182703/",
+            "name":{
+                "text":"HIGH TIMES Cannabis Cup: Denver April 18th-20th",
+                "html":"HIGH TIMES Cannabis Cup: Denver April 18th-20th"
+            },
+            "description":{
+                "text":"In 2015, HIGH TIMES will return to the Mile High City for our fifth event at the Denver Mart. Our first two events in Denver were Medical Cannabis Cups, restricted to medical patients only. But Colorado voters legalized adult, recreational use of marijuana in the 2012 election, which resulted in our most successful Cannabis Cup ever. We now host the US Cannabis Cup, an event open to all adults. \n\nThis event (expo and Saturday night party) is for all adults ages 18+ EXCEPT FOR SUPER VIP & GOLD LEAF VIP which is 21+ only.  21+ to enter Recreating (smoking) Area. \nYou do not need a medical card to attend the expo.  \nTickets are non-refundable, but they are transferable and may be resold to someone else if you are unable to attend\n\n  \nEvent Details  \nSATURDAY, APRIL 18TH \n12:00 PM – 7:00 PM \n  \nSUNDAY, APRIL 19TH \n12:00 PM – 7:00 PM \n  \nMONDAY, APRIL 20TH \n12:00 PM -- 9:00 PM  \n  \nEvent FAQ  \n\nAre Cannabis Cup passes refundable?  No - But passes are transferable and may be resold to someone else if you are unable to attend. \nHow can my Colorado-based medical cannabis dispensary compete in the Medical Cannabis Cup?  Entry into the HIGH TIMES Medical Cannabis Cup is limited to legally operating, licensed medical cannabis dispensaries in the state of Colorado. For more information on entering an indica, a sativa, cannabis concentrates or medical-cannabis infused edibles, please contact us directly at (212) 387-0500 or by email cannabiscup@hightimes.com \nDo I get any cannabis as part of my ticket price?  Due to Colorado law we cannot give away cannabis, which is why we’ve kept the ticket price as low as possible while still putting on a world-class event. \nWho can smoke in Denver?  Everyone 21+ in designated recreating areas.  Colorado residents 18+ with medical recommendations.    Are out-of-staters allowed to partake?  Yes, 21+",
+                "html":"<P>In 2015, HIGH TIMES will return to the Mile High City for our fifth event at the <STRONG><A HREF=\"http://www.denvermart.com/\" TARGET=\"_blank\" REL=\"nofollow\">Denver Mart</A></STRONG>. Our first two events in Denver were Medical Cannabis Cups, restricted to medical patients only. But Colorado voters legalized adult, recreational use of marijuana in the 2012 election, which resulted in our most successful Cannabis Cup ever. We now host the US Cannabis Cup, an event open to all adults.</P>\r\n<UL>\r\n<LI><SPAN STYLE=\"font-size: small; font-family: arial, helvetica, sans-serif;\">This event (expo and Saturday night party) is for all adults ages 18+ <STRONG>EXCEPT FOR SUPER VIP &amp; GOLD LEAF VIP which is 21+ only.  21+ to enter Recreating (smoking) Area.</STRONG><BR></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: small; font-family: arial, helvetica, sans-serif;\">You do not need a medical card to attend the expo. <BR></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-size: small; font-family: arial, helvetica, sans-serif;\">Tickets are non-refundable, but they are transferable and may be resold to someone else if you are unable to attend</SPAN></LI>\r\n</UL>\r\n<P><SPAN STYLE=\"font-family: arial, helvetica, sans-serif;\"> </SPAN></P>\r\n<H2 STYLE=\"text-align: center;\"><SPAN STYLE=\"text-decoration: underline;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif;\">Event Details </SPAN></SPAN></H2>\r\n<H3 STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif;\">SATURDAY, APRIL 18TH</SPAN></H3>\r\n<P STYLE=\"text-align: center;\"><SPAN><STRONG>12:00 PM – 7:00 PM</STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN><STRONG><BR></STRONG></SPAN></P>\r\n<H3 STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif;\">SUNDAY, APRIL 19TH</SPAN></H3>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif;\"><STRONG>12:00 PM – 7:00 PM</STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif;\"><STRONG><BR></STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif;\"><STRONG>MONDAY, APRIL 20TH</STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif;\"><STRONG>12:00 PM -- 9:00 PM<BR></STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif;\"><STRONG><BR></STRONG></SPAN></P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: arial, helvetica, sans-serif;\"><STRONG><SPAN STYLE=\"text-decoration: underline;\">Event FAQ<BR></SPAN></STRONG></SPAN></P>\r\n<DIV>\r\n<P><STRONG>Are Cannabis Cup passes refundable?</STRONG><BR> No - But passes are transferable and may be resold to someone else if you are unable to attend.</P>\r\n<P><STRONG>How can my Colorado-based medical cannabis dispensary compete in the Medical Cannabis Cup?</STRONG><BR> Entry into the HIGH TIMES Medical Cannabis Cup is limited to legally operating, licensed medical cannabis dispensaries in the state of Colorado. For more information on entering an indica, a sativa, cannabis concentrates or medical-cannabis infused edibles, please contact us directly at (212) 387-0500 or by email <A HREF=\"mailto:cannabiscup@hightimes.com\" REL=\"nofollow\">cannabiscup@hightimes.com</A></P>\r\n<P><STRONG>Do I get any cannabis as part of my ticket price?</STRONG><BR> Due to Colorado law we cannot give away cannabis, which is why we’ve kept the ticket price as low as possible while still putting on a world-class event.</P>\r\n<P><STRONG>Who can smoke in Denver?</STRONG><BR> Everyone 21+ in designated recreating areas.  Colorado residents 18+ with medical recommendations.<BR>  <BR><STRONG>Are out-of-staters allowed to partake?</STRONG><BR> Yes, 21+</P>\r\n</DIV>"
+            },
+            "logo":{
+                "id":"12028138",
+                "url":"http://cdn.evbuc.com/images/12028138/104218881947/1/logo.jpg"
+            },
+            "id":"15139182703",
+            "url":"http://www.eventbrite.com/e/high-times-cannabis-cup-denver-april-18th-20th-tickets-15139182703?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/12028138/104218881947/1/logo.jpg",
+            "start":{
+                "timezone":"America/Denver",
+                "local":"2015-04-18T12:00:00",
+                "utc":"2015-04-18T18:00:00Z"
+            },
+            "end":{
+                "timezone":"America/Denver",
+                "local":"2015-04-20T19:00:00",
+                "utc":"2015-04-21T01:00:00Z"
+            },
+            "created":"2015-01-05T16:25:45Z",
+            "changed":"2015-02-24T08:11:10Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"560820454",
+            "venue_id":"9460268",
+            "category_id":"113",
+            "subcategory_id":"13999",
+            "format_id":"3",
+            "organizer":{
+                "description":{
+                    "text":"\r\nHIGH TIMES is the world's leading cannabis culture publication. For more than 40 years, HIGH TIMES has been the authoritative source for marijuana cultivation information, bud shots, celebrity interviews, reportings on the counterculture, and more.",
+                    "html":"<P><IMG SRC=\"http://ebmedia.eventbrite.com/s3-build/images/849831/47640417771/1/logo.png\" ALT=\"high times logo\" WIDTH=\"225\" HEIGHT=\"58\"></P>\r\n<P>HIGH TIMES is the world's leading cannabis culture publication. For more than 40 years, HIGH TIMES has been the authoritative source for marijuana cultivation information, bud shots, celebrity interviews, reportings on the counterculture, and more.</P>"
+                },
+                "logo":{
+                    "id":"849831",
+                    "url":"http://cdn.evbuc.com/images/849831/47640417771/1/logo.png"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/560820454/",
+                "id":"560820454",
+                "name":"HIGH TIMES",
+                "url":"http://www.eventbrite.com/o/high-times-560820454",
+                "num_past_events":27,
+                "num_future_events":1
+            },
+            "venue":{
+                "address":{
+                    "address_1":"451 East 58th Avenue",
+                    "address_2":null,
+                    "city":"Denver",
+                    "region":"CO",
+                    "postal_code":"80216",
+                    "country":"US",
+                    "latitude":"39.802571",
+                    "longitude":"-104.98136999999997"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/9460268/",
+                "id":"9460268",
+                "name":"Denver Mart",
+                "latitude":"39.802571",
+                "longitude":"-104.98136999999997"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/113/",
+                "id":"113",
+                "name":"Community & Culture",
+                "name_localized":"Community & Culture",
+                "short_name":"Community",
+                "short_name_localized":"Community"
+            },
+            "subcategory":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/subcategories/13999/",
+                "id":"13999",
+                "name":"Other"
+            },
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/3/",
+                "id":"3",
+                "name":"Tradeshow, Consumer Show, or Expo",
+                "name_localized":"Tradeshow, Consumer Show, or Expo",
+                "short_name":"Expo",
+                "short_name_localized":"Expo"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15139182703/ticket_classes/33868907/",
+                    "id":"33868907",
+                    "name":"One Day Pass: Saturday",
+                    "description":"Includes entry to Cannabis Cup expo for one-day only, Saturday. Does not include concert admission. ",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$45.00",
+                        "value":4500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$4.60",
+                        "value":460
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15139182703"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15139182703/ticket_classes/33839057/",
+                    "id":"33839057",
+                    "name":"One Day Pass: Sunday",
+                    "description":"Includes entry to Cannabis Cup expo for one-day only, Sunday. Does not include concert admission. ",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$45.00",
+                        "value":4500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$4.60",
+                        "value":460
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15139182703"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15139182703/ticket_classes/33839058/",
+                    "id":"33839058",
+                    "name":"One Day Pass: Monday",
+                    "description":"Includes entry to Cannabis Cup expo for one-day only, Monday. Does not include concert admission. ",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$45.00",
+                        "value":4500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$4.60",
+                        "value":460
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15139182703"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15139182703/ticket_classes/33304729/",
+                    "id":"33304729",
+                    "name":"Three Day Pass",
+                    "description":"Includes entry to Cannabis Cup expo only for all three days: Saturday, Sunday and Monday. Does not include concert admission. ",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$110.00",
+                        "value":11000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$6.07",
+                        "value":607
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15139182703"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15139182703/ticket_classes/33314377/",
+                    "id":"33314377",
+                    "name":"3-Day HIGH TIMES US Cannabis Cup Ticket + Saturday Night Concert",
+                    "description":"<b>3-Day HIGH TIMES US Cannabis Cup Ticket + Saturday Night Concert Includes:</b>\r\n<li>3-Day Admission to the HIGH TIMES US Cannabis Cup Saturday 4/18 - Monday 4/20\r\n<li>One (1) General Admission Ticket to the Official HIGH TIMES US Cannabis Cup Red Rocks Concert on Saturday 4/18 featuring SOJA, J-Boog & NAS\r\n<li>Invitation to the HIGH TIMES US Cannabis Cup Awards Show - Sunday 4/19\r\n<br><br>",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$175.00",
+                        "value":17500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$7.53",
+                        "value":753
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15139182703"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15139182703/ticket_classes/33314378/",
+                    "id":"33314378",
+                    "name":"3-Day HIGH TIMES US Cannabis Cup Ticket + Monday Night Concert",
+                    "description":"<b>3-Day HIGH TIMES US Cannabis Cup Ticket + Monday Night Concert Includes:</b>\r\n<li>3-Day Admission to the HIGH TIMES US Cannabis Cup Saturday 4/18 - Monday 4/20\r\n<li>One (1) Lawn Ticket to the Official HIGH TIMES US Cannabis Cup Fiddler's Green Concert - Monday 4/20 featuring Snoop Dogg\r\n<li>Invitation to the HIGH TIMES US Cannabis Cup Awards Show - Sunday 4/19\r\n<br><br>",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$175.00",
+                        "value":17500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$7.53",
+                        "value":753
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15139182703"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15139182703/ticket_classes/33314520/",
+                    "id":"33314520",
+                    "name":"VIP",
+                    "description":"<b>THE VIP TICKET INCLUDES:</b>\r\n<li>3-Day Admission to the HIGH TIMES US Denver Cannabis Cup- Saturday 4/18 - Monday 4/20\r\n<li>One (1) General Admission Seated Ticket the Official HIGH TIMES US Cannabis Cup Red Rocks Concert on Saturday 4/18 featuring SOJA, J-Boog & NAS at Red Rocks\r\n<li>Invitation to the HIGH TIMES US Cannabis Cup Awards Show - Sunday 4/19\r\n<li>One (1) General Admission Seated Ticket to the Official HIGH TIMES US Cannabis Cup Fiddler's Green Concert on Monday 4/20 featuring Snoop Dogg\r\n<li>Express VIP Entry\r\n<li>Exclusive Q&A Session with Guest Lecturers\r\n<li>Exclusive Comedy Performances & Movie Screenings\r\n<li>High Society Lounge Access\r\n<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HIGH TIMES Cover to Cover Display\r\n<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Munchie Station\r\n<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comfortable Seating\r\n<li>Access to \"The Green Room\" - a VIP Only Recreating (Smoking) Lounge with the finest apparatus’\r\n<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BYOC – Bring Your Own Cannabis\r\n<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comfortable Seating\r\n<li>Limited Edition HIGH TIMES US Cannabis Cup Poster\r\n<li>HIGH TIMES US Cannabis Cup 2015 T-Shirt\r\n<li>Event Guide Book\r\n<li>Roundtrip Shuttle Transportation from Denver Mart to the Show Venues Each Night\r\n<li>*Must be 18+ to purchase, must have Colorado Medical Card or be 21+ to enter recreating areas\r\n<br><br>",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$420.00",
+                        "value":42000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$12.95",
+                        "value":1295
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15139182703"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15139182703/ticket_classes/32511769/",
+                    "id":"32511769",
+                    "name":"Super VIP",
+                    "description":"<b>THE SUPER VIP TICKET INCLUDES:</b>\r\n<li>All VIP Amenities Plus:\r\n<li> Invitation to Meet the Editors including HIGH TIMES Cultivation Editor Danny Danko\r\n<li>Limited Edition HIGH TIMES US Cannabis Cup Poster Signed By Danny Danko and Nico Escondido\r\n<li>Upgraded GA Ticket to a Premium Reserved Seat for the official US HIGH TIMES US Cannabis Cup concerts on 4/18 & 4/20\r\n<li>Premium Reserved Area at the HIGH TIMES US Cannabis Cup Awards Show\r\n<li>HIGH TIMES US Cannabis Cup 2015 Hoodie\r\n<li>Exclusive Super VIP Lounge\r\n<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Catered Lunch Daily\r\n<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Massages\r\n<li>Free Subscription to HIGH TIMES\r\n<li>Free Subscription to Cover to Cover archives\r\n<li>*Must be 21+ to purchase this package\r\n<br><br>",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$1420.00",
+                        "value":142000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$12.95",
+                        "value":1295
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15139182703"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15139182703/ticket_classes/32511768/",
+                    "id":"32511768",
+                    "name":"Gold Leaf VIP",
+                    "description":"<b>THE GOLD LEAF VIP INCLUDES:</b>\r\n<li>All VIP & Super VIP Package Elements Plus:\r\n<li>Exclusive Limited Edition High Times Golden Glassware\r\n<li>Opportunity to Present a Trophy to a HIGH TIMES US Cannabis Cup Awards Show Winner\r\n<li>Backstage Access during the HIGH TIMES US Cannabis Cup Awards Show\r\n<li>Exclusive Demonstration with Elise McDonough – author of the High Times Cookbook\r\n<li>Signed copy of The Official High Times Cannabis Cookbook\r\n<li>Upgraded GA Ticket to a Premium Reserved Seat for the official US HIGH TIMES US Cannabis Cup concerts on 4/18 & 4/20\r\n<li>Exclusive Gold Leaf Viewing at the official HIGH TIMES US Cannabis Cup Concerts on 4/18 & 4/20\r\n<li>Official HIGH TIMES US Cannabis Cup Smoking Robe\r\n<li>*Must be 21+ to purchase this package\r\n<br><br>",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$2420.00",
+                        "value":242000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$12.95",
+                        "value":1295
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"15139182703"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/11390456161/",
+            "name":{
+                "text":"★HUDSON SATURDAYS★  Print Ticket & Bring With You or Show from phone. DRESS CODE ENFORCED (2506 Robinhood)  FOR TABLES, CABANA or  INFO: 713.259.5725",
+                "html":"★HUDSON SATURDAYS★  Print Ticket & Bring With You or Show from phone. DRESS CODE ENFORCED (2506 Robinhood)  FOR TABLES, CABANA or  INFO: 713.259.5725"
+            },
+            "description":null,
+            "logo":null,
+            "id":"11390456161",
+            "url":"http://hudsonsaturdays.eventbrite.com/?aff=ebapi",
+            "logo_url":null,
+            "start":{
+                "timezone":"America/Chicago",
+                "local":"2015-02-21T22:00:00",
+                "utc":"2015-02-22T04:00:00Z"
+            },
+            "end":{
+                "timezone":"America/Chicago",
+                "local":"2015-02-22T02:00:00",
+                "utc":"2015-02-22T08:00:00Z"
+            },
+            "created":"2014-04-22T19:23:58Z",
+            "changed":"2015-02-22T08:42:59Z",
+            "capacity":null,
+            "status":"ended",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"1671275606",
+            "venue_id":"9844932",
+            "category_id":"103",
+            "subcategory_id":"3018",
+            "format_id":"11",
+            "organizer":{
+                "description":null,
+                "logo":null,
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/1671275606/",
+                "id":"1671275606",
+                "name":"Live House Media ",
+                "url":"http://www.eventbrite.com/o/live-house-media-1671275606",
+                "num_past_events":14,
+                "num_future_events":0
+            },
+            "venue":{
+                "address":{
+                    "address_1":"2506 Robinhood St",
+                    "address_2":null,
+                    "city":"Houston",
+                    "region":"TX",
+                    "postal_code":"77005",
+                    "country":"US",
+                    "latitude":"29.72",
+                    "longitude":"-95.42"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/9844932/",
+                "id":"9844932",
+                "name":"HUDSON LOUNGE",
+                "latitude":"29.72",
+                "longitude":"-95.42"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/103/",
+                "id":"103",
+                "name":"Music",
+                "name_localized":"Music",
+                "short_name":"Music",
+                "short_name_localized":"Music"
+            },
+            "subcategory":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/subcategories/3018/",
+                "id":"3018",
+                "name":"Top 40"
+            },
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/11/",
+                "id":"11",
+                "name":"Party or Social Gathering",
+                "name_localized":"Party or Social Gathering",
+                "short_name":"Party",
+                "short_name_localized":"Party"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/11390456161/ticket_classes/25589449/",
+                    "id":"25589449",
+                    "name":"★FREE b4 11 w/RSVP",
+                    "description":null,
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":1,
+                    "event_id":"11390456161"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/11390456161/ticket_classes/25662887/",
+                    "id":"25662887",
+                    "name":"★RESERVED OUTSIDE COVERED CABANA FOR 8 *(CABANA Package includes priority Entry & CABANA  for 8 people.  A One Bottle Min Additional Purchase is required.",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$100.00",
+                        "value":10000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$3.49",
+                        "value":349
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"11390456161"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/11390456161/ticket_classes/25284717/",
+                    "id":"25284717",
+                    "name":"★MAIN ROOM RESERVED SECTION FOR 8 *(SECTION Package includes priority Entry & SECTION for 8 people.  A Two Bottle Min Additional Purchase is required.",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$150.00",
+                        "value":15000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$4.74",
+                        "value":474
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":2,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"11390456161"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/11390456161/ticket_classes/25284719/",
+                    "id":"25284719",
+                    "name":"★ELEVATED VIP DJ BOOTH MAIN ROOM  SECTION FOR 10 *(SECTION Package includes priority Entry & SECTION for 10 people. A three bottle  Min Additional Purchase is required.",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$300.00",
+                        "value":30000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$8.49",
+                        "value":849
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"11390456161"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/11390456161/ticket_classes/26432373/",
+                    "id":"26432373",
+                    "name":"★ELEVATED MAIN ROOM VIP SECTION FOR 15 *(SECTION Package includes priority Entry & SECTION for 15 people.  A Four Bottle Min Additional Purchase is required.",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$400.00",
+                        "value":40000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$9.95",
+                        "value":995
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":1,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"11390456161"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/11390456161/ticket_classes/25284731/",
+                    "id":"25284731",
+                    "name":"★REAR ROOM RESERVED SECTION F40OR 8 *(SECTION Package includes priority Entry & SECTION for 8 people.  A One Bottle Min Additional Purchase is required.",
+                    "description":null,
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$150.00",
+                        "value":15000
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$4.74",
+                        "value":474
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"11390456161"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/9923920714/",
+            "name":{
+                "text":"CAMRON Live This Saturday at VENUE RELOADED @ VENUE (719 Main @ Rusk) #1 Saturday Night Party | For Bottle Service/Info: 832.512.6515",
+                "html":"CAMRON Live This Saturday at VENUE RELOADED @ VENUE (719 Main @ Rusk) #1 Saturday Night Party | For Bottle Service/Info: 832.512.6515"
+            },
+            "description":null,
+            "logo":{
+                "id":"4323673",
+                "url":"http://cdn.evbuc.com/images/4323673/3839317403/1/logo.jpg"
+            },
+            "id":"9923920714",
+            "url":"http://venuereloaded.eventbrite.com/?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/4323673/3839317403/1/logo.jpg",
+            "start":{
+                "timezone":"America/Chicago",
+                "local":"2015-02-21T22:00:00",
+                "utc":"2015-02-22T04:00:00Z"
+            },
+            "end":{
+                "timezone":"America/Chicago",
+                "local":"2015-02-22T02:00:00",
+                "utc":"2015-02-22T08:00:00Z"
+            },
+            "created":"2014-01-05T19:31:02Z",
+            "changed":"2015-02-22T12:41:54Z",
+            "capacity":null,
+            "status":"completed",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"842445123",
+            "venue_id":"5185501",
+            "category_id":"103",
+            "subcategory_id":"3008",
+            "format_id":"11",
+            "organizer":{
+                "description":null,
+                "logo":null,
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/842445123/",
+                "id":"842445123",
+                "name":"::THE ARISTOCRATS::",
+                "url":"http://www.eventbrite.com/o/the-aristocrats-842445123",
+                "num_past_events":66,
+                "num_future_events":0
+            },
+            "venue":{
+                "address":{
+                    "address_1":"719 Main St",
+                    "address_2":null,
+                    "city":"Houston",
+                    "region":"texas",
+                    "postal_code":"77003",
+                    "country":null,
+                    "latitude":"29.7586",
+                    "longitude":"-95.3634"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/5185501/",
+                "id":"5185501",
+                "name":"VENUE",
+                "latitude":"29.7586",
+                "longitude":"-95.3634"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/103/",
+                "id":"103",
+                "name":"Music",
+                "name_localized":"Music",
+                "short_name":"Music",
+                "short_name_localized":"Music"
+            },
+            "subcategory":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/subcategories/3008/",
+                "id":"3008",
+                "name":"Hip Hop / Rap"
+            },
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/11/",
+                "id":"11",
+                "name":"Party or Social Gathering",
+                "name_localized":"Party or Social Gathering",
+                "short_name":"Party",
+                "short_name_localized":"Party"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/9923920714/ticket_classes/22668475/",
+                    "id":"22668475",
+                    "name":"EVERYBODY FREE TIL 11PM",
+                    "description":null,
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":1,
+                    "event_id":"9923920714"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/14616084101/",
+            "name":{
+                "text":"MI Brewers Guild 10th Annual Winter Beer Festival - Feb. 27 & 28, 2015",
+                "html":"MI Brewers Guild 10th Annual Winter Beer Festival - Feb. 27 & 28, 2015"
+            },
+            "description":{
+                "text":"Join us February 27 & 28 at Fifth Third Ballpark in Comstock Park, just north of Grand Rapids, to celebrate the 10th anniversary of the most popular Michigan Brewers Guild festival. The newly-expanded event will feature over 90 Michigan breweries and more than 800 craft beers, as well as local music, ice sculptures and carving demonstrations, fire pits to chase away the cold, and food available for purchase. \nFAQs \nIs this an outdoor event? \nYes! This festival takes place outdoors. In February. In Michigan. Please make wardrobe choices accordingly. \n  \nAre there ID requirements or an age limit to enter the event? \nAll festival attendees must be 21 or older to enter, even if they are designated drivers and are not drinking. A valid government ID is required for festival entry, with NO exceptions. \n  \nWhere do I pick up my tokens? \nYou can pick up tokens from the token tent immediately after entering the festival. \n  \nWhy do I need to use tokens if I already paid for a ticket? \nThe Michigan Brewers Guild utilizes drink tokens and specially marked cups to assure that we comply with Michigan Liquor Control Commission regulation and have a controlled means of serving beer. All festivals attendees are expected to willingly provide a token for each and every sample of beer received. Thank you for your cooperation which keeps us in compliance with state law. \n  \nWhat are my transport/parking options getting to the event? \nParking will be available at Fifth Third Ballpark. There will also be a shuttle (reservations required) running from several area hotels as well as downtown. More shuttle information will be posted to our website at www.mibeer.com/winter-festival as it becomes available - or visit Experience Grand Rapids for more details. \n  \nWhat can/can't I bring to the event? \nThe following items are not permitted on festival grounds: outside alcohol, glass containers, children, animals, bicycles, skateboards, or rollerskates/rollerblades. \nYou may bring any of the following items with you to the festival: water and other non-alcoholic beverages in non-glass containers, food, coolers, hydration backpacks, folding/camping chairs. \n  \nIs my registration/ticket transferrable? How do I transfer my ticket to another attendee? \nYes, tickets are transferrable - but each bar code will only scan one time. You do not need to do anything special to transfer your ticket to another attendee's name. Purchaser name will not be checked against ID-holder name at the gate. \n  \nDo I have to bring my printed ticket to the event? \nYou must bring a ticket with you to be scanned to allow you entry to the festival. This ticket can either be printed or be the electronic version accessible on your smartphone or wireless device. \n  \nHow can I get early admission to the event? \nEnthusiasts with valid membership ID card and VIPs with valid VIP pass will be permitted into the festival early (2pm Friday / noon Saturday), one hour prior to general admission. If you'd like to participate in early entry, you can sign up as an Enthusiast Member prior to the festival date. \n  \nWhat is the refund policy? \nTickets are non-refundable. The festival will occur rain (or snow) or shine. \n  \nCan I buy a Designated Driver ticket and then buy tokens for drinks if I change my mind? \nNo. Servers will not pour beer to Designated Drivers, and anyone caught drinking on a Designated Driver ticket will be immediately ejected from the festival. \n  \nWhere can I find more information about the festival? \nFor the most current information, visit our website at www.mibeer.com/winter-festival.",
+                "html":"<P>Join us February 27 &amp; 28 at Fifth Third Ballpark in Comstock Park, just north of Grand Rapids, to celebrate the 10th anniversary of the most popular Michigan Brewers Guild festival. The newly-expanded event will feature over 90 Michigan breweries and more than 800 craft beers, as well as local music, ice sculptures and carving demonstrations, fire pits to chase away the cold, and food available for purchase.</P>\r\n<P><STRONG>FAQs</STRONG></P>\r\n<P><STRONG>Is this an outdoor event?</STRONG></P>\r\n<P>Yes! This festival takes place outdoors. In February. In Michigan. Please make wardrobe choices accordingly.</P>\r\n<P> </P>\r\n<P><STRONG>Are there ID requirements or an age limit to enter the event?</STRONG></P>\r\n<P>All festival attendees must be 21 or older to enter, even if they are designated drivers and are not drinking. A valid government ID is required for festival entry, with NO exceptions.</P>\r\n<P><STRONG> </STRONG></P>\r\n<P><STRONG>Where do I pick up my tokens?</STRONG></P>\r\n<P>You can pick up tokens from the token tent immediately after entering the festival.</P>\r\n<P> </P>\r\n<P><STRONG>Why do I need to use tokens if I already paid for a ticket?</STRONG></P>\r\n<P>The Michigan Brewers Guild utilizes drink tokens and specially marked cups to assure that we comply with Michigan Liquor Control Commission regulation and have a controlled means of serving beer. All festivals attendees are expected to willingly provide a token for each and every sample of beer received. Thank you for your cooperation which keeps us in compliance with state law.</P>\r\n<P> </P>\r\n<P><STRONG>What are my transport/parking options getting to the event?</STRONG></P>\r\n<P>Parking will be available at Fifth Third Ballpark. There will also be a shuttle (reservations required) running from several area hotels as well as downtown. More shuttle information will be posted to our website at <A TITLE=\"Winter Festival information\" HREF=\"http://www.mibeer.com/winter-festival\" TARGET=\"_blank\" REL=\"nofollow\">www.mibeer.com/winter-festival</A> as it becomes available - or visit <A TITLE=\"Experience Grand Rapids\" HREF=\"http://www.experiencegr.com/?gclid=CNik8P3blsICFePyMgodvVUAaA\" TARGET=\"_blank\" REL=\"nofollow\">Experience Grand Rapids</A> for more details.</P>\r\n<P> </P>\r\n<P><STRONG>What can/can't I bring to the event?</STRONG></P>\r\n<P>The following items are not permitted on festival grounds: outside alcohol, glass containers, children, animals, bicycles, skateboards, or rollerskates/rollerblades.</P>\r\n<P>You may bring any of the following items with you to the festival: water and other non-alcoholic beverages in non-glass containers, food, coolers, hydration backpacks, folding/camping chairs.</P>\r\n<P> </P>\r\n<P><STRONG>Is my registration/ticket transferrable? How do I transfer my ticket to another attendee?</STRONG></P>\r\n<P>Yes, tickets are transferrable - but each bar code will only scan one time. You do not need to do anything special to transfer your ticket to another attendee's name. Purchaser name will not be checked against ID-holder name at the gate.</P>\r\n<P><STRONG></STRONG> </P>\r\n<P><STRONG>Do I have to bring my printed ticket to the event?</STRONG></P>\r\n<P>You must bring a ticket with you to be scanned to allow you entry to the festival. This ticket can either be printed or be the electronic version accessible on your smartphone or wireless device.</P>\r\n<P> </P>\r\n<P><STRONG>How can I get early admission to the event?</STRONG></P>\r\n<P>Enthusiasts with valid membership ID card and VIPs with valid VIP pass will be permitted into the festival early (2pm Friday / noon Saturday), one hour prior to general admission. If you'd like to participate in early entry, you can <A TITLE=\"Enthusiast Membership information\" HREF=\"http://www.mibeer.com/enthusiast-membership\" TARGET=\"_blank\" REL=\"nofollow\">sign up as an Enthusiast Member</A> prior to the festival date.</P>\r\n<P> </P>\r\n<P><STRONG>What is the refund policy?</STRONG></P>\r\n<P>Tickets are non-refundable. The festival will occur rain (or snow) or shine.</P>\r\n<P> </P>\r\n<P><STRONG>Can I buy a Designated Driver ticket and then buy tokens for drinks if I change my mind?</STRONG></P>\r\n<P>No. Servers will not pour beer to Designated Drivers, and anyone caught drinking on a Designated Driver ticket will be immediately ejected from the festival.</P>\r\n<P> </P>\r\n<P><STRONG>Where can I find more information about the festival?</STRONG></P>\r\n<P>For the most current information, visit our website at <A TITLE=\"Winter Festival info\" HREF=\"http://www.mibeer.com/winter-festival\" TARGET=\"_blank\" REL=\"nofollow\">www.mibeer.com/winter-festival</A>.</P>"
+            },
+            "logo":{
+                "id":"11732239",
+                "url":"http://cdn.evbuc.com/images/11732239/58481332663/1/logo.jpg"
+            },
+            "id":"14616084101",
+            "url":"http://www.eventbrite.com/e/mi-brewers-guild-10th-annual-winter-beer-festival-feb-27-28-2015-tickets-14616084101?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/11732239/58481332663/1/logo.jpg",
+            "start":{
+                "timezone":"America/New_York",
+                "local":"2015-02-27T15:00:00",
+                "utc":"2015-02-27T20:00:00Z"
+            },
+            "end":{
+                "timezone":"America/New_York",
+                "local":"2015-02-28T13:00:00",
+                "utc":"2015-02-28T18:00:00Z"
+            },
+            "created":"2014-11-25T21:57:20Z",
+            "changed":"2015-02-24T03:06:38Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"3687872659",
+            "venue_id":"9203167",
+            "category_id":"110",
+            "subcategory_id":"10001",
+            "format_id":"5",
+            "organizer":{
+                "description":null,
+                "logo":{
+                    "id":"1880701",
+                    "url":"http://cdn.evbuc.com/images/1880701/59615150215/1/logo.jpg"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/3687872659/",
+                "id":"3687872659",
+                "name":"Michigan Brewers Guild",
+                "url":"http://www.eventbrite.com/o/michigan-brewers-guild-3687872659",
+                "num_past_events":7,
+                "num_future_events":1
+            },
+            "venue":{
+                "address":{
+                    "address_1":"4500 West River Dr NE",
+                    "address_2":null,
+                    "city":"Plainfield Township",
+                    "region":"MI",
+                    "postal_code":"49321",
+                    "country":"US",
+                    "latitude":"43.040754",
+                    "longitude":"-85.65934300000004"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/9203167/",
+                "id":"9203167",
+                "name":"Fifth Third Ballpark",
+                "latitude":"43.040754",
+                "longitude":"-85.65934300000004"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/110/",
+                "id":"110",
+                "name":"Food & Drink",
+                "name_localized":"Food & Drink",
+                "short_name":"Food & Drink",
+                "short_name_localized":"Food & Drink"
+            },
+            "subcategory":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/subcategories/10001/",
+                "id":"10001",
+                "name":"Beer"
+            },
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/5/",
+                "id":"5",
+                "name":"Festival or Fair",
+                "name_localized":"Festival or Fair",
+                "short_name":"Festival",
+                "short_name_localized":"Festival"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14616084101/ticket_classes/31477099/",
+                    "id":"31477099",
+                    "name":"FRIDAY session - Feb. 27, 3pm-7pm",
+                    "description":"Includes 15 taster tokens (to be picked up at event); must be 21 or older with ID for entry. Tickets are non-refundable; event will occur regardless of weather conditions. Festival will be held outside, so plan appropriately. Early admission for VIP/Enthusiast begins at 2pm Friday. Must have valid Enthusiast membership card or VIP pass to enter early.",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$45.00",
+                        "value":4500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$4.00",
+                        "value":400
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":2,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14616084101"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14616084101/ticket_classes/31509223/",
+                    "id":"31509223",
+                    "name":"SATURDAY session - Feb. 28, 1pm-6pm",
+                    "description":"Includes 15 taster tokens (to be picked up at event); must be 21 or older with ID for entry. Tickets are non-refundable; event will occur regardless of weather conditions. Festival will be held outside, so plan appropriately. Early admission for VIP/Enthusiast begins at noon on Saturday. Must have valid Enthusiast membership card or VIP pass to enter early.",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$45.00",
+                        "value":4500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$4.00",
+                        "value":400
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":2,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14616084101"
+                },
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/14616084101/ticket_classes/31509945/",
+                    "id":"31509945",
+                    "name":"DESIGNATED DRIVER; Friday session - Feb. 27, 3pm-7pm",
+                    "description":"Non-drinking ticket only. All guests must be 21 or older with ID for entry. Tickets are non-refundable; event will occur regardless of weather conditions. Festival will be held outside, so plan appropriately. Early admission for VIP/Enthusiast begins at 2pm Friday. Must have valid Enthusiast membership card or VIP pass to enter early.",
+                    "cost":{
+                        "currency":"USD",
+                        "display":"$5.00",
+                        "value":500
+                    },
+                    "fee":{
+                        "currency":"USD",
+                        "display":"$2.00",
+                        "value":200
+                    },
+                    "donation":false,
+                    "free":false,
+                    "minimum_quantity":1,
+                    "maximum_quantity":1,
+                    "variants":[
+                        
+                    ],
+                    "event_id":"14616084101"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/15522368823/",
+            "name":{
+                "text":"The IFC Fairgrounds",
+                "html":"The IFC Fairgrounds"
+            },
+            "description":{
+                "text":"The IFC Fairgrounds returns to SXSW for 3 days in 2015: \nThursday, March 19th from 4 - 10 PM \nFriday, March 20th from 4 - 10 PM \nSaturday, March 21st from 4 - 10 PM  \n  \nPart state fair, part carnival, this outdoor music event features some of the most buzzed-about bands at SXSW performing alongside rides, food, carnival games and kick-ass giveaways. Sound awesome? Yeah, we know.  \n  \nFeaturing performances by: \nTwin Peaks \nRubblebucket \nJukebox the Ghost \nColony House \nOdesza \nPriory \nX Ambassadors \nRobert DeLong \nHOLYCHILD \nSun Club \nCOIN \n... and more to be announced shortly!  \n  \nOther Highlights Include: \nGrub from your favorite Austin-based food trucks \nGiant Three-story Fun Slide  \nMechanical Bull  \nAirstream Photo Trailer \nHuman Sticky Wall \nGame Shack \nPool Lounge  \n  \nThe IFC Fairgrounds is  open to everyone. So set your calendar reminders, grab your friends and RSVP now!  \n  \nKeep Checking IFC.com/SXSW for updates and the full artist lineup!",
+                "html":"<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva;\"><SPAN STYLE=\"font-size: medium;\">The IFC Fairgrounds returns to SXSW for 3 days in 2015:</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva;\"><SPAN STYLE=\"font-size: medium;\">Thursday, March 19th from 4 - 10 PM</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva;\"><SPAN STYLE=\"font-size: medium;\">Friday, March 20th from 4 - 10 PM</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva;\"><SPAN STYLE=\"font-size: medium;\">Saturday, March 21st from 4 - 10 PM<BR></SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva;\"><SPAN STYLE=\"font-size: medium;\"><BR></SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Part state fair, part carnival, this outdoor music event features some of the most buzzed-about bands at SXSW performing alongside rides, food, carnival games and kick-ass giveaways. Sound awesome? Yeah, we know. </SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\"><BR></SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Featuring performances by:</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Twin Peaks</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Rubblebucket</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Jukebox the Ghost</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Colony House</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Odesza</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Priory</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">X Ambassadors</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Robert DeLong</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">HOLYCHILD</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Sun Club</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">COIN</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">... and more to be announced shortly!<BR></SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\"> </SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Other Highlights Include:</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Grub from your favorite Austin-based food trucks</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Giant Three-story Fun Slide </SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Mechanical Bull </SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Airstream Photo Trailer</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Human Sticky Wall</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Game Shack</SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">Pool Lounge<BR></SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\"> </SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\">The IFC Fairgrounds is  open to everyone. So set your calendar reminders, grab your friends and RSVP now! </SPAN></SPAN></P>\r\n<P STYLE=\"margin: 0in 0in 0pt;\"><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; mso-fareast-font-family: 'Times New Roman';\"><SPAN STYLE=\"font-size: medium;\"> </SPAN></SPAN></P>\r\n<P><SPAN STYLE=\"color: #000000; font-family: verdana,geneva; font-size: 12pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Keep Checking IFC.com/SXSW for updates and the full artist lineup!</SPAN></P>"
+            },
+            "logo":{
+                "id":"12229237",
+                "url":"http://cdn.evbuc.com/images/12229237/11606767595/2/logo.png"
+            },
+            "id":"15522368823",
+            "url":"http://www.eventbrite.com/e/the-ifc-fairgrounds-tickets-15522368823?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/12229237/11606767595/2/logo.png",
+            "start":{
+                "timezone":"America/Chicago",
+                "local":"2015-03-19T16:00:00",
+                "utc":"2015-03-19T21:00:00Z"
+            },
+            "end":{
+                "timezone":"America/Chicago",
+                "local":"2015-03-21T22:00:00",
+                "utc":"2015-03-22T03:00:00Z"
+            },
+            "created":"2015-01-27T19:33:30Z",
+            "changed":"2015-02-17T22:57:13Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"7901125414",
+            "venue_id":"9667343",
+            "category_id":"103",
+            "subcategory_id":null,
+            "format_id":"11",
+            "organizer":{
+                "description":null,
+                "logo":null,
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/7901125414/",
+                "id":"7901125414",
+                "name":"IFC",
+                "url":"http://www.eventbrite.com/o/ifc-7901125414",
+                "num_past_events":0,
+                "num_future_events":1
+            },
+            "venue":{
+                "address":{
+                    "address_1":"Corner of E 3rd St & Red River Rd",
+                    "address_2":null,
+                    "city":"Austin",
+                    "region":"TX",
+                    "postal_code":"78701",
+                    "country":"US",
+                    "latitude":"30.2636657",
+                    "longitude":"-97.7382321"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/9667343/",
+                "id":"9667343",
+                "name":"Palm Park",
+                "latitude":"30.2636657",
+                "longitude":"-97.7382321"
+            },
+            "category":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/categories/103/",
+                "id":"103",
+                "name":"Music",
+                "name_localized":"Music",
+                "short_name":"Music",
+                "short_name_localized":"Music"
+            },
+            "subcategory":null,
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/11/",
+                "id":"11",
+                "name":"Party or Social Gathering",
+                "name_localized":"Party or Social Gathering",
+                "short_name":"Party",
+                "short_name_localized":"Party"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15522368823/ticket_classes/33212363/",
+                    "id":"33212363",
+                    "name":"RSVP",
+                    "description":null,
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "event_id":"15522368823"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/15277129305/",
+            "name":{
+                "text":"FIRST STEPS Homes Show Spring 2015 hosted by Share to Buy",
+                "html":"FIRST STEPS Homes Show Spring 2015 hosted by Share to Buy"
+            },
+            "description":{
+                "text":"FIRST STEPS Homes Show Spring 2015 \n  \nJoin us a the FIRST STEPS Homes Show Spring 2015 hosted by Share to Buy, on Saturday 14th March 2015. The Homes Show is the major event for first time buyers in London. Attending the event is the best way to get all the latest information on the affordable home ownership market in the capital. \n  \nThe FIRST STEPS Homes Show is FREE to attend and takes place at the Queen Elizabeth II Conference Centre, Westminster, from 10am - 5pm. This is a drop-in event, you are not required to be there all day. This is a ticket only event. \n  \nFIRST STEPS is The Mayor of London's affordable home ownership scheme and aims to help Londoners onto the property ladder. \n  \nAt the show will be: \n\nThe major providers of affordable home ownership in London, with details of a range of available properties across the capital\nMajor developers of Shared Ownership including L&Q, Moat Homes and East Thames\nExpert advice from Help to Buy London and Countryside\nOne-on-one sessions with mortgage experts, including TMP Sherwins\nSpecialist solicitors on hand to take your enquiries about the buying process\n\n  \nEvent details: \n  \n\nFIRST STEPS Homes Show Spring 2015\n14th March 2015, 10am – 5pm.\nQueen Elizabeth II Conference Centre, Broad Sanctuary, Westminster, SW1P 3EE\n\nTweet us @sharetobuy or use #FIRSTSTEPS2015 \nHosted by \n \nwww.sharetobuy.com/firststeps \nLike us on Facebook for regular updates on the FIRST STEPS Homes Show Spring 2015 \n  \nOur Sponsors",
+                "html":"<P><SPAN STYLE=\"font-family: helvetica;\"><STRONG><SPAN STYLE=\"font-size: 11pt;\"><IMG STYLE=\"display: block; margin-left: auto; margin-right: auto;\" SRC=\"https://evbdn.eventbrite.com/s3-s3/eventlogos/62842955/firststepscyancopy28229.jpg\" ALT=\"\" WIDTH=\"500\" HEIGHT=\"95\"></SPAN></STRONG></SPAN></P>\r\n<P> </P>\r\n<P STYLE=\"text-align: center;\"><SPAN STYLE=\"font-family: helvetica; font-size: large;\"><STRONG>FIRST STEPS Homes Show Spring 2015</STRONG></SPAN></P>\r\n<P><SPAN STYLE=\"font-size: 11pt; font-family: helvetica;\"><BR></SPAN></P>\r\n<P><SPAN STYLE=\"font-size: 11pt; font-family: helvetica;\">Join us a the FIRST STEPS Homes Show Spring 2015 hosted by Share to Buy, on <STRONG>Saturday 14th March 2015</STRONG>. The Homes Show is the major event for first time buyers in London. Attending the event is the best way to get all the latest information on the affordable home ownership market in the capital.</SPAN></P>\r\n<P><SPAN STYLE=\"font-size: 11pt; font-family: helvetica;\"><BR></SPAN></P>\r\n<P><SPAN STYLE=\"font-size: 11pt; font-family: helvetica;\">The FIRST STEPS Homes Show is <STRONG>FREE</STRONG> to attend and takes place at the <STRONG>Queen Elizabeth II Conference Centre, Westminster, from 10am - 5pm</STRONG>. This is a drop-in event, you are not required to be there all day. <STRONG>This is a ticket only event.</STRONG></SPAN></P>\r\n<P><SPAN STYLE=\"font-size: 11pt; font-family: helvetica;\"><STRONG><BR></STRONG></SPAN></P>\r\n<P><SPAN STYLE=\"font-size: 11pt; font-family: helvetica;\">FIRST STEPS is <STRONG>The Mayor of London's</STRONG> affordable home ownership scheme and aims to help Londoners onto the property ladder.</SPAN></P>\r\n<P><SPAN STYLE=\"font-size: 11pt; font-family: helvetica;\"><BR></SPAN></P>\r\n<P><SPAN STYLE=\"font-size: 11pt; font-family: helvetica;\">At the show will be:</SPAN></P>\r\n<UL>\r\n<LI><STRONG STYLE=\"font-family: helvetica;\"><SPAN STYLE=\"font-size: 11pt;\">The major providers of affordable home ownership in London, with details of a range of available properties across the capital</SPAN></STRONG></LI>\r\n<LI><SPAN STYLE=\"font-family: helvetica;\"><SPAN STYLE=\"font-size: 15px;\"><STRONG>Major developers of Shared Ownership including L&Q, Moat Homes and East Thames</STRONG></SPAN></SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: helvetica;\"><SPAN STYLE=\"font-size: 15px;\"><STRONG>Expert advice from Help to Buy London and Countryside</STRONG></SPAN></SPAN></LI>\r\n<LI><STRONG STYLE=\"font-family: helvetica;\"><SPAN STYLE=\"font-size: 11pt;\">One-on-one sessions with mortgage experts, including TMP Sherwins</SPAN></STRONG></LI>\r\n<LI><STRONG STYLE=\"font-family: helvetica;\"><SPAN STYLE=\"font-size: 11pt;\">Specialist solicitors on hand to take your enquiries about the buying process</SPAN></STRONG></LI>\r\n</UL>\r\n<P><STRONG><SPAN STYLE=\"font-size: 11pt; font-family: helvetica;\"><BR></SPAN></STRONG></P>\r\n<P><STRONG><SPAN STYLE=\"font-size: 11pt; font-family: helvetica;\">Event details:</SPAN></STRONG></P>\r\n<P><STRONG><SPAN STYLE=\"font-size: 11pt; font-family: helvetica;\"><BR></SPAN></STRONG></P>\r\n<UL>\r\n<LI><SPAN STYLE=\"font-family: helvetica; font-size: 11pt;\">FIRST STEPS Homes Show Spring 2015</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: helvetica; font-size: 11pt;\">14th March 2015, 10am – 5pm.</SPAN></LI>\r\n<LI><SPAN STYLE=\"font-family: helvetica; font-size: 11pt;\">Queen Elizabeth II Conference Centre, Broad Sanctuary, Westminster, SW1P 3EE</SPAN></LI>\r\n</UL>\r\n<P>Tweet us @sharetobuy or use #FIRSTSTEPS2015</P>\r\n<P><SPAN STYLE=\"font-family: helvetica;\"><STRONG>Hosted by</STRONG></SPAN></P>\r\n<P><IMG TITLE=\"Share to buy\" SRC=\"https://evbdn.eventbrite.com/s3-s3/eventlogos/62842955/s2blogo28229-2.jpg\" ALT=\"Share to buy\" WIDTH=\"388\" HEIGHT=\"44\"></P>\r\n<P><A TITLE=\"Share to buy FIRST STEPS\" HREF=\"https://www.sharetobuy.com/firststeps\" TARGET=\"_blank\" REL=\"nofollow\"><STRONG>www.sharetobuy.com/firststeps</STRONG></A></P>\r\n<P><A HREF=\"https://www.facebook.com/ShareToBuy\" TARGET=\"_blank\" REL=\"nofollow\">Like us on Facebook</A> for regular updates on the FIRST STEPS Homes Show Spring 2015</P>\r\n<P><SPAN STYLE=\"font-family: helvetica;\"><STRONG><BR></STRONG></SPAN></P>\r\n<P><SPAN STYLE=\"font-family: helvetica;\"><STRONG>Our Sponsors</STRONG></SPAN></P>\r\n<!-- Sponsors table 1 -->\r\n<TABLE BORDER=\"0\" CELLSPACING=\"0\" CELLPADDING=\"0\">\r\n<TBODY>\r\n<TR>\r\n<TD><A HREF=\"http://www.lqgroup.org.uk/pricedin/\" TARGET=\"_blank\" REL=\"nofollow\"><IMG STYLE=\"border: none;\" SRC=\"http://info.sharetobuy.com/images/admin/event2/landq.gif\" ALT=\"L & Q Group\" WIDTH=\"157\" HEIGHT=\"106\"></A></TD>\r\n<TD><A HREF=\"https://moathomes.co.uk/\" TARGET=\"_blank\" REL=\"nofollow\"><IMG STYLE=\"border: none;\" TITLE=\"Moat Homes\" SRC=\"http://info.sharetobuy.com/images/admin/event2/moat.gif\" ALT=\"\" WIDTH=\"218\" HEIGHT=\"106\"></A></TD>\r\n<TD><A HREF=\"http://www.east-thames.co.uk/buy-or-rent-a-home\" TARGET=\"_blank\" REL=\"nofollow\"><IMG STYLE=\"border: none;\" SRC=\"http://info.sharetobuy.com/images/admin/event2/eastthames.gif\" ALT=\"East Thames\" WIDTH=\"195\" HEIGHT=\"106\"></A></TD>\r\n</TR>\r\n</TBODY>\r\n</TABLE>\r\n<!-- Sponsors table 2 -->\r\n<TABLE BORDER=\"0\" CELLSPACING=\"0\" CELLPADDING=\"0\">\r\n<TBODY>\r\n<TR>\r\n<TD><A HREF=\"http://www.countryside-properties.com/\" TARGET=\"_blank\" REL=\"nofollow\"><IMG STYLE=\"border: none;\" SRC=\"http://info.sharetobuy.com/images/admin/event2/countryside.gif\" ALT=\"Countryside Places People Love\" WIDTH=\"190\" HEIGHT=\"142\"></A></TD>\r\n<TD><A HREF=\"http://www.helptobuylondon.co.uk/\" TARGET=\"_blank\" REL=\"nofollow\"><IMG STYLE=\"border: none;\" TITLE=\"Help to Buy\" SRC=\"http://info.sharetobuy.com/images/admin/event2/helptobuy.gif\" ALT=\"\" WIDTH=\"156\" HEIGHT=\"142\"></A></TD>\r\n<TD><A HREF=\"http://www.thatmortgageplace.co.uk/\" TARGET=\"_blank\" REL=\"nofollow\"><IMG STYLE=\"border: none;\" SRC=\"http://info.sharetobuy.com/images/admin/event2/tmpsherwins.gif\" ALT=\"TMP Sherwins\" WIDTH=\"224\" HEIGHT=\"142\"></A></TD>\r\n</TR>\r\n</TBODY>\r\n</TABLE>\r\n<!-- END CONTENT TABLE -->"
+            },
+            "logo":{
+                "id":"12093773",
+                "url":"http://cdn.evbuc.com/images/12093773/63282855685/1/logo.jpg"
+            },
+            "id":"15277129305",
+            "url":"http://www.eventbrite.co.uk/e/first-steps-homes-show-spring-2015-hosted-by-share-to-buy-tickets-15277129305?aff=ebapi",
+            "logo_url":"http://cdn.evbuc.com/images/12093773/63282855685/1/logo.jpg",
+            "start":{
+                "timezone":"Europe/London",
+                "local":"2015-03-14T10:00:00",
+                "utc":"2015-03-14T10:00:00Z"
+            },
+            "end":{
+                "timezone":"Europe/London",
+                "local":"2015-03-14T17:00:00",
+                "utc":"2015-03-14T17:00:00Z"
+            },
+            "created":"2015-01-12T18:20:05Z",
+            "changed":"2015-01-19T09:31:53Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"4304855517",
+            "venue_id":"5549773",
+            "category_id":null,
+            "subcategory_id":null,
+            "format_id":"3",
+            "organizer":{
+                "description":null,
+                "logo":null,
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/4304855517/",
+                "id":"4304855517",
+                "name":"Share to Buy",
+                "url":"http://www.eventbrite.com/o/share-to-buy-4304855517",
+                "num_past_events":3,
+                "num_future_events":1
+            },
+            "venue":{
+                "address":{
+                    "address_1":"Broad Sanctuary",
+                    "address_2":"Westminster",
+                    "city":"London",
+                    "region":"Gt Lon",
+                    "postal_code":"SW1P 3EE",
+                    "country":"GB",
+                    "latitude":"51.5001075",
+                    "longitude":"-0.12806209999996554"
+                },
+                "resource_uri":"https://www.eventbriteapi.com/v3/venues/5549773/",
+                "id":"5549773",
+                "name":"Queen Elizabeth II Conference Centre",
+                "latitude":"51.5001075",
+                "longitude":"-0.12806209999996554"
+            },
+            "category":null,
+            "subcategory":null,
+            "format":{
+                "resource_uri":"https://www.eventbriteapi.com/v3/formats/3/",
+                "id":"3",
+                "name":"Tradeshow, Consumer Show, or Expo",
+                "name_localized":"Tradeshow, Consumer Show, or Expo",
+                "short_name":"Expo",
+                "short_name_localized":"Expo"
+            },
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/15277129305/ticket_classes/32740152/",
+                    "id":"32740152",
+                    "name":"FIRST STEPS Homes Show Spring 2015",
+                    "description":null,
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":4,
+                    "event_id":"15277129305"
+                }
+            ]
+        },
+        {
+            "resource_uri":"https://www.eventbriteapi.com/v3/events/12958540343/",
+            "name":{
+                "text":"Random F000010",
+                "html":"Random F000010"
+            },
+            "description":null,
+            "logo":null,
+            "id":"12958540343",
+            "url":"http://random-f000010-ticket.eventbrite.com/?aff=ebapi",
+            "logo_url":null,
+            "start":{
+                "timezone":"America/Los_Angeles",
+                "local":"2016-07-08T19:00:00",
+                "utc":"2016-07-09T02:00:00Z"
+            },
+            "end":{
+                "timezone":"America/Los_Angeles",
+                "local":"2016-07-08T22:00:00",
+                "utc":"2016-07-09T05:00:00Z"
+            },
+            "created":"2014-09-04T18:16:46Z",
+            "changed":"2014-12-29T20:08:24Z",
+            "capacity":null,
+            "status":"live",
+            "currency":null,
+            "online_event":null,
+            "organizer_id":"6707134577",
+            "venue_id":null,
+            "category_id":null,
+            "subcategory_id":null,
+            "format_id":null,
+            "organizer":{
+                "description":null,
+                "logo":null,
+                "resource_uri":"https://www.eventbriteapi.com/v3/organizers/6707134577/",
+                "id":"6707134577",
+                "name":null,
+                "url":"http://www.eventbrite.com/o/6707134577",
+                "num_past_events":0,
+                "num_future_events":8
+            },
+            "venue":null,
+            "category":null,
+            "subcategory":null,
+            "format":null,
+            "ticket_classes":[
+                {
+                    "resource_uri":"https://www.eventbriteapi.com/v3/events/12958540343/ticket_classes/28429751/",
+                    "id":"28429751",
+                    "name":"Test",
+                    "description":null,
+                    "donation":false,
+                    "free":true,
+                    "minimum_quantity":1,
+                    "maximum_quantity":null,
+                    "event_id":"12958540343"
+                }
+            ]
+        }
+    ]
+}

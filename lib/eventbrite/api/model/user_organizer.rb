@@ -1,9 +1,9 @@
 module Eventbrite
   module Api
     module Model
-      class Order < Base
+      class UserOrganizer < Base
       	def model_route
-          'orders'
+          'users/:user_id/organizer'
         end
       end
     end

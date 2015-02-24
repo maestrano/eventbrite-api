@@ -13,6 +13,11 @@ module Eventbrite
         model :Venue
         model :Organizer
         model :Order
+        model :Event
+        model :EventTicketClass
+        model :UserOrder
+        model :UserVenue
+        model :UserOrganizer
         model :OwnedEvent
         model :OwnedEventAttendee
         model :OwnedEventOrder
