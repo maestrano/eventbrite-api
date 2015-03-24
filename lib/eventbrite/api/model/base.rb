@@ -21,7 +21,7 @@ module Eventbrite
         end
 
         def find(id)
-          self.get(opts, id)
+          self.get({}, id)
         end
 
         def create(object, opts={})
