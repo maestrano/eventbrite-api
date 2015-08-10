@@ -9,8 +9,8 @@ describe Eventbrite::Api::Model::Event do
   
   describe ".event.search" do 
     let(:events_page1_response) { File.read('spec/fixtures/events_page1.json') }
-    let(:events_page2_response) { File.read('spec/fixtures/events_page1.json') }
-    let(:events_page3_response) { File.read('spec/fixtures/events_page1.json') }
+    let(:events_page2_response) { File.read('spec/fixtures/events_page2.json') }
+    let(:events_page3_response) { File.read('spec/fixtures/events_page3.json') }
 
     before { stub_request(:get, "https://www.eventbriteapi.com/v3/events/search").to_return(:status => 200, :body => events_page1_response, :headers => {}) }
     before { stub_request(:get, "https://www.eventbriteapi.com/v3/events/search?page=2").to_return(:status => 200, :body => events_page2_response, :headers => {}) }

@@ -35,18 +35,18 @@ module Eventbrite
         def all(opts)
           all_pages = get(opts)
           while @pagination && @pagination['page_number'] < @pagination['page_count']
-            all_pages.deep_merge!(next_page(opts))
+            all_pages = all_pages.deep_merge(next_page(opts))
           end
           all_pages
         end
 
         def next_page(opts={})
-          opts['params'] = [{'page'=>@pagination['page_number']+1}]
+          opts['params'] = {'page'=>@pagination['page_number']+1}
           get(opts, @endpoint)
         end
 
         def previous_page(opts={})
-          opts['params'] = [{'page'=>@pagination['page_number']-1}]
+          opts['params'] = {'page'=>@pagination['page_number']-1}
           get(opts, @endpoint)
         end
 
@@ -59,9 +59,8 @@ protected
           else
             target = resource_url(opts)
           end
-
-          if opts[:params]
-            params = opts[:params].map { |k,v| "#{k}=#{v}" }.join('&')
+          if opts['params']
+            params = opts['params'].map { |k,v| "#{k}=#{v}" }.join('&')
             target = "#{target}?#{params}"
           end
           target
