@@ -17,6 +17,7 @@ module Eventbrite
         model :Category
         model :Format
         model :EventTicketClass
+        model :UserContact
         model :UserContactList
         model :UserOrder
         model :UserVenue
