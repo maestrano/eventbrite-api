@@ -6,7 +6,7 @@ module Eventbrite
         def initialize(client, model_name=nil)
           @client          = client
           @model_name      = model_name || 'Base'
-          
+
           @pagination = nil
           @endpoint = nil
         end
@@ -35,7 +35,7 @@ module Eventbrite
         def all(opts)
           all_pages = get(opts)
           while @pagination && @pagination['page_number'] < @pagination['page_count']
-            all_pages = all_pages.deep_merge(next_page(opts))
+            all_pages = all_pages.deeper_merge(next_page(opts))
           end
           all_pages
         end
@@ -65,13 +65,13 @@ protected
           end
           target
         end
-        
+
         def resource_url(opts={})
           target = "https://www.eventbriteapi.com/v3/#{model_route}"
           opts.each { |k,v| target.gsub!(":#{k}", v) if v.is_a?(String) } unless opts.empty?
           target
         end
-        
+
         def perform_request(target)
           response = @client.connection.get(target, {:headers => @client.headers})
           hash = JSON.parse(response.body)
