@@ -17,6 +17,8 @@ module Eventbrite
         model :Category
         model :Format
         model :EventTicketClass
+        model :UserContact
+        model :UserContactList
         model :UserOrder
         model :UserVenue
         model :UserOrganizer
@@ -27,7 +29,7 @@ module Eventbrite
         @redirect_uri         = options[:redirect_uri]
         @consumer             = options[:consumer]
         @access_token         = options[:access_token]
-        
+
         @client               = OAuth2::Client.new(@consumer[:key], @consumer[:secret], {
           :site          => 'https://www.eventbrite.com',
           :authorize_url => '/oauth/authorize',
