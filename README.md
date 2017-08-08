@@ -1,7 +1,7 @@
 eventbrite-api
 ===============
 
-[![Build Status](https://secure.travis-ci.org/BrunoChauvet/eventbrite-api.png?branch=master)](http://travis-ci.org/BrunoChauvet/eventbrite-api)
+[![Build Status](https://secure.travis-ci.org/maestrano/eventbrite-api.png?branch=master)](http://travis-ci.org/maestrano/eventbrite-api)
 
 ## Eventbrite API client
 
