@@ -14,6 +14,7 @@ module Eventbrite
         model :Organizer
         model :Order
         model :Event
+        model :Attendee
         model :Category
         model :Format
         model :EventTicketClass
